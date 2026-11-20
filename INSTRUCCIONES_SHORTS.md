@@ -43,7 +43,7 @@ La marca de cada canal (perfil 800×800 y banners de 2560×1440 y de 4096×2304 
   - abajo, la firma del @ del canal;
   - se genera sola en la producción (`pipeline/miniatura.py`), se revisa a ojo y se envía con cada MP4.
   - Datos Curiosos: amarillo #FFD23F. Los canales nuevos usan el acento de su marca.
-- Cada Short lleva también **título, descripción y hashtags** (`metadata.json`).
+- Cada Short lleva **título y, justo después, la etiqueta `#shorts`** (por ejemplo «Los VIKINGOS nunca llevaron cuernos 🪖❌ #shorts»), además de descripción y hashtags (`metadata.json`). Lo garantiza la producción (propietario, 20/11).
 
 ## 3. Voz (la misma en TODOS los Shorts de los 4 canales)
 - **ElevenLabs, modelo `eleven_v4`, voz «datoscuriosin» `kQwUFpYQ184OVlnMEzlm`**, idioma `es` (español de España), estabilidad **0,5** y similitud **0,85**.

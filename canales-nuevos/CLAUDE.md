@@ -23,6 +23,8 @@ Responde siempre en español. «Datos Curiosos» (`/home/user/curiosidades-canal
 - `--handle` con el @ de cada canal y `--fonts` con las fuentes del canal;
 - también título, descripción y hashtags.
 
+**Título + #shorts (propietario, 20/11):** todos los Shorts llevan título y, justo después, la etiqueta `#shorts`, por ejemplo «¿Por qué el móvil se apaga al 20 %? 🔋 #shorts».
+
 **Límites:**
 - No publicar ni gastar sin permiso.
 - Los caracteres de ElevenLabs se comparten con Datos Curiosos, que tiene prioridad.

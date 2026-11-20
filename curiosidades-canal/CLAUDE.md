@@ -49,3 +49,4 @@ Si el usuario escribe **«Me voy a dormir, prepárame el trabajo de mañana»** 
 - Si el servidor es nuevo y la carpeta `/home/user/canales-shorts` no existe, clona antes el repositorio.
 - **Vídeo de referencia de la animación** (propietario, 20/11): `docs/referencia-animacion/` contiene el modelo de Bertha Benz y la versión actual (ornitorrinco, 20/11), con fotogramas. Está en GitHub. Los Shorts nuevos deben verse como `version-actual-ornitorrinco.mp4`.
 - **Miniatura obligatoria** (propietario, 20/11): todos los Shorts llevan `miniatura.jpg` (1080×1920, `pipeline/miniatura.py`, generada por `make_short.py`). El guion indica el gancho en `"miniatura"` (con *palabra clave*). Se revisa y se envía con cada MP4.
+- **Título + #shorts** (propietario, 20/11): todos los Shorts llevan título y, justo después, la etiqueta `#shorts` (lo garantiza `make_short.py`).

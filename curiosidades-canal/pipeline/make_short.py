@@ -354,7 +354,8 @@ def produce(spec_path: Path, out: Path) -> dict:
         f"# Fuentes · {spec['titulo']}\n\n" + "\n".join(f"- {f}" for f in spec["fuentes"]) +
         f"\n\n**Verificación:** {spec.get('verificacion', '')}\n")
     meta = {
-        "titulo": spec["titulo"],
+        # título + etiqueta #shorts justo después (propietario, 20/11): se garantiza siempre
+        "titulo": re.sub(r"\s*#shorts\b", "", spec["titulo"], flags=re.I).strip() + " #shorts",
         "descripcion": spec["descripcion"] + "\n\n" + " ".join(spec["hashtags"]),
         "hashtags": spec["hashtags"],
         "tags": spec["tags"],

@@ -168,3 +168,7 @@ Horas aproximadas, en hora de Madrid. El detalle técnico de cada cambio está e
 - **Propietario:** no sigue con los canales de Shorts hasta el 1/12. La tarea de las 18:00 queda DESACTIVADA. Hay un recordatorio el 1/12 a las 9:00 (Madrid) para preguntarle si se reactiva; no se reactiva sin su confirmación.
 - Proyecto nuevo: `/home/user/youtube-long-form/` (`ENCARGO.md`, `CLAUDE.md`, `PLAN.md`): investigación de vídeos largos automatizados con IA. No se produce nada hasta que el propietario apruebe.
 - vidIQ: 43 créditos (plan gratis, se renueva el 18/12).
+
+## 20/11/2026 · madrugada (Madrid) — Título + #shorts
+- **Propietario:** todos los Shorts llevan título y, justo después, la etiqueta #shorts.
+- `make_short.py` lo garantiza. Actualizados la skill, CLAUDE.md, los canales nuevos, INSTRUCCIONES y la tarea de las 18:00, que sigue en pausa hasta el 1/12.

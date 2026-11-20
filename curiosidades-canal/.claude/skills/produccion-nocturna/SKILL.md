@@ -139,3 +139,8 @@ python3 pipeline/nocturno.py <fecha>
 - `pipeline/make_short.py` genera `miniatura.jpg` (1080×1920) con `pipeline/miniatura.py`: fotograma del gancho, banda difuminada arriba con el texto (Archivo Black, blanco y amarillo #FFD23F) y la firma @datoscuriososs.1. A mano: `python3 pipeline/miniatura.py <carpeta>`.
 - Revisa la miniatura de cada Short: que se vea el protagonista y que el texto se lea. Si no, ajusta `miniatura`/`miniatura_segundo` y regenérala.
 - Envíala al propietario junto con su MP4 y menciónala en el INFORME.
+
+
+## Título (obligatorio · propietario, 20/11/2026)
+- Cada Short lleva **título y, justo después, la etiqueta `#shorts`**, por ejemplo «Los VIKINGOS nunca llevaron cuernos 🪖❌ #shorts». `make_short.py` lo garantiza aunque el guion no la lleve.
+- El título va en `metadata.json` y en el INFORME, junto con la descripción y los hashtags.
