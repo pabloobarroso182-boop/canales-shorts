@@ -10,6 +10,9 @@ tar -cf - --exclude=node_modules --exclude=work --exclude=secrets --exclude=.git
   | tar -xf - -C "$R"
 # Vídeos de referencia de la animación de cada canal: SÍ se guardan (excepción a *.mp4)
 find curiosidades-canal canal2-shorts canales-nuevos -path "*/referencia-animacion/*" -type f -not -path "*/node_modules/*" 2>/dev/null | tar -cf - -T - | tar -xf - -C "$R"
+# Skills instaladas en el usuario (~/.claude/skills) y proyecto my-hyperframes
+for d in hyperframes hyperframes-cli hyperframes-registry media-use reverse-any-video style-sampling; do [ -d /root/.claude/skills/$d ] && mkdir -p "$R/skills-usuario" && cp -r /root/.claude/skills/$d "$R/skills-usuario/"; done
+[ -d my-hyperframes ] && tar -cf - --exclude=node_modules my-hyperframes | tar -xf - -C "$R"
 cp tools/voz_qwen.py tools/qwen3_tts.py tools/similitud_voz.py "$R/tools/" 2>/dev/null || true
 cd "$R"
 if grep -rIlqE "sk_[A-Za-z0-9]{20,}|ghp_[A-Za-z0-9]{20,}|AIza[0-9A-Za-z_-]{30,}|\"client_secret\" *: *\"[A-Za-z0-9_-]{10,}" . --exclude-dir=.git; then
