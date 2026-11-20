@@ -2,8 +2,8 @@
 
 Documento único con todo lo que ha decidido el propietario hasta el 19/11/2026 (hora de Madrid). Si empiezas una conversación nueva, pégalo o adjúntalo.
 
-> **Para empezar una conversación nueva** (GitHub ya conectado: repositorio privado **pabloobarroso182-boop/canales-shorts**), selecciona ese repositorio al crear la conversación, o pide que se añada, y escribe:
-> «Recupera mis proyectos de Shorts del repositorio canales-shorts y sigue al pie de la letra INSTRUCCIONES_SHORTS.md (sección 8). Vuelve a crear la tarea diaria de las 18:00 y dime qué falta.»
+> **Para empezar una conversación nueva** (GitHub ya conectado), no hace falta seleccionar nada ni subir archivos. Escribe solo:
+> «Añade el repositorio pabloobarroso182-boop/canales-shorts, recupera mis proyectos de Shorts y sigue al pie de la letra INSTRUCCIONES_SHORTS.md (sección 8). Vuelve a crear la tarea diaria de las 18:00 y dime qué falta.»
 > Si GitHub fallara, adjunta en su lugar la copia ZIP (`canales-shorts-TODO-…zip`).
 
 ## 1. Los canales
