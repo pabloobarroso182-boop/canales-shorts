@@ -36,6 +36,15 @@ La marca de cada canal (perfil 800×800 y banners de 2560×1440 y de 4096×2304 
 - **Duración:** Datos Curiosos, 25–45 s. Los canales nuevos, según su nicho (en el estudio, los Shorts que más destacan duran 45–70 s).
 - **Recomendación (estudio del 19/11):** subir los Shorts de forma escalonada, unas 2–3 h entre uno y otro, nunca todos a la vez.
 
+- **MINIATURA OBLIGATORIA en todos los Shorts de los 4 canales** (propietario, 20/11/2026):
+  - `miniatura.jpg`, de 1080×1920;
+  - el fondo es el fotograma del gancho, donde se ve el protagonista;
+  - arriba, el gancho en 3–7 letras grandes sobre una banda difuminada, con la palabra clave en el color de acento del canal;
+  - abajo, la firma del @ del canal;
+  - se genera sola en la producción (`pipeline/miniatura.py`), se revisa a ojo y se envía con cada MP4.
+  - Datos Curiosos: amarillo #FFD23F. Los canales nuevos usan el acento de su marca.
+- Cada Short lleva también **título, descripción y hashtags** (`metadata.json`).
+
 ## 3. Voz (la misma en TODOS los Shorts de los 4 canales)
 - **ElevenLabs, modelo `eleven_v4`, voz «datoscuriosin» `kQwUFpYQ184OVlnMEzlm`**, idioma `es` (español de España), estabilidad **0,5** y similitud **0,85**.
 - No se cambia ni se «mejora». No se usan otras voces: ni de catálogo, ni diseñadas, ni el clon de Qwen3-TTS.

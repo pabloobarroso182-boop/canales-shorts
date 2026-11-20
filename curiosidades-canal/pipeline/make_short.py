@@ -338,6 +338,13 @@ def produce(spec_path: Path, out: Path) -> dict:
     run(["npx", "remotion", "render", "src/index.ts", "Short", str(final), f"--props={props_path}",
          "--codec=h264", "--crf=18", "--audio-codec=aac", "--audio-bitrate=192k", "--concurrency=4"], cwd=VIDEO)
     run(["ffmpeg", "-v", "error", "-y", "-ss", "1.0", "-i", str(final), "-frames:v", "1", "-q:v", "2", str(out / "portada.jpg")])
+    # miniatura diseñada (propietario, 20/11: «todos los Shorts tengan miniatura»)
+    mini_cmd = ["python3", str(Path(__file__).parent / "miniatura.py"), str(out)]
+    mini_cmd += ["--texto", spec["miniatura"]] if spec.get("miniatura") else ["--titulo", spec["titulo"]]
+    if spec.get("miniatura_segundo") is not None:
+        mini_cmd += ["--segundo", str(spec["miniatura_segundo"])]
+    if subprocess.run(mini_cmd).returncode != 0:
+        print("  ⚠ no se pudo generar la miniatura")
 
     # entregables de texto
     shutil.copy(spec_path, out / "guion.json") if spec_path.resolve() != (out / "guion.json").resolve() else None

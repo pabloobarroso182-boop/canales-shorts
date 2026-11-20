@@ -132,3 +132,10 @@ python3 pipeline/nocturno.py <fecha>
    - La ruta `PRODUCCION/<fecha>/`.
    - Si faltan Shorts, cuántos y por qué.
 5. Recuerda que **nada se publica** sin la aprobación del propietario.
+
+
+## Miniatura (obligatoria en todos los Shorts · propietario, 20/11/2026)
+- Cada `guion.json` lleva `"miniatura"`: el gancho de la miniatura en 3–7 palabras, con la palabra clave entre asteriscos (sale resaltada en amarillo). Por ejemplo, `"La miel *NO CADUCA*"`. Opcional: `"miniatura_segundo"`, si el protagonista se ve mejor en otro momento que en el gancho.
+- `pipeline/make_short.py` genera `miniatura.jpg` (1080×1920) con `pipeline/miniatura.py`: fotograma del gancho, banda difuminada arriba con el texto (Archivo Black, blanco y amarillo #FFD23F) y la firma @datoscuriososs.1. A mano: `python3 pipeline/miniatura.py <carpeta>`.
+- Revisa la miniatura de cada Short: que se vea el protagonista y que el texto se lea. Si no, ajusta `miniatura`/`miniatura_segundo` y regenérala.
+- Envíala al propietario junto con su MP4 y menciónala en el INFORME.

@@ -17,6 +17,12 @@ Responde siempre en español. «Datos Curiosos» (`/home/user/curiosidades-canal
 
 **Conectores (propietario, 20/11):** para los Shorts se usan **solo ElevenLabs (la voz) y vidIQ (investigar el nicho)**. Ningún otro: ni ScrapeIO, ni Returbe, ni TubeLab, ni OutlierKit, ni Higgsfield, ni Nexlev. La búsqueda web se usa para verificar datos.
 
+**Miniatura obligatoria (propietario, 20/11):** todos los Shorts llevan `miniatura.jpg` (1080×1920), hecha con `curiosidades-canal/pipeline/miniatura.py`:
+- fotograma del gancho y, arriba, el gancho en letras grandes sobre una banda difuminada;
+- palabra clave en el acento del canal: Ahora Lo Entiendes #12B5A5 o #FFC93C, Escenario Imposible #FF7A1A, Tu Cerebro Te Engaña #FF4F8B;
+- `--handle` con el @ de cada canal y `--fonts` con las fuentes del canal;
+- también título, descripción y hashtags.
+
 **Límites:**
 - No publicar ni gastar sin permiso.
 - Los caracteres de ElevenLabs se comparten con Datos Curiosos, que tiene prioridad.

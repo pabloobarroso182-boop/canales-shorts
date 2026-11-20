@@ -157,3 +157,9 @@ Horas aproximadas, en hora de Madrid. El detalle técnico de cada cambio está e
 ## 20/11/2026 · madrugada (Madrid) — Conectores
 - **Decisión del propietario:** para los Shorts solo se usan los conectores ElevenLabs (la voz) y vidIQ (investigación del nicho).
 - ScrapeIO, Returbe y TubeLab quedan fuera de la producción; solo se usaron en el estudio de mercado.
+
+## 20/11/2026 · madrugada (Madrid) — Miniaturas en todos los Shorts
+- **Pedido por el propietario:** «todos los Shorts tengan miniatura».
+- Nueva herramienta `pipeline/miniatura.py` (+ `pipeline/miniatura/`). Genera `miniatura.jpg` de 1080×1920: fotograma del gancho, banda difuminada con el gancho en letras grandes (palabra clave en amarillo) y la firma.
+- Integrada en `make_short.py` (campo `"miniatura"` del guion), la skill, CLAUDE.md, las reglas de los canales nuevos, INSTRUCCIONES y la tarea de las 18:00.
+- Hechas ya las 6 miniaturas de los Shorts del 20/11.
