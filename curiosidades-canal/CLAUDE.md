@@ -47,3 +47,4 @@ Si el usuario escribe **«Me voy a dormir, prepárame el trabajo de mañana»** 
 ## Copia en GitHub (propietario, 20/11/2026)
 - Después de cada producción y de **cada cambio importante** (Shorts nuevos, reglas, marcas, guiones), ejecuta `bash /home/user/canales-shorts/tools/guardar_en_github.sh` (repositorio privado pabloobarroso182-boop/canales-shorts). No esperes a que lo pida el propietario.
 - Si el servidor es nuevo y la carpeta `/home/user/canales-shorts` no existe, clona antes el repositorio.
+- **Vídeo de referencia de la animación** (propietario, 20/11): `docs/referencia-animacion/` contiene el modelo de Bertha Benz y la versión actual (ornitorrinco, 20/11), con fotogramas. Está en GitHub. Los Shorts nuevos deben verse como `version-actual-ornitorrinco.mp4`.

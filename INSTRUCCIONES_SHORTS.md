@@ -62,10 +62,10 @@ La marca de cada canal (perfil 800×800 y banners de 2560×1440 y de 4096×2304 
 - **SIN MÚSICA DE FONDO.** Solo la voz y efectos de sonido (whoosh, pop, ding…) de bibliotecas libres, que bajan solos cuando habla la voz.
 
 ## 5. Animación
-- **Datos Curiosos:** la animación «divulga», tal cual. No se cambia.
+- **Datos Curiosos:** la animación «divulga», tal cual. No se cambia. Vídeo de referencia guardado en `curiosidades-canal/docs/referencia-animacion/` (el modelo de Bertha Benz y la versión actual).
 - **Canales nuevos:** cada uno tiene **su propio estilo**, distinto de los demás.
   - En su **primera producción**, al investigar el nicho con vidIQ, se elige la animación **más atractiva y que más engancha**, inspirada en el nicho y nunca copiada, con personajes y colores propios.
-  - **Desde entonces es SIEMPRE la misma en ese canal.** Queda guardada en su código (`video/src/`) y en su `docs/estilo-animacion.md`, y se sube a GitHub en el momento, como la de Datos Curiosos.
+  - **Desde entonces es SIEMPRE la misma en ese canal.** Queda guardada en su código (`video/src/`) y en su `docs/estilo-animacion.md`, y se sube a GitHub en el momento, como la de Datos Curiosos. Además, del primer Short de cada canal se guarda un **vídeo de referencia** con fotogramas en `docs/referencia-animacion/`, también en GitHub.
 - Comunes a los 4 canales:
   - subtítulos palabra a palabra;
   - movimiento constante (un plano o zoom nuevo cada 2–3 s);
