@@ -43,3 +43,7 @@ Responde siempre en español. «Datos Curiosos» (`/home/user/curiosidades-canal
   - **Escenario Imposible:** 2D cinematográfico nocturno. Personaje articulado, contador de escalada en pantalla («Día 1 → Día 4», «+2 °C → +6 °C») y fondos de planetas y mapas. Noche #120A2E, violeta #5B2EFF, naranja #FF7A1A y cian #39E1FF.
   - **Tu Cerebro Te Engaña:** infografía de pizarra con la mascota cerebro que guiña. Ilusiones ópticas, flechas, precios tachados y comparativas lado a lado. Rosa #FF4F8B, marino #14213D y menta #3DDC97.
 - Comunes a los 4 canales: subtítulos palabra a palabra, movimiento constante (un plano o zoom nuevo cada 2–3 s), sin música y con la firma pequeña del @ de cada canal.
+
+## Copia en GitHub (propietario, 20/11/2026)
+- Después de cada producción y de **cada cambio importante** (Shorts nuevos, reglas, marcas, guiones), ejecuta `bash /home/user/canales-shorts/tools/guardar_en_github.sh` (repositorio privado pabloobarroso182-boop/canales-shorts). No esperes a que lo pida el propietario.
+- Si el servidor es nuevo y la carpeta `/home/user/canales-shorts` no existe, clona antes el repositorio.

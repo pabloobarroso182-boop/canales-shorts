@@ -9,3 +9,7 @@ Responde siempre en español. Proyecto independiente del primer canal (`/home/us
 - **Producción diaria:** 4 Shorts/día a las 18:00. SIEMPRE antes se revisa con vidIQ el nicho de este canal (explicativos) y se hacen los 4 mejores (ver `/home/user/canales-nuevos/CLAUDE.md`).
 - **Producción:** guion `PRODUCCION/<NNN-slug>/guion.json` → `python3 pipeline/producir.py <carpeta> --render` → control de calidad (`qa.json`: Whisper ≥ 95 %, sin etiquetas leídas, voz verificada, −14 LUFS).
 - **Límites:** no publicar ni gastar sin permiso. Caracteres de ElevenLabs compartidos con el primer canal.
+
+## Copia en GitHub (propietario, 20/11/2026)
+- Después de cada producción y de **cada cambio importante** (Shorts nuevos, reglas, marcas, guiones), ejecuta `bash /home/user/canales-shorts/tools/guardar_en_github.sh` (repositorio privado pabloobarroso182-boop/canales-shorts). No esperes a que lo pida el propietario.
+- Si el servidor es nuevo y la carpeta `/home/user/canales-shorts` no existe, clona antes el repositorio.

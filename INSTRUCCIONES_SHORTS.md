@@ -134,7 +134,7 @@ El servidor es temporal: si la conversación se cierra o pasa tiempo sin uso, se
 - los conectores (vidIQ, ScrapeIO, Returbe…).
 
 **Para no depender de copias manuales (recomendado):**
-- **GitHub: YA CONECTADO (20/11/2026).** Repositorio privado `pabloobarroso182-boop/canales-shorts`. La tarea diaria de las 18:00 guarda la copia al terminar (`tools/guardar_en_github.sh`); también se puede guardar a mano en cualquier momento. Sin claves, sin vídeos MP4 ni audios WAV y sin dependencias reinstalables.
+- **GitHub: YA CONECTADO (20/11/2026).** Repositorio privado `pabloobarroso182-boop/canales-shorts`. La tarea diaria de las 18:00 guarda la copia al terminar (`tools/guardar_en_github.sh`), y Claude también la guarda tras **cada cambio importante** hecho en una conversación, sin que haga falta pedirlo. Sin claves, sin vídeos MP4 ni audios WAV y sin dependencias reinstalables.
   - Para recuperarlo en un servidor nuevo: clonar el repositorio y copiar sus carpetas a `/home/user/` (`curiosidades-canal`, `canal2-shorts`, `canales-nuevos`, `estudio-mercado-shorts`, `INSTRUCCIONES_SHORTS.md`), y después `bash curiosidades-canal/scripts/setup.sh`.
 - **Script de inicio del entorno: YA CONFIGURADO (20/11/2026).** Cada servidor nuevo instala solo Whisper (y su modelo), Earshot, PyTorch, Kokoro, las librerías de Python, Blender, Inkscape, Synfig y Manim. Las dependencias de Remotion de cada proyecto se instalan al recuperarlo, con `scripts/setup.sh`.
 - Con los dos configurados, en cualquier conversación nueva todo estaría listo desde el principio.

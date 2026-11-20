@@ -43,3 +43,7 @@ Si el usuario escribe **«Me voy a dormir, prepárame el trabajo de mañana»** 
 - YouTube: `pipeline/youtube/` (auth, verificar, configurar_canal, upload, stats)
 - Copias: `scripts/backup.sh` · `scripts/restaurar.sh` · `scripts/verificar_backup.sh`
 - Materiales: `PRODUCCION/AAAA-MM-DD/` · `brand/` · `assets/` · `content/` · `output/` · `docs/`
+
+## Copia en GitHub (propietario, 20/11/2026)
+- Después de cada producción y de **cada cambio importante** (Shorts nuevos, reglas, marcas, guiones), ejecuta `bash /home/user/canales-shorts/tools/guardar_en_github.sh` (repositorio privado pabloobarroso182-boop/canales-shorts). No esperes a que lo pida el propietario.
+- Si el servidor es nuevo y la carpeta `/home/user/canales-shorts` no existe, clona antes el repositorio.
