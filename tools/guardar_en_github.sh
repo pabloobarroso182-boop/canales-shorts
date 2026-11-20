@@ -6,7 +6,7 @@ R=/home/user/canales-shorts
 cd /home/user
 # Proyectos: TODAS las carpetas de /home/user, también las nuevas (propietario, 20/11),
 # menos herramientas, copias y el proyecto de Instagram (pausado y ya comprimido en archivo/).
-NO_GUARDAR=" tools archivo copias canales-shorts Instagram_Suspense lost+found "
+NO_GUARDAR=" tools archivo copias canales-shorts Instagram_Suspense youtube-long-form lost+found "
 PROYECTOS="INSTRUCCIONES_SHORTS.md"
 for d in */; do d=${d%/}; case "$NO_GUARDAR" in *" $d "*) continue;; esac; PROYECTOS="$PROYECTOS $d"; done
 tar -cf - --exclude=node_modules --exclude=work --exclude=secrets --exclude=.git --exclude=backups \
