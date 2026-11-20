@@ -1,0 +1,710 @@
+{
+ "id": "003-torre-eiffel",
+ "durationMs": 26983,
+ "audio": "shorts/003-torre-eiffel/mezcla.wav",
+ "scenes": [
+  {
+   "startMs": 0,
+   "endMs": 5486,
+   "clip": null,
+   "icon": "tower",
+   "big": "¿+15 CM?",
+   "small": "el mito",
+   "accent": "#FF4D8D",
+   "kind": "hook"
+  },
+  {
+   "startMs": 5596,
+   "endMs": 9754,
+   "clip": null,
+   "icon": "thermometer",
+   "big": "CALOR",
+   "small": "el hierro se dilata",
+   "accent": "#FFD23F",
+   "kind": "fact"
+  },
+  {
+   "startMs": 9864,
+   "endMs": 16253,
+   "clip": null,
+   "icon": "sun",
+   "big": "SOL vs SOMBRA",
+   "small": "un lado se dilata más",
+   "accent": "#2BD9FE",
+   "kind": "fact"
+  },
+  {
+   "startMs": 16363,
+   "endMs": 22595,
+   "clip": null,
+   "icon": "circle",
+   "big": "15 CM",
+   "small": "la curva que dibuja la cima",
+   "accent": "#7B5CFF",
+   "kind": "fact"
+  },
+  {
+   "startMs": 22705,
+   "endMs": 26283,
+   "clip": null,
+   "icon": "question",
+   "big": "",
+   "small": null,
+   "accent": "#FFD23F",
+   "kind": "cta"
+  }
+ ],
+ "captions": [
+  {
+   "text": "Seguro",
+   "startMs": 0,
+   "endMs": 390,
+   "timestampMs": 195,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 390,
+   "endMs": 540,
+   "timestampMs": 465,
+   "confidence": null
+  },
+  {
+   "text": " has",
+   "startMs": 540,
+   "endMs": 660,
+   "timestampMs": 600,
+   "confidence": null
+  },
+  {
+   "text": " oído",
+   "startMs": 660,
+   "endMs": 890,
+   "timestampMs": 775,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 890,
+   "endMs": 1080,
+   "timestampMs": 985,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 1080,
+   "endMs": 1200,
+   "timestampMs": 1140,
+   "confidence": null
+  },
+  {
+   "text": " Torre",
+   "startMs": 1200,
+   "endMs": 1620,
+   "timestampMs": 1410,
+   "confidence": null
+  },
+  {
+   "text": " Eiffel",
+   "startMs": 1620,
+   "endMs": 1870,
+   "timestampMs": 1745,
+   "confidence": null
+  },
+  {
+   "text": " crece",
+   "startMs": 1870,
+   "endMs": 2230,
+   "timestampMs": 2050,
+   "confidence": null
+  },
+  {
+   "text": " quince",
+   "startMs": 2230,
+   "endMs": 2530,
+   "timestampMs": 2380,
+   "confidence": null
+  },
+  {
+   "text": " centímetros",
+   "startMs": 2530,
+   "endMs": 3210,
+   "timestampMs": 2870,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 3210,
+   "endMs": 3330,
+   "timestampMs": 3270,
+   "confidence": null
+  },
+  {
+   "text": " verano.",
+   "startMs": 3330,
+   "endMs": 4050,
+   "timestampMs": 3690,
+   "confidence": null
+  },
+  {
+   "text": " Pues",
+   "startMs": 4050,
+   "endMs": 4230,
+   "timestampMs": 4140,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 4230,
+   "endMs": 4350,
+   "timestampMs": 4290,
+   "confidence": null
+  },
+  {
+   "text": " es",
+   "startMs": 4350,
+   "endMs": 4480,
+   "timestampMs": 4415,
+   "confidence": null
+  },
+  {
+   "text": " exactamente",
+   "startMs": 4480,
+   "endMs": 5200,
+   "timestampMs": 4840,
+   "confidence": null
+  },
+  {
+   "text": " así.",
+   "startMs": 5200,
+   "endMs": 6200,
+   "timestampMs": 5700,
+   "confidence": null
+  },
+  {
+   "text": " Es",
+   "startMs": 6200,
+   "endMs": 6310,
+   "timestampMs": 6255,
+   "confidence": null
+  },
+  {
+   "text": " cierto",
+   "startMs": 6310,
+   "endMs": 6640,
+   "timestampMs": 6475,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 6640,
+   "endMs": 6820,
+   "timestampMs": 6730,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 6820,
+   "endMs": 6910,
+   "timestampMs": 6865,
+   "confidence": null
+  },
+  {
+   "text": " calor",
+   "startMs": 6910,
+   "endMs": 7190,
+   "timestampMs": 7050,
+   "confidence": null
+  },
+  {
+   "text": " dilata",
+   "startMs": 7190,
+   "endMs": 7510,
+   "timestampMs": 7350,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 7510,
+   "endMs": 7620,
+   "timestampMs": 7565,
+   "confidence": null
+  },
+  {
+   "text": " hierro",
+   "startMs": 7620,
+   "endMs": 7950,
+   "timestampMs": 7785,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 7950,
+   "endMs": 8030,
+   "timestampMs": 7975,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 8000,
+   "endMs": 8170,
+   "timestampMs": 8085,
+   "confidence": null
+  },
+  {
+   "text": " torre",
+   "startMs": 8170,
+   "endMs": 8380,
+   "timestampMs": 8275,
+   "confidence": null
+  },
+  {
+   "text": " cambia",
+   "startMs": 8380,
+   "endMs": 8710,
+   "timestampMs": 8545,
+   "confidence": null
+  },
+  {
+   "text": " ligeramente",
+   "startMs": 8710,
+   "endMs": 9310,
+   "timestampMs": 9010,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 9310,
+   "endMs": 9420,
+   "timestampMs": 9365,
+   "confidence": null
+  },
+  {
+   "text": " tamaño.",
+   "startMs": 9420,
+   "endMs": 10040,
+   "timestampMs": 9730,
+   "confidence": null
+  },
+  {
+   "text": " Pero",
+   "startMs": 10040,
+   "endMs": 10310,
+   "timestampMs": 10175,
+   "confidence": null
+  },
+  {
+   "text": " lo",
+   "startMs": 10310,
+   "endMs": 10430,
+   "timestampMs": 10370,
+   "confidence": null
+  },
+  {
+   "text": " curioso",
+   "startMs": 10430,
+   "endMs": 10900,
+   "timestampMs": 10665,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 10900,
+   "endMs": 11030,
+   "timestampMs": 10965,
+   "confidence": null
+  },
+  {
+   "text": " verdad",
+   "startMs": 11030,
+   "endMs": 11430,
+   "timestampMs": 11230,
+   "confidence": null
+  },
+  {
+   "text": " es",
+   "startMs": 11430,
+   "endMs": 11660,
+   "timestampMs": 11545,
+   "confidence": null
+  },
+  {
+   "text": " otra",
+   "startMs": 11660,
+   "endMs": 11910,
+   "timestampMs": 11785,
+   "confidence": null
+  },
+  {
+   "text": " cosa:",
+   "startMs": 11910,
+   "endMs": 12300,
+   "timestampMs": 12105,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 12300,
+   "endMs": 12430,
+   "timestampMs": 12365,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 12430,
+   "endMs": 12550,
+   "timestampMs": 12490,
+   "confidence": null
+  },
+  {
+   "text": " día",
+   "startMs": 12550,
+   "endMs": 12770,
+   "timestampMs": 12660,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 12770,
+   "endMs": 12890,
+   "timestampMs": 12830,
+   "confidence": null
+  },
+  {
+   "text": " sol,",
+   "startMs": 12890,
+   "endMs": 13220,
+   "timestampMs": 13055,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 13220,
+   "endMs": 13350,
+   "timestampMs": 13285,
+   "confidence": null
+  },
+  {
+   "text": " cara",
+   "startMs": 13350,
+   "endMs": 13620,
+   "timestampMs": 13485,
+   "confidence": null
+  },
+  {
+   "text": " iluminada",
+   "startMs": 13620,
+   "endMs": 14210,
+   "timestampMs": 13915,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 14210,
+   "endMs": 14340,
+   "timestampMs": 14275,
+   "confidence": null
+  },
+  {
+   "text": " dilata",
+   "startMs": 14340,
+   "endMs": 14840,
+   "timestampMs": 14590,
+   "confidence": null
+  },
+  {
+   "text": " más",
+   "startMs": 14840,
+   "endMs": 15030,
+   "timestampMs": 14935,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 15030,
+   "endMs": 15230,
+   "timestampMs": 15130,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 15230,
+   "endMs": 15340,
+   "timestampMs": 15285,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 15340,
+   "endMs": 15530,
+   "timestampMs": 15435,
+   "confidence": null
+  },
+  {
+   "text": " está",
+   "startMs": 15530,
+   "endMs": 15810,
+   "timestampMs": 15670,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 15810,
+   "endMs": 15890,
+   "timestampMs": 15825,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 15840,
+   "endMs": 16050,
+   "timestampMs": 15945,
+   "confidence": null
+  },
+  {
+   "text": " sombra.",
+   "startMs": 16050,
+   "endMs": 16530,
+   "timestampMs": 16290,
+   "confidence": null
+  },
+  {
+   "text": " Por",
+   "startMs": 16530,
+   "endMs": 16720,
+   "timestampMs": 16625,
+   "confidence": null
+  },
+  {
+   "text": " eso",
+   "startMs": 16720,
+   "endMs": 16910,
+   "timestampMs": 16815,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 16910,
+   "endMs": 17070,
+   "timestampMs": 16990,
+   "confidence": null
+  },
+  {
+   "text": " cima",
+   "startMs": 17070,
+   "endMs": 17280,
+   "timestampMs": 17175,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 17280,
+   "endMs": 17400,
+   "timestampMs": 17340,
+   "confidence": null
+  },
+  {
+   "text": " inclina",
+   "startMs": 17400,
+   "endMs": 17840,
+   "timestampMs": 17620,
+   "confidence": null
+  },
+  {
+   "text": " alejándose",
+   "startMs": 17840,
+   "endMs": 18460,
+   "timestampMs": 18150,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 18460,
+   "endMs": 18850,
+   "timestampMs": 18655,
+   "confidence": null
+  },
+  {
+   "text": " Sol",
+   "startMs": 18850,
+   "endMs": 18930,
+   "timestampMs": 18870,
+   "confidence": null
+  },
+  {
+   "text": " y,",
+   "startMs": 18890,
+   "endMs": 19160,
+   "timestampMs": 19025,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 19160,
+   "endMs": 19240,
+   "timestampMs": 19160,
+   "confidence": null
+  },
+  {
+   "text": " lo",
+   "startMs": 19160,
+   "endMs": 19280,
+   "timestampMs": 19220,
+   "confidence": null
+  },
+  {
+   "text": " largo",
+   "startMs": 19280,
+   "endMs": 19600,
+   "timestampMs": 19440,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 19600,
+   "endMs": 19790,
+   "timestampMs": 19695,
+   "confidence": null
+  },
+  {
+   "text": " día,",
+   "startMs": 19790,
+   "endMs": 20130,
+   "timestampMs": 19960,
+   "confidence": null
+  },
+  {
+   "text": " dibuja",
+   "startMs": 20130,
+   "endMs": 20480,
+   "timestampMs": 20305,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 20480,
+   "endMs": 20780,
+   "timestampMs": 20630,
+   "confidence": null
+  },
+  {
+   "text": " curva",
+   "startMs": 20780,
+   "endMs": 21030,
+   "timestampMs": 20905,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 21030,
+   "endMs": 21110,
+   "timestampMs": 21065,
+   "confidence": null
+  },
+  {
+   "text": " unos",
+   "startMs": 21100,
+   "endMs": 21390,
+   "timestampMs": 21245,
+   "confidence": null
+  },
+  {
+   "text": " quince",
+   "startMs": 21390,
+   "endMs": 21720,
+   "timestampMs": 21555,
+   "confidence": null
+  },
+  {
+   "text": " centímetros.",
+   "startMs": 21720,
+   "endMs": 22720,
+   "timestampMs": 22220,
+   "confidence": null
+  },
+  {
+   "text": " ¿A",
+   "startMs": 22720,
+   "endMs": 22950,
+   "timestampMs": 22835,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 22950,
+   "endMs": 23200,
+   "timestampMs": 23075,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 23200,
+   "endMs": 23280,
+   "timestampMs": 23215,
+   "confidence": null
+  },
+  {
+   "text": " lo",
+   "startMs": 23230,
+   "endMs": 23380,
+   "timestampMs": 23305,
+   "confidence": null
+  },
+  {
+   "text": " sabías?",
+   "startMs": 23380,
+   "endMs": 24080,
+   "timestampMs": 23730,
+   "confidence": null
+  },
+  {
+   "text": " Síguenos",
+   "startMs": 24080,
+   "endMs": 24500,
+   "timestampMs": 24290,
+   "confidence": null
+  },
+  {
+   "text": " para",
+   "startMs": 24500,
+   "endMs": 24720,
+   "timestampMs": 24610,
+   "confidence": null
+  },
+  {
+   "text": " más",
+   "startMs": 24720,
+   "endMs": 24870,
+   "timestampMs": 24795,
+   "confidence": null
+  },
+  {
+   "text": " curiosidades",
+   "startMs": 24870,
+   "endMs": 25510,
+   "timestampMs": 25190,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 25510,
+   "endMs": 25700,
+   "timestampMs": 25605,
+   "confidence": null
+  },
+  {
+   "text": " todo",
+   "startMs": 25700,
+   "endMs": 25950,
+   "timestampMs": 25825,
+   "confidence": null
+  },
+  {
+   "text": " tipo.",
+   "startMs": 25950,
+   "endMs": 26280,
+   "timestampMs": 26115,
+   "confidence": null
+  }
+ ]
+}

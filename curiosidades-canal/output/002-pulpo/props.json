@@ -1,0 +1,521 @@
+{
+ "id": "002-pulpo",
+ "durationMs": 21301,
+ "audio": "shorts/002-pulpo/mezcla.wav",
+ "scenes": [
+  {
+   "startMs": 0,
+   "endMs": 2880,
+   "clip": null,
+   "icon": "octopus",
+   "big": "3 CORAZONES",
+   "small": "y sangre azul",
+   "accent": "#FFD23F",
+   "kind": "hook"
+  },
+  {
+   "startMs": 2990,
+   "endMs": 7783,
+   "clip": null,
+   "icon": "gills",
+   "big": "2",
+   "small": "corazones para las branquias",
+   "accent": "#2BD9FE",
+   "kind": "fact"
+  },
+  {
+   "startMs": 7893,
+   "endMs": 10371,
+   "clip": null,
+   "icon": "heart",
+   "big": "+1",
+   "small": "para todo el cuerpo",
+   "accent": "#FF4D8D",
+   "kind": "fact"
+  },
+  {
+   "startMs": 10481,
+   "endMs": 17359,
+   "clip": null,
+   "icon": "copper",
+   "big": "COBRE",
+   "small": "hemocianina, no hierro",
+   "accent": "#7B5CFF",
+   "kind": "fact"
+  },
+  {
+   "startMs": 17469,
+   "endMs": 20601,
+   "clip": null,
+   "icon": "octopus",
+   "big": "",
+   "small": null,
+   "accent": "#FFD23F",
+   "kind": "cta"
+  }
+ ],
+ "captions": [
+  {
+   "text": "Este",
+   "startMs": 0,
+   "endMs": 280,
+   "timestampMs": 140,
+   "confidence": null
+  },
+  {
+   "text": " animal",
+   "startMs": 280,
+   "endMs": 690,
+   "timestampMs": 485,
+   "confidence": null
+  },
+  {
+   "text": " tiene",
+   "startMs": 690,
+   "endMs": 1030,
+   "timestampMs": 860,
+   "confidence": null
+  },
+  {
+   "text": " tres",
+   "startMs": 1030,
+   "endMs": 1310,
+   "timestampMs": 1170,
+   "confidence": null
+  },
+  {
+   "text": " corazones.",
+   "startMs": 1310,
+   "endMs": 1930,
+   "timestampMs": 1620,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 1930,
+   "endMs": 2010,
+   "timestampMs": 1960,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 1990,
+   "endMs": 2130,
+   "timestampMs": 2060,
+   "confidence": null
+  },
+  {
+   "text": " sangre,",
+   "startMs": 2130,
+   "endMs": 2530,
+   "timestampMs": 2330,
+   "confidence": null
+  },
+  {
+   "text": " azul.",
+   "startMs": 2530,
+   "endMs": 3090,
+   "timestampMs": 2810,
+   "confidence": null
+  },
+  {
+   "text": " Dos",
+   "startMs": 3090,
+   "endMs": 3250,
+   "timestampMs": 3170,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 3250,
+   "endMs": 3360,
+   "timestampMs": 3305,
+   "confidence": null
+  },
+  {
+   "text": " sus",
+   "startMs": 3360,
+   "endMs": 3530,
+   "timestampMs": 3445,
+   "confidence": null
+  },
+  {
+   "text": " corazones",
+   "startMs": 3530,
+   "endMs": 4110,
+   "timestampMs": 3820,
+   "confidence": null
+  },
+  {
+   "text": " bombean",
+   "startMs": 4110,
+   "endMs": 4560,
+   "timestampMs": 4335,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 4560,
+   "endMs": 4680,
+   "timestampMs": 4620,
+   "confidence": null
+  },
+  {
+   "text": " sangre",
+   "startMs": 4680,
+   "endMs": 5040,
+   "timestampMs": 4860,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 5040,
+   "endMs": 5160,
+   "timestampMs": 5100,
+   "confidence": null
+  },
+  {
+   "text": " través",
+   "startMs": 5160,
+   "endMs": 5470,
+   "timestampMs": 5315,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 5470,
+   "endMs": 5660,
+   "timestampMs": 5565,
+   "confidence": null
+  },
+  {
+   "text": " las",
+   "startMs": 5660,
+   "endMs": 5780,
+   "timestampMs": 5720,
+   "confidence": null
+  },
+  {
+   "text": " branquias,",
+   "startMs": 5780,
+   "endMs": 6430,
+   "timestampMs": 6105,
+   "confidence": null
+  },
+  {
+   "text": " donde",
+   "startMs": 6430,
+   "endMs": 6780,
+   "timestampMs": 6605,
+   "confidence": null
+  },
+  {
+   "text": " recoge",
+   "startMs": 6780,
+   "endMs": 7150,
+   "timestampMs": 6965,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 7150,
+   "endMs": 7270,
+   "timestampMs": 7210,
+   "confidence": null
+  },
+  {
+   "text": " oxígeno.",
+   "startMs": 7270,
+   "endMs": 8130,
+   "timestampMs": 7700,
+   "confidence": null
+  },
+  {
+   "text": " El",
+   "startMs": 8130,
+   "endMs": 8210,
+   "timestampMs": 8140,
+   "confidence": null
+  },
+  {
+   "text": " tercero",
+   "startMs": 8150,
+   "endMs": 8670,
+   "timestampMs": 8410,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 8670,
+   "endMs": 8820,
+   "timestampMs": 8745,
+   "confidence": null
+  },
+  {
+   "text": " envía",
+   "startMs": 8820,
+   "endMs": 9180,
+   "timestampMs": 9000,
+   "confidence": null
+  },
+  {
+   "text": " al",
+   "startMs": 9180,
+   "endMs": 9330,
+   "timestampMs": 9255,
+   "confidence": null
+  },
+  {
+   "text": " resto",
+   "startMs": 9330,
+   "endMs": 9760,
+   "timestampMs": 9545,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 9760,
+   "endMs": 9920,
+   "timestampMs": 9840,
+   "confidence": null
+  },
+  {
+   "text": " cuerpo.",
+   "startMs": 9920,
+   "endMs": 10540,
+   "timestampMs": 10230,
+   "confidence": null
+  },
+  {
+   "text": " ¿Y",
+   "startMs": 10540,
+   "endMs": 10620,
+   "timestampMs": 10580,
+   "confidence": null
+  },
+  {
+   "text": " por",
+   "startMs": 10620,
+   "endMs": 10850,
+   "timestampMs": 10735,
+   "confidence": null
+  },
+  {
+   "text": " qué",
+   "startMs": 10850,
+   "endMs": 11000,
+   "timestampMs": 10925,
+   "confidence": null
+  },
+  {
+   "text": " es",
+   "startMs": 11000,
+   "endMs": 11130,
+   "timestampMs": 11065,
+   "confidence": null
+  },
+  {
+   "text": " azul?",
+   "startMs": 11130,
+   "endMs": 11580,
+   "timestampMs": 11355,
+   "confidence": null
+  },
+  {
+   "text": " Porque",
+   "startMs": 11580,
+   "endMs": 11970,
+   "timestampMs": 11775,
+   "confidence": null
+  },
+  {
+   "text": " transporta",
+   "startMs": 11970,
+   "endMs": 12620,
+   "timestampMs": 12295,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 12620,
+   "endMs": 12750,
+   "timestampMs": 12685,
+   "confidence": null
+  },
+  {
+   "text": " oxígeno",
+   "startMs": 12750,
+   "endMs": 13200,
+   "timestampMs": 12975,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 13200,
+   "endMs": 13420,
+   "timestampMs": 13310,
+   "confidence": null
+  },
+  {
+   "text": " hemocianina,",
+   "startMs": 13420,
+   "endMs": 14360,
+   "timestampMs": 13890,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 14360,
+   "endMs": 14500,
+   "timestampMs": 14430,
+   "confidence": null
+  },
+  {
+   "text": " proteína",
+   "startMs": 14500,
+   "endMs": 14880,
+   "timestampMs": 14690,
+   "confidence": null
+  },
+  {
+   "text": " basada",
+   "startMs": 14880,
+   "endMs": 15260,
+   "timestampMs": 15070,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 15260,
+   "endMs": 15380,
+   "timestampMs": 15320,
+   "confidence": null
+  },
+  {
+   "text": " cobre,",
+   "startMs": 15380,
+   "endMs": 15810,
+   "timestampMs": 15595,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 15810,
+   "endMs": 15890,
+   "timestampMs": 15840,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 15870,
+   "endMs": 15990,
+   "timestampMs": 15930,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 15990,
+   "endMs": 16110,
+   "timestampMs": 16050,
+   "confidence": null
+  },
+  {
+   "text": " hierro",
+   "startMs": 16110,
+   "endMs": 16480,
+   "timestampMs": 16295,
+   "confidence": null
+  },
+  {
+   "text": " como",
+   "startMs": 16480,
+   "endMs": 16810,
+   "timestampMs": 16645,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 16810,
+   "endMs": 16890,
+   "timestampMs": 16830,
+   "confidence": null
+  },
+  {
+   "text": " nuestra.",
+   "startMs": 16850,
+   "endMs": 17590,
+   "timestampMs": 17220,
+   "confidence": null
+  },
+  {
+   "text": " Es",
+   "startMs": 17590,
+   "endMs": 17710,
+   "timestampMs": 17650,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 17710,
+   "endMs": 17970,
+   "timestampMs": 17840,
+   "confidence": null
+  },
+  {
+   "text": " pulpo.",
+   "startMs": 17970,
+   "endMs": 18270,
+   "timestampMs": 18120,
+   "confidence": null
+  },
+  {
+   "text": " Síguenos",
+   "startMs": 18270,
+   "endMs": 18710,
+   "timestampMs": 18490,
+   "confidence": null
+  },
+  {
+   "text": " para",
+   "startMs": 18710,
+   "endMs": 18980,
+   "timestampMs": 18845,
+   "confidence": null
+  },
+  {
+   "text": " más",
+   "startMs": 18980,
+   "endMs": 19090,
+   "timestampMs": 19035,
+   "confidence": null
+  },
+  {
+   "text": " curiosidades",
+   "startMs": 19090,
+   "endMs": 19880,
+   "timestampMs": 19485,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 19880,
+   "endMs": 20020,
+   "timestampMs": 19950,
+   "confidence": null
+  },
+  {
+   "text": " todo",
+   "startMs": 20020,
+   "endMs": 20300,
+   "timestampMs": 20160,
+   "confidence": null
+  },
+  {
+   "text": " tipo.",
+   "startMs": 20300,
+   "endMs": 20600,
+   "timestampMs": 20450,
+   "confidence": null
+  }
+ ]
+}

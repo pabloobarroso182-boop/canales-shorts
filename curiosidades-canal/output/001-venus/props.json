@@ -1,0 +1,598 @@
+{
+ "id": "001-venus",
+ "durationMs": 23905,
+ "audio": "shorts/001-venus/mezcla.wav",
+ "scenes": [
+  {
+   "startMs": 0,
+   "endMs": 2837,
+   "clip": null,
+   "icon": "planet",
+   "big": "DÍA > AÑO",
+   "small": "en el planeta Venus",
+   "accent": "#FFD23F",
+   "kind": "hook"
+  },
+  {
+   "startMs": 2947,
+   "endMs": 8785,
+   "clip": null,
+   "icon": "spin",
+   "big": "243 DÍAS",
+   "small": "una vuelta sobre sí mismo",
+   "accent": "#FF4D8D",
+   "kind": "fact"
+  },
+  {
+   "startMs": 8895,
+   "endMs": 14267,
+   "clip": null,
+   "icon": "sun",
+   "big": "225 DÍAS",
+   "small": "una vuelta al Sol",
+   "accent": "#2BD9FE",
+   "kind": "fact"
+  },
+  {
+   "startMs": 14377,
+   "endMs": 19426,
+   "clip": null,
+   "icon": "orbit",
+   "big": "AL REVÉS",
+   "small": "el Sol sale por el oeste",
+   "accent": "#7B5CFF",
+   "kind": "fact"
+  },
+  {
+   "startMs": 19536,
+   "endMs": 23205,
+   "clip": null,
+   "icon": "question",
+   "big": "",
+   "small": null,
+   "accent": "#FFD23F",
+   "kind": "cta"
+  }
+ ],
+ "captions": [
+  {
+   "text": "En",
+   "startMs": 0,
+   "endMs": 140,
+   "timestampMs": 70,
+   "confidence": null
+  },
+  {
+   "text": " Venus,",
+   "startMs": 140,
+   "endMs": 490,
+   "timestampMs": 315,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 490,
+   "endMs": 650,
+   "timestampMs": 570,
+   "confidence": null
+  },
+  {
+   "text": " día",
+   "startMs": 650,
+   "endMs": 870,
+   "timestampMs": 760,
+   "confidence": null
+  },
+  {
+   "text": " dura",
+   "startMs": 870,
+   "endMs": 1120,
+   "timestampMs": 995,
+   "confidence": null
+  },
+  {
+   "text": " más",
+   "startMs": 1120,
+   "endMs": 1380,
+   "timestampMs": 1250,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 1380,
+   "endMs": 1540,
+   "timestampMs": 1460,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 1540,
+   "endMs": 1670,
+   "timestampMs": 1605,
+   "confidence": null
+  },
+  {
+   "text": " año.",
+   "startMs": 1670,
+   "endMs": 1960,
+   "timestampMs": 1815,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 1960,
+   "endMs": 2040,
+   "timestampMs": 2000,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 2040,
+   "endMs": 2120,
+   "timestampMs": 2070,
+   "confidence": null
+  },
+  {
+   "text": " es",
+   "startMs": 2100,
+   "endMs": 2240,
+   "timestampMs": 2170,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 2240,
+   "endMs": 2380,
+   "timestampMs": 2310,
+   "confidence": null
+  },
+  {
+   "text": " error.",
+   "startMs": 2380,
+   "endMs": 3050,
+   "timestampMs": 2715,
+   "confidence": null
+  },
+  {
+   "text": " Venus",
+   "startMs": 3050,
+   "endMs": 3320,
+   "timestampMs": 3185,
+   "confidence": null
+  },
+  {
+   "text": " tarda",
+   "startMs": 3320,
+   "endMs": 3550,
+   "timestampMs": 3435,
+   "confidence": null
+  },
+  {
+   "text": " unos",
+   "startMs": 3550,
+   "endMs": 3780,
+   "timestampMs": 3665,
+   "confidence": null
+  },
+  {
+   "text": " doscientos",
+   "startMs": 3780,
+   "endMs": 4400,
+   "timestampMs": 4090,
+   "confidence": null
+  },
+  {
+   "text": " cuarenta",
+   "startMs": 4400,
+   "endMs": 5080,
+   "timestampMs": 4740,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 5080,
+   "endMs": 5190,
+   "timestampMs": 5135,
+   "confidence": null
+  },
+  {
+   "text": " tres",
+   "startMs": 5190,
+   "endMs": 5430,
+   "timestampMs": 5310,
+   "confidence": null
+  },
+  {
+   "text": " días",
+   "startMs": 5430,
+   "endMs": 5730,
+   "timestampMs": 5580,
+   "confidence": null
+  },
+  {
+   "text": " terrestres",
+   "startMs": 5730,
+   "endMs": 6460,
+   "timestampMs": 6095,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 6460,
+   "endMs": 6550,
+   "timestampMs": 6505,
+   "confidence": null
+  },
+  {
+   "text": " dar",
+   "startMs": 6550,
+   "endMs": 6750,
+   "timestampMs": 6650,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 6750,
+   "endMs": 7140,
+   "timestampMs": 6945,
+   "confidence": null
+  },
+  {
+   "text": " vuelta",
+   "startMs": 7140,
+   "endMs": 7390,
+   "timestampMs": 7265,
+   "confidence": null
+  },
+  {
+   "text": " completa",
+   "startMs": 7390,
+   "endMs": 8130,
+   "timestampMs": 7760,
+   "confidence": null
+  },
+  {
+   "text": " sobre",
+   "startMs": 8130,
+   "endMs": 8310,
+   "timestampMs": 8220,
+   "confidence": null
+  },
+  {
+   "text": " sí",
+   "startMs": 8310,
+   "endMs": 8450,
+   "timestampMs": 8380,
+   "confidence": null
+  },
+  {
+   "text": " mismo.",
+   "startMs": 8450,
+   "endMs": 9070,
+   "timestampMs": 8760,
+   "confidence": null
+  },
+  {
+   "text": " Pero",
+   "startMs": 9070,
+   "endMs": 9330,
+   "timestampMs": 9200,
+   "confidence": null
+  },
+  {
+   "text": " solo",
+   "startMs": 9330,
+   "endMs": 9590,
+   "timestampMs": 9460,
+   "confidence": null
+  },
+  {
+   "text": " necesita",
+   "startMs": 9590,
+   "endMs": 10080,
+   "timestampMs": 9835,
+   "confidence": null
+  },
+  {
+   "text": " unos",
+   "startMs": 10080,
+   "endMs": 10330,
+   "timestampMs": 10205,
+   "confidence": null
+  },
+  {
+   "text": " doscientos",
+   "startMs": 10330,
+   "endMs": 10960,
+   "timestampMs": 10645,
+   "confidence": null
+  },
+  {
+   "text": " veinticinco",
+   "startMs": 10960,
+   "endMs": 11650,
+   "timestampMs": 11305,
+   "confidence": null
+  },
+  {
+   "text": " días",
+   "startMs": 11650,
+   "endMs": 11890,
+   "timestampMs": 11770,
+   "confidence": null
+  },
+  {
+   "text": " para",
+   "startMs": 11890,
+   "endMs": 12140,
+   "timestampMs": 12015,
+   "confidence": null
+  },
+  {
+   "text": " completar",
+   "startMs": 12140,
+   "endMs": 12700,
+   "timestampMs": 12420,
+   "confidence": null
+  },
+  {
+   "text": " su",
+   "startMs": 12700,
+   "endMs": 12820,
+   "timestampMs": 12760,
+   "confidence": null
+  },
+  {
+   "text": " vuelta",
+   "startMs": 12820,
+   "endMs": 13200,
+   "timestampMs": 13010,
+   "confidence": null
+  },
+  {
+   "text": " alrededor",
+   "startMs": 13200,
+   "endMs": 13770,
+   "timestampMs": 13485,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 13770,
+   "endMs": 14010,
+   "timestampMs": 13890,
+   "confidence": null
+  },
+  {
+   "text": " Sol.",
+   "startMs": 14010,
+   "endMs": 14440,
+   "timestampMs": 14225,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 14440,
+   "endMs": 14590,
+   "timestampMs": 14515,
+   "confidence": null
+  },
+  {
+   "text": " hay",
+   "startMs": 14590,
+   "endMs": 14690,
+   "timestampMs": 14640,
+   "confidence": null
+  },
+  {
+   "text": " más:",
+   "startMs": 14690,
+   "endMs": 15000,
+   "timestampMs": 14845,
+   "confidence": null
+  },
+  {
+   "text": " gira",
+   "startMs": 15000,
+   "endMs": 15320,
+   "timestampMs": 15160,
+   "confidence": null
+  },
+  {
+   "text": " al",
+   "startMs": 15320,
+   "endMs": 15450,
+   "timestampMs": 15385,
+   "confidence": null
+  },
+  {
+   "text": " revés",
+   "startMs": 15450,
+   "endMs": 15800,
+   "timestampMs": 15625,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 15800,
+   "endMs": 15970,
+   "timestampMs": 15885,
+   "confidence": null
+  },
+  {
+   "text": " casi",
+   "startMs": 15970,
+   "endMs": 16210,
+   "timestampMs": 16090,
+   "confidence": null
+  },
+  {
+   "text": " todos",
+   "startMs": 16210,
+   "endMs": 16530,
+   "timestampMs": 16370,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 16530,
+   "endMs": 16720,
+   "timestampMs": 16625,
+   "confidence": null
+  },
+  {
+   "text": " planetas,",
+   "startMs": 16720,
+   "endMs": 17380,
+   "timestampMs": 17050,
+   "confidence": null
+  },
+  {
+   "text": " así",
+   "startMs": 17380,
+   "endMs": 17530,
+   "timestampMs": 17455,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 17530,
+   "endMs": 17720,
+   "timestampMs": 17625,
+   "confidence": null
+  },
+  {
+   "text": " allí",
+   "startMs": 17720,
+   "endMs": 17970,
+   "timestampMs": 17845,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 17970,
+   "endMs": 18100,
+   "timestampMs": 18035,
+   "confidence": null
+  },
+  {
+   "text": " Sol",
+   "startMs": 18100,
+   "endMs": 18370,
+   "timestampMs": 18235,
+   "confidence": null
+  },
+  {
+   "text": " sale",
+   "startMs": 18370,
+   "endMs": 18550,
+   "timestampMs": 18460,
+   "confidence": null
+  },
+  {
+   "text": " por",
+   "startMs": 18550,
+   "endMs": 18740,
+   "timestampMs": 18645,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 18740,
+   "endMs": 18870,
+   "timestampMs": 18805,
+   "confidence": null
+  },
+  {
+   "text": " oeste.",
+   "startMs": 18870,
+   "endMs": 19480,
+   "timestampMs": 19175,
+   "confidence": null
+  },
+  {
+   "text": " ¿A",
+   "startMs": 19480,
+   "endMs": 19620,
+   "timestampMs": 19550,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 19620,
+   "endMs": 19800,
+   "timestampMs": 19710,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 19800,
+   "endMs": 19930,
+   "timestampMs": 19865,
+   "confidence": null
+  },
+  {
+   "text": " lo",
+   "startMs": 19930,
+   "endMs": 20060,
+   "timestampMs": 19995,
+   "confidence": null
+  },
+  {
+   "text": " sabías?",
+   "startMs": 20060,
+   "endMs": 20670,
+   "timestampMs": 20365,
+   "confidence": null
+  },
+  {
+   "text": " Síguenos",
+   "startMs": 20670,
+   "endMs": 21180,
+   "timestampMs": 20925,
+   "confidence": null
+  },
+  {
+   "text": " para",
+   "startMs": 21180,
+   "endMs": 21390,
+   "timestampMs": 21285,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 21390,
+   "endMs": 21580,
+   "timestampMs": 21485,
+   "confidence": null
+  },
+  {
+   "text": " curiosidad",
+   "startMs": 21580,
+   "endMs": 22230,
+   "timestampMs": 21905,
+   "confidence": null
+  },
+  {
+   "text": " nueva",
+   "startMs": 22230,
+   "endMs": 22550,
+   "timestampMs": 22390,
+   "confidence": null
+  },
+  {
+   "text": " cada",
+   "startMs": 22550,
+   "endMs": 22880,
+   "timestampMs": 22715,
+   "confidence": null
+  },
+  {
+   "text": " día.",
+   "startMs": 22880,
+   "endMs": 23200,
+   "timestampMs": 23040,
+   "confidence": null
+  }
+ ]
+}

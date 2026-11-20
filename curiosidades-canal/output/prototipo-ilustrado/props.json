@@ -1,0 +1,1006 @@
+{
+ "id": "prototipo-ilustrado-mas-bajo",
+ "durationMs": 33246,
+ "audio": "shorts/prototipo-ilustrado-mas-bajo/mezcla.wav",
+ "scenes": [
+  {
+   "startMs": 0,
+   "endMs": 2567,
+   "clip": null,
+   "icon": "body",
+   "big": "−1 CM",
+   "small": "desde que te levantaste",
+   "accent": "#FFD23F",
+   "kind": "hook",
+   "ilustracion": {
+    "escenario": "habitacion",
+    "medidor": {
+     "desde": 668,
+     "hasta": 712
+    },
+    "personaje": {
+     "pose": "de_pie",
+     "x": 420,
+     "y": 1420,
+     "ojos": "sorpresa",
+     "boca": "o"
+    },
+    "cifra": {
+     "texto": "−1 CM",
+     "sub": "desde esta mañana"
+    },
+    "camara": {
+     "zoom": [
+      1.15,
+      1.3
+     ],
+     "foco": [
+      380,
+      800
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 2617,
+   "endMs": 7391,
+   "clip": null,
+   "icon": "check",
+   "big": "CADA DÍA",
+   "small": "a casi todo el mundo",
+   "accent": "#2BD9FE",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "ciudad",
+    "multitud": {
+     "total": 15,
+     "destacados": 15,
+     "todos": true
+    },
+    "cifra": {
+     "texto": "CADA DÍA",
+     "sub": "a casi todo el mundo"
+    },
+    "camara": {
+     "zoom": [
+      1.12,
+      1.02
+     ],
+     "foco": [
+      540,
+      1150
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 7441,
+   "endMs": 11043,
+   "clip": null,
+   "icon": "spine",
+   "big": "DISCOS",
+   "small": "entre las vértebras",
+   "accent": "#7B5CFF",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "habitacion",
+    "personaje": {
+     "pose": "de_pie",
+     "x": 540,
+     "y": 1420
+    },
+    "lupa": {
+     "x": 540,
+     "y": 960,
+     "icono": "spine",
+     "color": "#2BD9FE",
+     "texto": "discos llenos de agua"
+    },
+    "camara": {
+     "zoom": [
+      1.15,
+      1.25
+     ],
+     "foco": [
+      540,
+      950
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 11093,
+   "endMs": 15677,
+   "clip": null,
+   "icon": "drop",
+   "big": "PRESIÓN",
+   "small": "pierden líquido",
+   "accent": "#FF4D8D",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "habitacion",
+    "personaje": {
+     "pose": "brazos_arriba",
+     "x": 540,
+     "y": 1420,
+     "boca": "neutra"
+    },
+    "bocadillos": [
+     "Peso",
+     "Presión",
+     "Gotas fuera"
+    ],
+    "lupa": {
+     "x": 540,
+     "y": 960,
+     "icono": "drop",
+     "color": "#FF4D8D",
+     "texto": "pierden líquido"
+    },
+    "camara": {
+     "zoom": [
+      1.18,
+      1.28
+     ],
+     "foco": [
+      540,
+      950
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 15727,
+   "endMs": 22746,
+   "clip": null,
+   "icon": "clock",
+   "big": "1–2 CM",
+   "small": "casi todo en las primeras horas",
+   "accent": "#FFD23F",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "habitacion",
+    "medidor": {
+     "desde": 668,
+     "hasta": 740
+    },
+    "personaje": {
+     "pose": "de_pie",
+     "x": 420,
+     "y": 1420,
+     "ojos": "sorpresa",
+     "boca": "o"
+    },
+    "calendario": [
+     "Mañana",
+     "Tarde",
+     "Noche"
+    ],
+    "cifra": {
+     "texto": "1–2 CM",
+     "sub": "casi todo en las primeras horas"
+    },
+    "camara": {
+     "zoom": [
+      1.3,
+      1.12
+     ],
+     "foco": [
+      400,
+      780
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 22796,
+   "endMs": 27873,
+   "clip": null,
+   "icon": "moon",
+   "big": "RECARGA",
+   "small": "mientras duermes",
+   "accent": "#2BD9FE",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "habitacion_noche",
+    "cama": true,
+    "personaje": {
+     "pose": "tumbado",
+     "x": 880,
+     "y": 1150,
+     "escala": 0.95,
+     "ojos": "cerrados",
+     "boca": "neutra"
+    },
+    "zzz": true,
+    "camara": {
+     "zoom": [
+      1.15,
+      1.3
+     ],
+     "foco": [
+      480,
+      1120
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 27923,
+   "endMs": 32646,
+   "clip": null,
+   "icon": "question",
+   "big": "",
+   "small": null,
+   "accent": "#FFD23F",
+   "kind": "cta",
+   "ilustracion": null
+  }
+ ],
+ "captions": [
+  {
+   "text": "Ahora",
+   "startMs": 0,
+   "endMs": 330,
+   "timestampMs": 165,
+   "confidence": null
+  },
+  {
+   "text": " mismo",
+   "startMs": 330,
+   "endMs": 670,
+   "timestampMs": 500,
+   "confidence": null
+  },
+  {
+   "text": " eres",
+   "startMs": 670,
+   "endMs": 940,
+   "timestampMs": 805,
+   "confidence": null
+  },
+  {
+   "text": " más",
+   "startMs": 940,
+   "endMs": 1120,
+   "timestampMs": 1030,
+   "confidence": null
+  },
+  {
+   "text": " bajito",
+   "startMs": 1120,
+   "endMs": 1520,
+   "timestampMs": 1320,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 1520,
+   "endMs": 1720,
+   "timestampMs": 1620,
+   "confidence": null
+  },
+  {
+   "text": " esta",
+   "startMs": 1720,
+   "endMs": 1990,
+   "timestampMs": 1855,
+   "confidence": null
+  },
+  {
+   "text": " mañana.",
+   "startMs": 1990,
+   "endMs": 2700,
+   "timestampMs": 2345,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 2700,
+   "endMs": 2780,
+   "timestampMs": 2735,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 2770,
+   "endMs": 2910,
+   "timestampMs": 2840,
+   "confidence": null
+  },
+  {
+   "text": " es",
+   "startMs": 2910,
+   "endMs": 3050,
+   "timestampMs": 2980,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 3050,
+   "endMs": 3190,
+   "timestampMs": 3120,
+   "confidence": null
+  },
+  {
+   "text": " error",
+   "startMs": 3190,
+   "endMs": 3530,
+   "timestampMs": 3360,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 3530,
+   "endMs": 3670,
+   "timestampMs": 3600,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 3670,
+   "endMs": 3810,
+   "timestampMs": 3740,
+   "confidence": null
+  },
+  {
+   "text": " cinta",
+   "startMs": 3810,
+   "endMs": 4150,
+   "timestampMs": 3980,
+   "confidence": null
+  },
+  {
+   "text": " métrica:",
+   "startMs": 4150,
+   "endMs": 4810,
+   "timestampMs": 4480,
+   "confidence": null
+  },
+  {
+   "text": " le",
+   "startMs": 4810,
+   "endMs": 4890,
+   "timestampMs": 4845,
+   "confidence": null
+  },
+  {
+   "text": " pasa",
+   "startMs": 4880,
+   "endMs": 5200,
+   "timestampMs": 5040,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 5200,
+   "endMs": 5280,
+   "timestampMs": 5230,
+   "confidence": null
+  },
+  {
+   "text": " casi",
+   "startMs": 5260,
+   "endMs": 5500,
+   "timestampMs": 5380,
+   "confidence": null
+  },
+  {
+   "text": " todo",
+   "startMs": 5500,
+   "endMs": 5740,
+   "timestampMs": 5620,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 5740,
+   "endMs": 5870,
+   "timestampMs": 5805,
+   "confidence": null
+  },
+  {
+   "text": " mundo,",
+   "startMs": 5870,
+   "endMs": 6280,
+   "timestampMs": 6075,
+   "confidence": null
+  },
+  {
+   "text": " todos",
+   "startMs": 6280,
+   "endMs": 6580,
+   "timestampMs": 6430,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 6580,
+   "endMs": 6760,
+   "timestampMs": 6670,
+   "confidence": null
+  },
+  {
+   "text": " días.",
+   "startMs": 6760,
+   "endMs": 7180,
+   "timestampMs": 6970,
+   "confidence": null
+  },
+  {
+   "text": " Entre",
+   "startMs": 7180,
+   "endMs": 7480,
+   "timestampMs": 7330,
+   "confidence": null
+  },
+  {
+   "text": " las",
+   "startMs": 7480,
+   "endMs": 7660,
+   "timestampMs": 7570,
+   "confidence": null
+  },
+  {
+   "text": " vértebras",
+   "startMs": 7660,
+   "endMs": 8220,
+   "timestampMs": 7940,
+   "confidence": null
+  },
+  {
+   "text": " tienes",
+   "startMs": 8220,
+   "endMs": 8560,
+   "timestampMs": 8390,
+   "confidence": null
+  },
+  {
+   "text": " unos",
+   "startMs": 8560,
+   "endMs": 8880,
+   "timestampMs": 8720,
+   "confidence": null
+  },
+  {
+   "text": " discos",
+   "startMs": 8880,
+   "endMs": 9450,
+   "timestampMs": 9165,
+   "confidence": null
+  },
+  {
+   "text": " que,",
+   "startMs": 9450,
+   "endMs": 9720,
+   "timestampMs": 9585,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 9720,
+   "endMs": 9940,
+   "timestampMs": 9830,
+   "confidence": null
+  },
+  {
+   "text": " gran",
+   "startMs": 9940,
+   "endMs": 10020,
+   "timestampMs": 9940,
+   "confidence": null
+  },
+  {
+   "text": " parte,",
+   "startMs": 9940,
+   "endMs": 10430,
+   "timestampMs": 10185,
+   "confidence": null
+  },
+  {
+   "text": " son",
+   "startMs": 10430,
+   "endMs": 10610,
+   "timestampMs": 10520,
+   "confidence": null
+  },
+  {
+   "text": " agua.",
+   "startMs": 10610,
+   "endMs": 11070,
+   "timestampMs": 10840,
+   "confidence": null
+  },
+  {
+   "text": " Al",
+   "startMs": 11070,
+   "endMs": 11200,
+   "timestampMs": 11135,
+   "confidence": null
+  },
+  {
+   "text": " estar",
+   "startMs": 11200,
+   "endMs": 11610,
+   "timestampMs": 11405,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 11610,
+   "endMs": 11690,
+   "timestampMs": 11635,
+   "confidence": null
+  },
+  {
+   "text": " pie",
+   "startMs": 11660,
+   "endMs": 11860,
+   "timestampMs": 11760,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 11860,
+   "endMs": 11940,
+   "timestampMs": 11890,
+   "confidence": null
+  },
+  {
+   "text": " moverte,",
+   "startMs": 11920,
+   "endMs": 12600,
+   "timestampMs": 12260,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 12600,
+   "endMs": 12680,
+   "timestampMs": 12620,
+   "confidence": null
+  },
+  {
+   "text": " peso",
+   "startMs": 12640,
+   "endMs": 12910,
+   "timestampMs": 12775,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 12910,
+   "endMs": 13110,
+   "timestampMs": 13010,
+   "confidence": null
+  },
+  {
+   "text": " cuerpo",
+   "startMs": 13110,
+   "endMs": 13600,
+   "timestampMs": 13355,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 13600,
+   "endMs": 13860,
+   "timestampMs": 13730,
+   "confidence": null
+  },
+  {
+   "text": " aprieta",
+   "startMs": 13860,
+   "endMs": 14340,
+   "timestampMs": 14100,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 14340,
+   "endMs": 14420,
+   "timestampMs": 14350,
+   "confidence": null
+  },
+  {
+   "text": " pierden",
+   "startMs": 14360,
+   "endMs": 14950,
+   "timestampMs": 14655,
+   "confidence": null
+  },
+  {
+   "text": " algo",
+   "startMs": 14950,
+   "endMs": 15160,
+   "timestampMs": 15055,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 15160,
+   "endMs": 15320,
+   "timestampMs": 15240,
+   "confidence": null
+  },
+  {
+   "text": " líquido.",
+   "startMs": 15320,
+   "endMs": 16190,
+   "timestampMs": 15755,
+   "confidence": null
+  },
+  {
+   "text": " Resultado:",
+   "startMs": 16190,
+   "endMs": 16710,
+   "timestampMs": 16450,
+   "confidence": null
+  },
+  {
+   "text": " al",
+   "startMs": 16710,
+   "endMs": 16840,
+   "timestampMs": 16775,
+   "confidence": null
+  },
+  {
+   "text": " final",
+   "startMs": 16840,
+   "endMs": 17060,
+   "timestampMs": 16950,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 17060,
+   "endMs": 17220,
+   "timestampMs": 17140,
+   "confidence": null
+  },
+  {
+   "text": " día",
+   "startMs": 17220,
+   "endMs": 17360,
+   "timestampMs": 17290,
+   "confidence": null
+  },
+  {
+   "text": " puedes",
+   "startMs": 17360,
+   "endMs": 17660,
+   "timestampMs": 17510,
+   "confidence": null
+  },
+  {
+   "text": " medir",
+   "startMs": 17660,
+   "endMs": 17960,
+   "timestampMs": 17810,
+   "confidence": null
+  },
+  {
+   "text": " entre",
+   "startMs": 17960,
+   "endMs": 18200,
+   "timestampMs": 18080,
+   "confidence": null
+  },
+  {
+   "text": " uno",
+   "startMs": 18200,
+   "endMs": 18420,
+   "timestampMs": 18310,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 18420,
+   "endMs": 18500,
+   "timestampMs": 18455,
+   "confidence": null
+  },
+  {
+   "text": " dos",
+   "startMs": 18490,
+   "endMs": 18710,
+   "timestampMs": 18600,
+   "confidence": null
+  },
+  {
+   "text": " centímetros",
+   "startMs": 18710,
+   "endMs": 19590,
+   "timestampMs": 19150,
+   "confidence": null
+  },
+  {
+   "text": " menos.",
+   "startMs": 19590,
+   "endMs": 20360,
+   "timestampMs": 19975,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 20360,
+   "endMs": 20440,
+   "timestampMs": 20390,
+   "confidence": null
+  },
+  {
+   "text": " casi",
+   "startMs": 20420,
+   "endMs": 20690,
+   "timestampMs": 20555,
+   "confidence": null
+  },
+  {
+   "text": " todo",
+   "startMs": 20690,
+   "endMs": 20960,
+   "timestampMs": 20825,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 20960,
+   "endMs": 21090,
+   "timestampMs": 21025,
+   "confidence": null
+  },
+  {
+   "text": " pierde",
+   "startMs": 21090,
+   "endMs": 21490,
+   "timestampMs": 21290,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 21490,
+   "endMs": 21620,
+   "timestampMs": 21555,
+   "confidence": null
+  },
+  {
+   "text": " las",
+   "startMs": 21620,
+   "endMs": 21870,
+   "timestampMs": 21745,
+   "confidence": null
+  },
+  {
+   "text": " primeras",
+   "startMs": 21870,
+   "endMs": 22420,
+   "timestampMs": 22145,
+   "confidence": null
+  },
+  {
+   "text": " horas.",
+   "startMs": 22420,
+   "endMs": 23020,
+   "timestampMs": 22720,
+   "confidence": null
+  },
+  {
+   "text": " Por",
+   "startMs": 23020,
+   "endMs": 23100,
+   "timestampMs": 23060,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 23100,
+   "endMs": 23230,
+   "timestampMs": 23165,
+   "confidence": null
+  },
+  {
+   "text": " noche,",
+   "startMs": 23230,
+   "endMs": 23700,
+   "timestampMs": 23465,
+   "confidence": null
+  },
+  {
+   "text": " al",
+   "startMs": 23700,
+   "endMs": 23830,
+   "timestampMs": 23765,
+   "confidence": null
+  },
+  {
+   "text": " tumbarte,",
+   "startMs": 23830,
+   "endMs": 24500,
+   "timestampMs": 24165,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 24500,
+   "endMs": 24700,
+   "timestampMs": 24600,
+   "confidence": null
+  },
+  {
+   "text": " discos",
+   "startMs": 24700,
+   "endMs": 25170,
+   "timestampMs": 24935,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 25170,
+   "endMs": 25250,
+   "timestampMs": 25170,
+   "confidence": null
+  },
+  {
+   "text": " recuperan,",
+   "startMs": 25170,
+   "endMs": 25880,
+   "timestampMs": 25525,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 25880,
+   "endMs": 25960,
+   "timestampMs": 25915,
+   "confidence": null
+  },
+  {
+   "text": " por",
+   "startMs": 25950,
+   "endMs": 26160,
+   "timestampMs": 26055,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 26160,
+   "endMs": 26300,
+   "timestampMs": 26230,
+   "confidence": null
+  },
+  {
+   "text": " mañana",
+   "startMs": 26300,
+   "endMs": 26700,
+   "timestampMs": 26500,
+   "confidence": null
+  },
+  {
+   "text": " vuelves",
+   "startMs": 26700,
+   "endMs": 27210,
+   "timestampMs": 26955,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 27210,
+   "endMs": 27290,
+   "timestampMs": 27230,
+   "confidence": null
+  },
+  {
+   "text": " tu",
+   "startMs": 27250,
+   "endMs": 27390,
+   "timestampMs": 27320,
+   "confidence": null
+  },
+  {
+   "text": " altura.",
+   "startMs": 27390,
+   "endMs": 28000,
+   "timestampMs": 27695,
+   "confidence": null
+  },
+  {
+   "text": " Mídete",
+   "startMs": 28000,
+   "endMs": 28530,
+   "timestampMs": 28265,
+   "confidence": null
+  },
+  {
+   "text": " al",
+   "startMs": 28530,
+   "endMs": 28610,
+   "timestampMs": 28535,
+   "confidence": null
+  },
+  {
+   "text": " despertar",
+   "startMs": 28540,
+   "endMs": 29140,
+   "timestampMs": 28840,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 29140,
+   "endMs": 29220,
+   "timestampMs": 29175,
+   "confidence": null
+  },
+  {
+   "text": " antes",
+   "startMs": 29210,
+   "endMs": 29550,
+   "timestampMs": 29380,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 29550,
+   "endMs": 29690,
+   "timestampMs": 29620,
+   "confidence": null
+  },
+  {
+   "text": " dormir,",
+   "startMs": 29690,
+   "endMs": 30360,
+   "timestampMs": 30025,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 30360,
+   "endMs": 30440,
+   "timestampMs": 30390,
+   "confidence": null
+  },
+  {
+   "text": " cuéntame",
+   "startMs": 30420,
+   "endMs": 30960,
+   "timestampMs": 30690,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 30960,
+   "endMs": 31060,
+   "timestampMs": 31010,
+   "confidence": null
+  },
+  {
+   "text": " diferencia",
+   "startMs": 31060,
+   "endMs": 31640,
+   "timestampMs": 31350,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 31640,
+   "endMs": 31720,
+   "timestampMs": 31670,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 31700,
+   "endMs": 31860,
+   "timestampMs": 31780,
+   "confidence": null
+  },
+  {
+   "text": " comentarios.",
+   "startMs": 31860,
+   "endMs": 32640,
+   "timestampMs": 32250,
+   "confidence": null
+  }
+ ],
+ "estilo": "ilustrado"
+}

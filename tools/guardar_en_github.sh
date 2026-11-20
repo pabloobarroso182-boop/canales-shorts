@@ -14,6 +14,8 @@ if grep -rIlqE "sk_[A-Za-z0-9]{20,}|ghp_[A-Za-z0-9]{20,}|AIza[0-9A-Za-z_-]{30,}|
   echo "✗ posible clave detectada: no se sube nada"; exit 1
 fi
 git add -A
+# output/ está excluido por el .gitignore del proyecto: se añade igualmente, sin vídeos ni audios
+git ls-files -o -i --exclude-standard curiosidades-canal/output | grep -vE "\.(mp4|wav|mov)$" | xargs -r git add -f
 if git diff --cached --quiet; then echo "✓ sin cambios"; exit 0; fi
 git -c user.name="Claude" -c user.email="noreply@anthropic.com" commit -q -m "Copia automática $(TZ=Europe/Madrid date '+%d/%m/%Y %H:%M')"
 for i in 1 2 3 4; do git -c push.negotiate=true push -q origin main && { echo "✓ subido a GitHub"; exit 0; }; sleep $((2**i)); done

@@ -1,0 +1,246 @@
+{
+  "id": "prototipo-ilustrado-mas-bajo",
+  "tema": "Cuerpo humano",
+  "tema_clave": "altura cambia durante el dia",
+  "titulo": "Ahora mismo eres MÁS BAJITO que esta mañana 📏 #shorts",
+  "descripcion": "A lo largo del día perdemos altura, normalmente entre uno y dos centímetros. Los discos que hay entre las vértebras tienen mucha agua: al estar de pie, el peso los comprime y pierden líquido. Al dormir tumbados se recuperan, y por la mañana volvemos a medir lo de siempre. La mayor parte de la pérdida ocurre en las primeras horas después de levantarse.\n\nFuentes: A Moment of Science (Indiana Public Media); ScienceBlog; Science ABC.",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#cuerpohumano",
+    "#ciencia",
+    "#sabíasque",
+    "#salud"
+  ],
+  "tags": [
+    "curiosidades",
+    "cuerpo humano",
+    "altura",
+    "columna vertebral",
+    "discos intervertebrales",
+    "ciencia",
+    "sabías que"
+  ],
+  "fuentes": [
+    "https://indianapublicmedia.org/amomentofscience/tall/",
+    "https://scienceblog.com/m-you-are-measurably-taller-when-you-wake-than-when-you-go-to-bed-and-lose-it-again-by-nightfall-the-soft-discs-between-your-vertebrae-compress-under-load-across-the-day-often-costing-you-around-a-ce/",
+    "https://www.scienceabc.com/humans/does-human-height-decrease-with-age-why-does-this-happen.html"
+  ],
+  "verificacion": "Las fuentes dan entre ~1 y ~2 cm (17–19 mm en estudios citados; media de 1,6 cm en un estudio con 90 adultos). Se dice 'entre uno y dos centímetros' y 'casi todo en las primeras horas' (más de la mitad en la primera hora y ~80 % en tres horas según un estudio pequeño). No se da una cifra exacta.",
+  "escenas": [
+    {
+      "kind": "hook",
+      "voz": "Ahora mismo eres más bajito que esta mañana.",
+      "icon": "body",
+      "big": "−1 CM",
+      "small": "desde que te levantaste",
+      "accent": "#FFD23F",
+      "ilustracion": {
+        "escenario": "habitacion",
+        "medidor": {
+          "desde": 668,
+          "hasta": 712
+        },
+        "personaje": {
+          "pose": "de_pie",
+          "x": 420,
+          "y": 1420,
+          "ojos": "sorpresa",
+          "boca": "o"
+        },
+        "cifra": {
+          "texto": "−1 CM",
+          "sub": "desde esta mañana"
+        },
+        "camara": {
+          "zoom": [
+            1.15,
+            1.3
+          ],
+          "foco": [
+            380,
+            800
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Y no es un error de la cinta métrica: le pasa a casi todo el mundo, todos los días.",
+      "icon": "check",
+      "big": "CADA DÍA",
+      "small": "a casi todo el mundo",
+      "accent": "#2BD9FE",
+      "ilustracion": {
+        "escenario": "ciudad",
+        "multitud": {
+          "total": 15,
+          "destacados": 15,
+          "todos": true
+        },
+        "cifra": {
+          "texto": "CADA DÍA",
+          "sub": "a casi todo el mundo"
+        },
+        "camara": {
+          "zoom": [
+            1.12,
+            1.02
+          ],
+          "foco": [
+            540,
+            1150
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Entre las vértebras tienes unos discos que, en gran parte, son agua.",
+      "icon": "spine",
+      "big": "DISCOS",
+      "small": "entre las vértebras",
+      "accent": "#7B5CFF",
+      "ilustracion": {
+        "escenario": "habitacion",
+        "personaje": {
+          "pose": "de_pie",
+          "x": 540,
+          "y": 1420
+        },
+        "lupa": {
+          "x": 540,
+          "y": 960,
+          "icono": "spine",
+          "color": "#2BD9FE",
+          "texto": "discos llenos de agua"
+        },
+        "camara": {
+          "zoom": [
+            1.15,
+            1.25
+          ],
+          "foco": [
+            540,
+            950
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Al estar de pie y moverte, el peso del cuerpo los aprieta y pierden algo de líquido.",
+      "icon": "drop",
+      "big": "PRESIÓN",
+      "small": "pierden líquido",
+      "accent": "#FF4D8D",
+      "ilustracion": {
+        "escenario": "habitacion",
+        "personaje": {
+          "pose": "brazos_arriba",
+          "x": 540,
+          "y": 1420,
+          "boca": "neutra"
+        },
+        "bocadillos": [
+          "Peso",
+          "Presión",
+          "Gotas fuera"
+        ],
+        "lupa": {
+          "x": 540,
+          "y": 960,
+          "icono": "drop",
+          "color": "#FF4D8D",
+          "texto": "pierden líquido"
+        },
+        "camara": {
+          "zoom": [
+            1.18,
+            1.28
+          ],
+          "foco": [
+            540,
+            950
+          ]
+        }
+      }
+    },
+    {
+      "kind": "giro",
+      "voz": "Resultado: al final del día puedes medir entre uno y dos centímetros menos. Y casi todo se pierde en las primeras horas.",
+      "icon": "clock",
+      "big": "1–2 CM",
+      "small": "casi todo en las primeras horas",
+      "accent": "#FFD23F",
+      "ilustracion": {
+        "escenario": "habitacion",
+        "medidor": {
+          "desde": 668,
+          "hasta": 740
+        },
+        "personaje": {
+          "pose": "de_pie",
+          "x": 420,
+          "y": 1420,
+          "ojos": "sorpresa",
+          "boca": "o"
+        },
+        "calendario": [
+          "Mañana",
+          "Tarde",
+          "Noche"
+        ],
+        "cifra": {
+          "texto": "1–2 CM",
+          "sub": "casi todo en las primeras horas"
+        },
+        "camara": {
+          "zoom": [
+            1.3,
+            1.12
+          ],
+          "foco": [
+            400,
+            780
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Por la noche, al tumbarte, los discos se recuperan, y por la mañana vuelves a tu altura.",
+      "icon": "moon",
+      "big": "RECARGA",
+      "small": "mientras duermes",
+      "accent": "#2BD9FE",
+      "ilustracion": {
+        "escenario": "habitacion_noche",
+        "cama": true,
+        "personaje": {
+          "pose": "tumbado",
+          "x": 880,
+          "y": 1150,
+          "escala": 0.95,
+          "ojos": "cerrados",
+          "boca": "neutra"
+        },
+        "zzz": true,
+        "camara": {
+          "zoom": [
+            1.15,
+            1.3
+          ],
+          "foco": [
+            480,
+            1120
+          ]
+        }
+      }
+    },
+    {
+      "kind": "cta",
+      "voz": "Mídete al despertar y antes de dormir, y cuéntame la diferencia en los comentarios.",
+      "icon": "question",
+      "big": "",
+      "accent": "#FFD23F"
+    }
+  ],
+  "estilo": "ilustrado"
+}
