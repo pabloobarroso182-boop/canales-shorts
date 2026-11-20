@@ -163,3 +163,8 @@ Horas aproximadas, en hora de Madrid. El detalle técnico de cada cambio está e
 - Nueva herramienta `pipeline/miniatura.py` (+ `pipeline/miniatura/`). Genera `miniatura.jpg` de 1080×1920: fotograma del gancho, banda difuminada con el gancho en letras grandes (palabra clave en amarillo) y la firma.
 - Integrada en `make_short.py` (campo `"miniatura"` del guion), la skill, CLAUDE.md, las reglas de los canales nuevos, INSTRUCCIONES y la tarea de las 18:00.
 - Hechas ya las 6 miniaturas de los Shorts del 20/11.
+
+## 20/11/2026 · madrugada (Madrid) — Pausa hasta el 1/12 y proyecto nuevo de vídeos largos
+- **Propietario:** no sigue con los canales de Shorts hasta el 1/12. La tarea de las 18:00 queda DESACTIVADA. Hay un recordatorio el 1/12 a las 9:00 (Madrid) para preguntarle si se reactiva; no se reactiva sin su confirmación.
+- Proyecto nuevo: `/home/user/youtube-long-form/` (`ENCARGO.md`, `CLAUDE.md`, `PLAN.md`): investigación de vídeos largos automatizados con IA. No se produce nada hasta que el propietario apruebe.
+- vidIQ: 43 créditos (plan gratis, se renueva el 18/12).
