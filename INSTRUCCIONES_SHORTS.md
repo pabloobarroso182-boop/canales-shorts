@@ -2,8 +2,9 @@
 
 Documento único con todo lo que ha decidido el propietario hasta el 19/11/2026 (hora de Madrid). Si empiezas una conversación nueva, pégalo o adjúntalo.
 
-> **Para empezar una conversación nueva**, adjunta este archivo y `copia-1-proyectos-sin-video.zip` y escribe:
-> «Recupera mis proyectos de Shorts con la copia adjunta y sigue al pie de la letra INSTRUCCIONES_SHORTS.md (sección 8). Vuelve a crear la tarea diaria de las 18:00 y dime qué falta.»
+> **Para empezar una conversación nueva** (GitHub ya conectado: repositorio privado **pabloobarroso182-boop/canales-shorts**), selecciona ese repositorio al crear la conversación, o pide que se añada, y escribe:
+> «Recupera mis proyectos de Shorts del repositorio canales-shorts y sigue al pie de la letra INSTRUCCIONES_SHORTS.md (sección 8). Vuelve a crear la tarea diaria de las 18:00 y dime qué falta.»
+> Si GitHub fallara, adjunta en su lugar la copia ZIP (`canales-shorts-TODO-…zip`).
 
 ## 1. Los canales
 
@@ -133,12 +134,12 @@ El servidor es temporal: si la conversación se cierra o pasa tiempo sin uso, se
 - los conectores (vidIQ, ScrapeIO, Returbe…).
 
 **Para no depender de copias manuales (recomendado):**
-- **GitHub:** guarda los proyectos automáticamente cada día. En una conversación nueva basta con decir «recupera el proyecto».
+- **GitHub: YA CONECTADO (20/11/2026).** Repositorio privado `pabloobarroso182-boop/canales-shorts`. La tarea diaria de las 18:00 guarda la copia al terminar (`tools/guardar_en_github.sh`); también se puede guardar a mano en cualquier momento. Sin claves, sin vídeos MP4 ni audios WAV y sin dependencias reinstalables.
+  - Para recuperarlo en un servidor nuevo: clonar el repositorio y copiar sus carpetas a `/home/user/` (`curiosidades-canal`, `canal2-shorts`, `canales-nuevos`, `estudio-mercado-shorts`, `INSTRUCCIONES_SHORTS.md`), y después `bash curiosidades-canal/scripts/setup.sh`.
 - **Script de inicio del entorno: YA CONFIGURADO (20/11/2026).** Cada servidor nuevo instala solo Whisper (y su modelo), Earshot, PyTorch, Kokoro, las librerías de Python, Blender, Inkscape, Synfig y Manim. Las dependencias de Remotion de cada proyecto se instalan al recuperarlo, con `scripts/setup.sh`.
 - Con los dos configurados, en cualquier conversación nueva todo estaría listo desde el principio.
 
 ## 9. Pendiente
 - Crear los 3 canales nuevos en YouTube y comprobar sus @.
 - Conectar YouTube: proyecto de Google Cloud y el `.json` de la credencial (guía en `curiosidades-canal/docs/conexion-youtube.md`).
-- Conectar GitHub para guardar los proyectos fuera del servidor.
 - Montar los sistemas de producción y las tareas de las 18:00 de los 3 canales nuevos.

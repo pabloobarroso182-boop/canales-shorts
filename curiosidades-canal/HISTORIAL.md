@@ -147,3 +147,9 @@ Horas aproximadas, en hora de Madrid. El detalle técnico de cada cambio está e
 - Probado desde cero en una carpeta aparte: Whisper y Earshot (unos 2 min). Las demás herramientas ya estaban instaladas aquí, así que esos pasos solo se comprobaron.
 - No estará totalmente demostrado hasta que arranque un servidor nuevo.
 - `INSTRUCCIONES_SHORTS.md` actualizado.
+
+## 20/11/2026 · madrugada (Madrid) — GitHub conectado
+- Repositorio privado **pabloobarroso182-boop/canales-shorts**, creado por el propietario.
+- Subidos los 4 proyectos, las instrucciones y los estudios, sin claves, vídeos, WAV ni dependencias. Se comprobó antes que no hubiera claves.
+- `tools/guardar_en_github.sh` guarda la copia. Se ejecuta en el paso 7 de la tarea diaria de las 18:00.
+- `INSTRUCCIONES_SHORTS.md` actualizado: cómo recuperarlo todo desde GitHub en una conversación nueva.
