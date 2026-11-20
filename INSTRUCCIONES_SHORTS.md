@@ -74,7 +74,7 @@ La marca de cada canal (perfil 800×800 y banners de 2560×1440 y de 4096×2304 
 ## 6. Límites y permisos
 - **No publicar en YouTube sin autorización expresa** del propietario.
 - **No comprar ni gastar sin permiso:** ni créditos, ni planes, ni suscripciones.
-- vidIQ solo para **investigar** (nunca para generar, subir ni publicar).
+- **Conectores para los Shorts: SOLO ElevenLabs (la voz) y vidIQ (investigar el nicho)** (propietario, 20/11). vidIQ nunca se usa para generar, subir ni publicar. La búsqueda web se sigue usando para verificar datos (no es un conector). GitHub solo guarda las copias.
 - No usar Higgsfield ni Nexlev.
 - Las contraseñas y claves nunca van en archivos ni en el chat.
 - No borrar materiales sin permiso.
@@ -101,17 +101,14 @@ La marca de cada canal (perfil 800×800 y banners de 2560×1440 y de 4096×2304 
 | Kokoro | Voz de emergencia. **Solo con permiso del propietario** | Script de inicio del entorno |
 | Qwen3-TTS | Pruebas de clonación. **No se usa** | No se instala |
 
-**Servicios y conectores (en tu cuenta; no se pierden con el servidor):**
+**Servicios y conectores (en tu cuenta; no se pierden con el servidor). Para los Shorts, SOLO ElevenLabs y vidIQ:**
 
 | Servicio | Para qué | Notas |
 |---|---|---|
 | **ElevenLabs** (`eleven_v4`, voz «datoscuriosin») | La voz de todos los Shorts | La clave está guardada como secreto del entorno |
 | **vidIQ** | Investigar el nicho cada día (outliers, transcripciones, análisis de vídeo) | Solo para investigar |
-| ScrapeIO | Búsquedas de YouTube y datos de canales (estudio de mercado) | La clave está guardada como secreto del entorno |
-| Returbe | Panorama de nichos y outliers (3 consultas gratis al día) | — |
-| TubeLab | Datos de canales (solo funciones gratis; 0 créditos) | Ahora mismo desconectado |
 | Búsqueda web | Verificar datos con fuentes primarias | — |
-| **No se usan:** Higgsfield, Nexlev | Prohibidos por el propietario | — |
+| **No se usan para los Shorts:** ScrapeIO, Returbe, TubeLab, OutlierKit, Higgsfield, Nexlev ni ningún otro conector | Decisión del propietario (20/11): para los Shorts, **solo ElevenLabs y vidIQ** | ScrapeIO, Returbe y TubeLab se usaron solo en el estudio de mercado del 19/11 |
 | Pendientes de conectar | API de YouTube (Google Cloud) y GitHub | Ver la sección 9 |
 
 ## 8. Si se cierra la conversación (cómo seguir en una nueva)

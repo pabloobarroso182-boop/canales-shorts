@@ -153,3 +153,7 @@ Horas aproximadas, en hora de Madrid. El detalle técnico de cada cambio está e
 - Subidos los 4 proyectos, las instrucciones y los estudios, sin claves, vídeos, WAV ni dependencias. Se comprobó antes que no hubiera claves.
 - `tools/guardar_en_github.sh` guarda la copia. Se ejecuta en el paso 7 de la tarea diaria de las 18:00.
 - `INSTRUCCIONES_SHORTS.md` actualizado: cómo recuperarlo todo desde GitHub en una conversación nueva.
+
+## 20/11/2026 · madrugada (Madrid) — Conectores
+- **Decisión del propietario:** para los Shorts solo se usan los conectores ElevenLabs (la voz) y vidIQ (investigación del nicho).
+- ScrapeIO, Returbe y TubeLab quedan fuera de la producción; solo se usaron en el estudio de mercado.

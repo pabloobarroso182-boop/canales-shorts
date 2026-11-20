@@ -15,6 +15,8 @@ Responde siempre en español. «Datos Curiosos» (`/home/user/curiosidades-canal
 
 **Descartado:** las voces de prueba de Qwen3-TTS (`voces/`). Se guardan pero no se usan.
 
+**Conectores (propietario, 20/11):** para los Shorts se usan **solo ElevenLabs (la voz) y vidIQ (investigar el nicho)**. Ningún otro: ni ScrapeIO, ni Returbe, ni TubeLab, ni OutlierKit, ni Higgsfield, ni Nexlev. La búsqueda web se usa para verificar datos.
+
 **Límites:**
 - No publicar ni gastar sin permiso.
 - Los caracteres de ElevenLabs se comparten con Datos Curiosos, que tiene prioridad.
