@@ -65,7 +65,7 @@ La marca de cada canal (perfil 800×800 y banners de 2560×1440 y de 4096×2304 
 - **Datos Curiosos:** la animación «divulga», tal cual. No se cambia.
 - **Canales nuevos:** cada uno tiene **su propio estilo**, distinto de los demás.
   - En su **primera producción**, al investigar el nicho con vidIQ, se elige la animación **más atractiva y que más engancha**, inspirada en el nicho y nunca copiada, con personajes y colores propios.
-  - **Desde entonces es SIEMPRE la misma en ese canal.**
+  - **Desde entonces es SIEMPRE la misma en ese canal.** Queda guardada en su código (`video/src/`) y en su `docs/estilo-animacion.md`, y se sube a GitHub en el momento, como la de Datos Curiosos.
 - Comunes a los 4 canales:
   - subtítulos palabra a palabra;
   - movimiento constante (un plano o zoom nuevo cada 2–3 s);
@@ -135,7 +135,7 @@ El servidor es temporal: si la conversación se cierra o pasa tiempo sin uso, se
 
 **Para no depender de copias manuales (recomendado):**
 - **GitHub: YA CONECTADO (20/11/2026).** Repositorio privado `pabloobarroso182-boop/canales-shorts`. La tarea diaria de las 18:00 guarda la copia al terminar (`tools/guardar_en_github.sh`), y Claude también la guarda tras **cada cambio importante** hecho en una conversación, sin que haga falta pedirlo. Sin claves, sin vídeos MP4 ni audios WAV y sin dependencias reinstalables.
-  - Para recuperarlo en un servidor nuevo: clonar el repositorio y copiar sus carpetas a `/home/user/` (`curiosidades-canal`, `canal2-shorts`, `canales-nuevos`, `estudio-mercado-shorts`, `INSTRUCCIONES_SHORTS.md`), y después `bash curiosidades-canal/scripts/setup.sh`.
+  - Para recuperarlo en un servidor nuevo: clonar el repositorio y copiar sus carpetas a `/home/user/` (`curiosidades-canal`, `canal2-shorts`, `canales-nuevos`, `estudio-mercado-shorts`, `INSTRUCCIONES_SHORTS.md`), y después `bash curiosidades-canal/scripts/setup.sh`. Después, vuelve a crear el enlace `canal2-shorts/video/node_modules → /home/user/curiosidades-canal/video/node_modules` (los proyectos de los canales nuevos usan las mismas librerías de Remotion que Datos Curiosos).
 - **Script de inicio del entorno: YA CONFIGURADO (20/11/2026).** Cada servidor nuevo instala solo Whisper (y su modelo), Earshot, PyTorch, Kokoro, las librerías de Python, Blender, Inkscape, Synfig y Manim. Las dependencias de Remotion de cada proyecto se instalan al recuperarlo, con `scripts/setup.sh`.
 - Con los dos configurados, en cualquier conversación nueva todo estaría listo desde el principio.
 
