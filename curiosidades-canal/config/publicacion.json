@@ -1,0 +1,44 @@
+{
+  "canal": "Datos Curiosos",
+  "handle_deseado": "@datoscuriososs.1",
+  "publicacion_automatica": false,
+  "privacidad_por_defecto": "private",
+  "zona_horaria": "Europe/Madrid",
+  "shorts_por_dia": 3,
+  "horas_publicacion": [
+    "13:30",
+    "18:30",
+    "21:30"
+  ],
+  "musica": false,
+  "voz": {
+    "usar": "voz_estandar (voz oficial aprobada el 19/11/2026)",
+    "antes": "curiosidades281 NNgYp96c8FM1iI4HMawH / eleven_multilingual_v2 y Kokoro em_alex: descartadas el 19/11",
+    "respaldo": "ninguno para publicar: si falla la voz oficial, el pipeline se para"
+  },
+  "duracion_s": {
+    "min": 25,
+    "max": 45
+  },
+  "visual": "Remotion (fondo 3D animado) · HyperFrames disponible",
+  "conectores": "ninguno para generar contenido, salvo ElevenLabs para la voz (autorizado por el propietario el 19/11)",
+  "estilo": "ilustrado",
+  "cuenta_google": "datoscuriososs790@gmail.com",
+  "nombre_anterior": "Curiosidades de Todo Tipo",
+  "voz_estandar": {
+    "estado": "APROBADA por el propietario el 19/11/2026 (prueba 1). Voz oficial y permanente del canal: no cambiar sin su permiso.",
+    "proveedor": "elevenlabs",
+    "modelo": "eleven_v4",
+    "voice_id": "kQwUFpYQ184OVlnMEzlm",
+    "nombre_voz": "datoscuriosin (clonada por el propietario)",
+    "idioma": "es",
+    "ajustes": {
+      "stability": 0.5,
+      "similarity": 0.85
+    },
+    "estirar_audio": false,
+    "guia": "docs/voz-narracion.md",
+    "fecha": "2026-11-19",
+    "referencia_aprobada": "assets/voz/estandar-v4/prueba-1-apolo12.mp3"
+  }
+}

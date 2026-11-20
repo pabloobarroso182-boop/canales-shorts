@@ -1,0 +1,15 @@
+[HOOK] [curious] Los vikingos nunca llevaron cuernos en el casco.
+
+[FACT] Sí, esa imagen que todos tenemos… es un invento.
+
+[FACT] El único casco vikingo casi completo que se ha encontrado, en Noruega, es redondo, de hierro, y sin un solo cuerno.
+
+[FACT] Entonces, ¿de dónde salen los cuernos?
+
+[FACT] Hay que viajar a Alemania, a mil ochocientos setenta y seis.
+
+[FACT] Y no a un campo de batalla, sino a un teatro.
+
+[GIRO] [dramatically] Para el estreno de una ópera de Wagner, el diseñador Carl Emil Doepler vistió a los guerreros con cascos con cuernos. Gustó tanto que pasó a cuadros, anuncios y libros… y hasta hoy.
+
+[CTA] [warmly] ¿Tú también los imaginabas con cuernos?

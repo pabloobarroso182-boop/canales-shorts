@@ -1,0 +1,31 @@
+{
+ "id": "20261119-4-platano-divulga",
+ "titulo": "Tu plátano es RADIACTIVO (y no pasa nada) 🍌☢️ #shorts",
+ "voz": {"proveedor": "elevenlabs", "modelo": "eleven_v4", "voice_id": "ojUrU2nc4bppCZKFp9U8", "nombre": "Javier - Comercial y Dinámica"},
+ "texto": "[dramatically] Este plátano es radiactivo. [pause] De verdad. [reassuring] Tranquilo, no es peligroso. Pero tiene truco. [curious] Los plátanos tienen mucho potasio. Y una parte diminuta de ese potasio… es radiactiva: el potasio cuarenta. [confident] En un solo plátano, unos quince átomos se desintegran… cada segundo. [amused] Es tan famoso que existe hasta una unidad de broma: la dosis equivalente a un plátano. [serious] Pero tu cuerpo regula el potasio. Comerte uno no te hace más radiactivo de lo que ya eres. [curious] ¿Te lo vas a seguir comiendo? [warmly] Te leo en los comentarios.",
+ "escenas": [
+  {"clave": "gancho", "empieza_en": ""},
+  {"clave": "tranquilo", "empieza_en": "Tranquilo,"},
+  {"clave": "potasio", "empieza_en": "Los"},
+  {"clave": "k40", "empieza_en": "Y"},
+  {"clave": "desintegra", "empieza_en": "En"},
+  {"clave": "unidad", "empieza_en": "Es"},
+  {"clave": "cuerpo", "empieza_en": "Pero"},
+  {"clave": "cta", "empieza_en": "vas", "retroceder": 2}
+ ],
+ "marcas": {
+  "radiactivo": "radiactivo.",
+  "peligroso": "peligroso.",
+  "truco": "truco.",
+  "potasio": "potasio.",
+  "diminuta": "diminuta",
+  "radiactiva": "radiactiva:",
+  "cuarenta": "cuarenta.",
+  "quince": "quince",
+  "broma": "broma:",
+  "dosis": "dosis",
+  "regula": "regula",
+  "eres": "eres.",
+  "comentarios": "comentarios."
+ }
+}

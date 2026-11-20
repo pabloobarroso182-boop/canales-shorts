@@ -1,0 +1,205 @@
+{
+  "id": "20261120-2-hora-espana-1940",
+  "tema": "Historia y geografía",
+  "tema_clave": "hora oficial españa 1940",
+  "estilo": "ilustrado",
+  "titulo": "¿Y si tu reloj va una HORA adelantado? 🕐 España y la hora de 1940 #shorts",
+  "descripcion": "El meridiano de Greenwich pasa por el este de España, y desde 1901 la hora oficial española fue la de Greenwich, como en Londres. Una orden del 7 de marzo de 1940 adelantó los relojes sesenta minutos y España nunca volvió a la hora de Greenwich. Por eso, en el reloj, el mediodía solar llega más tarde que en los países que usan la hora de su meridiano.\n\nFuentes: Instituto Geográfico Nacional («La hora oficial en España»); Universidade de Santiago de Compostela; Público; Euronews.",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#españa",
+    "#historia",
+    "#horario",
+    "#sabíasque"
+  ],
+  "tags": [
+    "curiosidades",
+    "hora oficial",
+    "España",
+    "huso horario",
+    "1940",
+    "meridiano de Greenwich",
+    "historia"
+  ],
+  "fuentes": [
+    "https://astronomia.ign.es/rknowsys-theme/images/webAstro/paginas/documentos/Anuario/lahoraoficialenespana.pdf",
+    "https://www.usc.gal/fagms/Publicaciones/2023/Huso%20horario%202023.pdf",
+    "https://www.publico.es/culturas/franco-desfaso-horario-espanol-sintonizar.html",
+    "https://es.euronews.com/2026/03/27/bulo-huso-horario-nazi-espana-roba-sueno-alinea-europa"
+  ],
+  "verificacion": "IGN: España adoptó la hora de Greenwich en 1901 y, tras sus cambios, nunca volvió a ella. Orden de 7/03/1940: adelanto de 60 minutos desde el 16/03/1940. El meridiano de Greenwich pasa por Castellón (USC, IGN). NO se afirma que fuera para agradar a Hitler: está discutido (Euronews, OAN).",
+  "escenas": [
+    {
+      "voz": "¿Y si te dijera que tu reloj va una hora adelantado?",
+      "icon": "clock",
+      "big": "+1 HORA",
+      "small": "tu reloj",
+      "accent": "#FFD23F",
+      "kind": "hook",
+      "ilustracion": {
+        "escenario": "habitacion",
+        "personaje": {
+          "pose": "de_pie",
+          "x": 600,
+          "y": 1420,
+          "ojos": "sorpresa",
+          "boca": "o",
+          "look": 7
+        },
+        "lupa": {
+          "x": 520,
+          "y": 1000,
+          "icono": "clock",
+          "color": "#FFD23F",
+          "texto": "una hora adelantado"
+        },
+        "camara": {
+          "zoom": [
+            1.1,
+            1.22
+          ],
+          "foco": [
+            560,
+            950
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Por el este de España pasa el meridiano de Greenwich, el mismo que cruza Londres.",
+      "icon": "globe",
+      "big": "0°",
+      "small": "meridiano de Greenwich",
+      "accent": "#2BD9FE",
+      "ilustracion": {
+        "escenario": "plano",
+        "color": "#2F6F8F",
+        "objeto": {
+          "icono": "globe",
+          "color": "#2BD9FE"
+        },
+        "cifra": {
+          "texto": "0°",
+          "sub": "meridiano de Greenwich"
+        },
+        "camara": {
+          "zoom": [
+            1.0,
+            1.1
+          ],
+          "foco": [
+            540,
+            800
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Por eso, desde mil novecientos uno, la hora oficial de España fue la misma que la de Londres.",
+      "icon": "calendar",
+      "big": "1901",
+      "small": "hora de Greenwich",
+      "accent": "#7B5CFF",
+      "ilustracion": {
+        "escenario": "ciudad",
+        "cifra": {
+          "texto": "1901",
+          "sub": "la misma hora que Londres"
+        },
+        "multitud": {
+          "total": 8,
+          "destacados": 8,
+          "todos": true
+        },
+        "camara": {
+          "zoom": [
+            1.15,
+            1.05
+          ],
+          "foco": [
+            540,
+            1100
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Pero en mil novecientos cuarenta, una orden adelantó todos los relojes sesenta minutos.",
+      "icon": "clock",
+      "big": "1940",
+      "small": "+60 minutos",
+      "accent": "#FF4D8D",
+      "ilustracion": {
+        "escenario": "habitacion",
+        "calendario": [
+          "Marzo",
+          "1940"
+        ],
+        "personaje": {
+          "pose": "de_pie",
+          "x": 420,
+          "y": 1420,
+          "boca": "o",
+          "look": 7
+        },
+        "cifra": {
+          "texto": "1940",
+          "sub": "relojes +60 minutos"
+        },
+        "camara": {
+          "zoom": [
+            1.05,
+            1.18
+          ],
+          "foco": [
+            480,
+            900
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Y nunca volvimos a la hora de Greenwich. Por eso, en el reloj, aquí el mediodía del sol llega más tarde.",
+      "icon": "sun",
+      "big": "UTC+1",
+      "small": "desde hace 86 años",
+      "accent": "#FFD23F",
+      "kind": "giro",
+      "ilustracion": {
+        "escenario": "habitacion",
+        "personaje": {
+          "pose": "brazos_arriba",
+          "x": 540,
+          "y": 1420,
+          "boca": "sonrisa",
+          "look": 7
+        },
+        "lupa": {
+          "x": 540,
+          "y": 960,
+          "icono": "sun",
+          "color": "#FFD23F",
+          "texto": "el sol, más tarde"
+        },
+        "camara": {
+          "zoom": [
+            1.12,
+            1.22
+          ],
+          "foco": [
+            540,
+            950
+          ]
+        }
+      }
+    },
+    {
+      "kind": "cta",
+      "voz": "¿Tú volverías a la hora de Londres? Te leo en los comentarios.",
+      "icon": "question",
+      "big": "",
+      "accent": "#FFD23F"
+    }
+  ]
+}

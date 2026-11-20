@@ -1,0 +1,48 @@
+{
+ "id": "20261119-5-bertha-benz-farmacia",
+ "tema": "Coches e historia",
+ "tema_clave": "primera gasolinera farmacia bertha benz wiesloch",
+ "estilo": "divulga",
+ "titulo": "La primera GASOLINERA del mundo era… una FARMACIA ⛽💊 #shorts",
+ "descripcion": "En agosto de 1888, Bertha Benz hizo con el coche de su marido, Karl Benz, el primer viaje largo en automóvil de la historia: unos 106 km entre Mannheim y Pforzheim, con sus dos hijos. Por el camino se quedó sin combustible y compró ligroína, un disolvente que entonces se vendía en farmacias, en la farmacia municipal de Wiesloch. Esa farmacia sigue abierta y hoy se la conoce como la primera gasolinera del mundo.",
+ "hashtags": ["#shorts", "#curiosidades", "#datoscuriosos", "#coches", "#historia", "#mercedes", "#motor"],
+ "tags": ["curiosidades", "coches", "historia del automóvil", "Bertha Benz", "primera gasolinera", "Wiesloch", "datos curiosos"],
+ "fuentes": [
+  "Encyclopaedia Britannica · Bertha Benz (primer viaje largo en automóvil, agosto de 1888): https://www.britannica.com/biography/Bertha-Benz",
+  "National Motor Museum (Reino Unido) · Bertha Benz: https://nationalmotormuseum.org.uk/story-of-motoring/motoring-topics/international-womens-day-and-womens-history-month/bertha-benz/",
+  "Mercedes-Benz AMG F1 (Mercedes-Benz) · La historia de Bertha Benz: https://www.mercedesamgf1.com/news/a-pioneer-of-the-motor-car-the-story-of-bertha-benz",
+  "Bertha Benz Memorial Route (ligroína solo en farmacias; Stadt-Apotheke de Wiesloch): https://en.wikipedia.org/wiki/Bertha_Benz_Memorial_Route",
+  "MBCA The Star · la farmacia sigue abierta: https://starmagazine.mbca.org/node/7148199"
+ ],
+ "verificacion": "5 de agosto de 1888, Mannheim → Pforzheim (~106 km), con sus hijos Eugen y Richard, para visitar a su madre. Compró ligroína (disolvente derivado del petróleo, que entonces solo se vendía en farmacias) en la Stadt-Apotheke de Wiesloch, que sigue abierta. «Primera gasolinera del mundo» es el nombre popular que se le da hoy (no un récord oficial), y así se dice en el guion: «se la conoce como». No se afirma que se llevara el coche a escondidas porque las fuentes no coinciden.",
+ "escenas": [
+  {"clave": "c_gancho", "kind": "hook", "voz": "[curious] ¿Sabes dónde estaba la primera gasolinera del mundo?"},
+  {"clave": "c_farmacia", "kind": "fact", "voz": "En una farmacia."},
+  {"clave": "c_bertha", "kind": "fact", "voz": "Agosto de 1888. Bertha Benz coge el coche de su marido, Karl, y sale con sus dos hijos hacia casa de su madre."},
+  {"clave": "c_ruta", "kind": "fact", "voz": "Ciento seis kilómetros. Era el primer viaje largo en coche de la historia."},
+  {"clave": "c_sin", "kind": "fact", "voz": "Por el camino, se queda sin combustible."},
+  {"clave": "c_nohay", "kind": "fact", "voz": "Pista: todavía no existían las gasolineras."},
+  {"clave": "c_compra", "kind": "giro", "voz": "[dramatically] Así que entra en una farmacia de Wiesloch… y compra ligroína, un disolvente que entonces se vendía en farmacias."},
+  {"clave": "c_arranca", "kind": "fact", "voz": "Y el coche volvió a arrancar."},
+  {"clave": "c_hoy", "kind": "fact", "voz": "Esa farmacia sigue abierta. Y hoy se la conoce como la primera gasolinera del mundo."},
+  {"clave": "c_cta", "kind": "cta", "voz": "[warmly] ¿Tú te habrías atrevido?"}
+ ],
+ "marcas": {
+  "gasolinera": "gasolinera",
+  "farmacia": "farmacia.",
+  "1888": "1888.",
+  "bertha": "Bertha",
+  "hijos": "hijos",
+  "madre": "madre.",
+  "km": "kilómetros.",
+  "primer": "primer",
+  "combustible": "combustible.",
+  "existian": "existían",
+  "wiesloch": "Wiesloch…",
+  "ligroina": "ligroína,",
+  "arrancar": "arrancar.",
+  "abierta": "abierta.",
+  "conoce": "conoce",
+  "atrevido": "atrevido?"
+ }
+}

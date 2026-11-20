@@ -1,0 +1,58 @@
+  · alineación: 97% de las palabras
+{"escenas": [{"clave": "o_gancho", "startMs": 0}, {"clave": "o_quien", "startMs": 3010}, {"clave": "o_raro", "startMs": 6130}, {"clave": "o_falta", "startMs": 11050}, {"clave": "o_museo", "startMs": 12850}, {"clave": "o_cambia", "startMs": 18250}, {"clave": "o_brilla", "startMs": 20970}, {"clave": "o_cta", "startMs": 32190}], "duracion_s": 35.1}
+  · render (remotion, Divulga)
+✓ 20261120-1-ornitorrinco-brilla.mp4
+  · alineación: 97% de las palabras
+{"escenas": [{"clave": "e_gancho", "startMs": 0}, {"clave": "e_acido", "startMs": 4110}, {"clave": "e_moco", "startMs": 8650}, {"clave": "e_basta", "startMs": 12770}, {"clave": "e_dano", "startMs": 13950}, {"clave": "e_rompe", "startMs": 17550}, {"clave": "e_renueva", "startMs": 20070}, {"clave": "e_cta", "startMs": 29930}], "duracion_s": 33.9}
+  · render (remotion, Divulga)
+✓ 20261120-2-estomago-se-renueva.mp4
+  · alineación: 94% de las palabras
+{"escenas": [{"clave": "s_gancho", "startMs": 0}, {"clave": "s_grande", "startMs": 3290}, {"clave": "s_gas", "startMs": 7570}, {"clave": "s_cuenta", "startMs": 12010}, {"clave": "s_litro", "startMs": 13450}, {"clave": "s_menos", "startMs": 18980}, {"clave": "s_flota", "startMs": 20570}, {"clave": "s_cta", "startMs": 31290}], "duracion_s": 34.7}
+  · render (remotion, Divulga)
+✓ 20261120-3-saturno-flotaria.mp4
+  · alineación: 92% de las palabras
+{"escenas": [{"clave": "v_gancho", "startMs": 0}, {"clave": "v_imagen", "startMs": 2930}, {"clave": "v_real", "startMs": 6450}, {"clave": "v_salen", "startMs": 14130}, {"clave": "v_ano", "startMs": 16850}, {"clave": "v_teatro", "startMs": 20530}, {"clave": "v_opera", "startMs": 23530}, {"clave": "v_cta", "startMs": 35170}], "duracion_s": 38.5}
+  · render (remotion, Divulga)
+✓ 20261120-4-vikingos-sin-cuernos.mp4
+  · alineación: 95% de las palabras
+{"escenas": [{"clave": "b_gancho", "startMs": 0}, {"clave": "b_hoy", "startMs": 3290}, {"clave": "b_pak", "startMs": 7920}, {"clave": "b_patas", "startMs": 14930}, {"clave": "b_cambio", "startMs": 17170}, {"clave": "b_atras", "startMs": 22370}, {"clave": "b_huesos", "startMs": 25820}, {"clave": "b_cta", "startMs": 35770}], "duracion_s": 38.8}
+  · render (remotion, Divulga)
+✓ 20261120-5-ballenas-tenian-patas.mp4
+  · alineación: 99% de las palabras
+{"escenas": [{"clave": "m_gancho", "startMs": 0}, {"clave": "m_miel", "startMs": 4050}, {"clave": "m_tumbas", "startMs": 5050}, {"clave": "m_truco", "startMs": 9890}, {"clave": "m_azucar", "startMs": 10890}, {"clave": "m_abejas", "startMs": 16930}, {"clave": "m_enzima", "startMs": 19050}, {"clave": "m_cta", "startMs": 30530}], "duracion_s": 34.0}
+  · render (remotion, Divulga)
+✓ 20261120-6-miel-no-caduca.mp4
+# Producción para el 2026-11-20
+
+_Generado: 19/11/2026 17:23 · 6 de 6 Shorts aprobados_
+
+## ✅ El ORNITORRINCO brilla en la oscuridad 🦆✨ #shorts
+- Carpeta: `01-ornitorrinco-brilla/` · estado: **aprobado**
+- Duración: 35.12 s · voz: elevenlabs_v4 (voz oficial)
+- Originalidad: máx. 0% de frases de 5 palabras compartidas (con «—»), 14 textos comparados
+
+## ✅ ¿Por qué tu ESTÓMAGO no se digiere a sí mismo? 🤯 #shorts
+- Carpeta: `02-estomago-se-renueva/` · estado: **aprobado**
+- Duración: 33.88 s · voz: elevenlabs_v4 (voz oficial)
+- Originalidad: máx. 0% de frases de 5 palabras compartidas (con «—»), 14 textos comparados
+
+## ✅ SATURNO flotaría en una bañera 🪐🛁 #shorts
+- Carpeta: `03-saturno-flotaria/` · estado: **aprobado**
+- Duración: 34.75 s · voz: elevenlabs_v4 (voz oficial)
+- Originalidad: máx. 0% de frases de 5 palabras compartidas (con «—»), 14 textos comparados
+
+## ✅ Los VIKINGOS nunca llevaron cuernos 🪖❌ #shorts
+- Carpeta: `04-vikingos-sin-cuernos/` · estado: **aprobado**
+- Duración: 38.51 s · voz: elevenlabs_v4 (voz oficial)
+- Originalidad: máx. 0% de frases de 5 palabras compartidas (con «—»), 14 textos comparados
+
+## ✅ Las BALLENAS antes CAMINABAN 🐋🦵 #shorts
+- Carpeta: `05-ballenas-tenian-patas/` · estado: **aprobado**
+- Duración: 38.87 s · voz: elevenlabs_v4 (voz oficial)
+- Originalidad: máx. 0% de frases de 5 palabras compartidas (con «—»), 14 textos comparados
+
+## ✅ La MIEL (casi) no caduca 🍯⏳ #shorts
+- Carpeta: `06-miel-no-caduca/` · estado: **aprobado**
+- Duración: 34.01 s · voz: elevenlabs_v4 (voz oficial)
+- Originalidad: máx. 0% de frases de 5 palabras compartidas (con «—»), 14 textos comparados
+

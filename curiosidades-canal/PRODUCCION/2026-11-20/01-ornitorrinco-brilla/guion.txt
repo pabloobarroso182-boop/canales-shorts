@@ -1,0 +1,15 @@
+[HOOK] [curious] ¿Sabías que hay un mamífero que brilla en la oscuridad?
+
+[FACT] Es el ornitorrinco. Sí, el del pico de pato.
+
+[FACT] Ya era raro: pone huevos, y los machos tienen un espolón con veneno en las patas.
+
+[FACT] Pero escondía algo más.
+
+[FACT] En dos mil veinte, unos científicos iluminaron ornitorrincos de un museo con luz ultravioleta.
+
+[FACT] Y su pelo marrón… cambió de color.
+
+[GIRO] [dramatically] Brillaba en verde y azul. Es biofluorescencia: el pelo absorbe esa luz invisible y la devuelve en colores que sí vemos. Y nadie sabe todavía para qué le sirve.
+
+[CTA] [warmly] ¿Tú para qué crees que lo usa?

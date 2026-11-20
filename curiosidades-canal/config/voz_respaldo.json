@@ -1,0 +1,27 @@
+{
+  "elegida": "em_alex",
+  "velocidad": 1.0,
+  "ajuste_tono_semitonos": 0.438,
+  "ecualizacion": "equalizer=f=120:t=o:w=1:g=2.2,equalizer=f=2000:t=o:w=1:g=2.6,equalizer=f=3500:t=o:w=1:g=4.5,equalizer=f=7000:t=o:w=1:g=-1.7",
+  "referencia": {
+    "archivo": "assets/voz/muestra-objetivo.wav",
+    "texto": "¿Qué pasaría si todas las personas del mundo saltáramos a la vez? Lo primero, hay que saltar juntos, en el mismo sitio, porque repartidos no sirve de nada. Ya se probó.",
+    "f0_mediana_hz": 136.8,
+    "variacion_entonacion_st": 4.32,
+    "duracion_s": 9.53
+  },
+  "sin_ajustar": {
+    "timbre": 0.512,
+    "tono_st": 0.582,
+    "entonacion_st": 1.197,
+    "ritmo": 0.006
+  },
+  "ajustada": {
+    "timbre": 0.423,
+    "tono_st": 0.438,
+    "entonacion_st": 1.18,
+    "ritmo": 0.006
+  },
+  "fijada": true,
+  "nota": "Voz em_alex elegida por el propietario (candidata C) y ajustada a su muestra. No retocar sin que lo pida."
+}

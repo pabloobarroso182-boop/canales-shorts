@@ -1,0 +1,227 @@
+{
+  "id": "20261120-3-primer-mensaje-internet",
+  "tema": "Tecnología",
+  "tema_clave": "primer mensaje internet lo",
+  "estilo": "ilustrado",
+  "titulo": "El PRIMER mensaje de internet tenía solo dos letras 💻 #shorts",
+  "descripcion": "El 29 de octubre de 1969, en la UCLA, el estudiante Charley Kline intentó enviar la palabra «login» por ARPANET a un ordenador del Instituto de Investigación de Stanford. Llegaron la L y la O… y el sistema se colgó. Así que lo primero que se transmitió fue «LO». Alrededor de una hora después lo arreglaron y el inicio de sesión completo funcionó.\n\nFuentes: Leonard Kleinrock (UCLA); CBS News; History of Information.",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#internet",
+    "#tecnologia",
+    "#historia",
+    "#sabíasque"
+  ],
+  "tags": [
+    "curiosidades",
+    "internet",
+    "ARPANET",
+    "historia de internet",
+    "tecnología",
+    "UCLA",
+    "sabías que"
+  ],
+  "fuentes": [
+    "https://www.lk.cs.ucla.edu/internet_first_words.html",
+    "https://www.cbsnews.com/news/first-message-sent-over-the-internet-45-years-ago",
+    "https://www.historyofinformation.com/detail.php?id=882"
+  ],
+  "verificacion": "Página de Kleinrock (UCLA): transmitieron la 'l' y la 'o' y el sistema se colgó; el login completo se hizo una hora después. Destino: SRI (Instituto de Investigación de Stanford). Hay discrepancia sobre la causa del fallo, por eso no se explica la causa.",
+  "escenas": [
+    {
+      "voz": "El primer mensaje de internet tenía solo dos letras.",
+      "icon": "bulb",
+      "big": "2 LETRAS",
+      "small": "el primer mensaje",
+      "accent": "#FFD23F",
+      "kind": "hook",
+      "ilustracion": {
+        "escenario": "sala_control",
+        "personaje": {
+          "pose": "de_pie",
+          "x": 540,
+          "y": 1560,
+          "ojos": "sorpresa",
+          "boca": "o",
+          "look": 4
+        },
+        "cifra": {
+          "texto": "2 LETRAS",
+          "sub": "el primer mensaje"
+        },
+        "camara": {
+          "zoom": [
+            1.05,
+            1.18
+          ],
+          "foco": [
+            540,
+            1000
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Fue en mil novecientos sesenta y nueve, en la Universidad de California en Los Ángeles.",
+      "icon": "calendar",
+      "big": "1969",
+      "small": "UCLA",
+      "accent": "#2BD9FE",
+      "ilustracion": {
+        "escenario": "ciudad",
+        "cifra": {
+          "texto": "1969",
+          "sub": "Los Ángeles · UCLA"
+        },
+        "camara": {
+          "zoom": [
+            1.15,
+            1.03
+          ],
+          "foco": [
+            540,
+            1000
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Un estudiante, Charley Kline, intentó enviar la palabra login a un ordenador del Instituto de Investigación de Stanford.",
+      "icon": "rocket",
+      "big": "LOGIN",
+      "small": "el mensaje previsto",
+      "accent": "#7B5CFF",
+      "ilustracion": {
+        "escenario": "sala_control",
+        "personaje": {
+          "pose": "de_pie",
+          "x": 540,
+          "y": 1700,
+          "boca": "sonrisa",
+          "look": 6
+        },
+        "bocadillos": [
+          "login",
+          "→ Stanford"
+        ],
+        "camara": {
+          "zoom": [
+            1.0,
+            1.1
+          ],
+          "foco": [
+            540,
+            1100
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Escribió la ele, y llegó. Escribió la o, y llegó también.",
+      "icon": "check",
+      "big": "L · O",
+      "small": "llegan",
+      "accent": "#3CCB9E",
+      "ilustracion": {
+        "escenario": "sala_control",
+        "personaje": {
+          "pose": "de_pie",
+          "x": 540,
+          "y": 1700,
+          "boca": "sonrisa",
+          "look": 6
+        },
+        "bocadillos": [
+          "L ✓",
+          "O ✓"
+        ],
+        "cifra": {
+          "texto": "L · O",
+          "sub": "llegan bien"
+        },
+        "camara": {
+          "zoom": [
+            1.08,
+            1.16
+          ],
+          "foco": [
+            540,
+            1050
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Pero al seguir con la siguiente letra, el sistema se colgó. Lo primero que recibió internet fue lo.",
+      "icon": "alert",
+      "big": "«LO»",
+      "small": "el sistema se colgó",
+      "accent": "#FF4D8D",
+      "kind": "giro",
+      "ilustracion": {
+        "escenario": "sala_control",
+        "alarma": true,
+        "personaje": {
+          "pose": "de_pie",
+          "x": 540,
+          "y": 1700,
+          "ojos": "sorpresa",
+          "boca": "o",
+          "look": 6
+        },
+        "cifra": {
+          "texto": "«LO»",
+          "sub": "y el sistema se colgó"
+        },
+        "camara": {
+          "zoom": [
+            1.18,
+            1.05
+          ],
+          "foco": [
+            540,
+            1050
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Más o menos una hora después lo arreglaron, y el mensaje completo llegó sin problemas.",
+      "icon": "clock",
+      "big": "1 HORA",
+      "small": "después, todo funcionó",
+      "accent": "#2BD9FE",
+      "ilustracion": {
+        "escenario": "sala_control",
+        "personaje": {
+          "pose": "brazos_arriba",
+          "x": 540,
+          "y": 1700,
+          "boca": "sonrisa",
+          "look": 6
+        },
+        "bocadillos": [
+          "login ✓"
+        ],
+        "camara": {
+          "zoom": [
+            1.05,
+            1.15
+          ],
+          "foco": [
+            540,
+            1050
+          ]
+        }
+      }
+    },
+    {
+      "kind": "cta",
+      "voz": "¿Qué habrías escrito tú como primer mensaje? Te leo en los comentarios.",
+      "icon": "question",
+      "big": "",
+      "accent": "#FFD23F"
+    }
+  ]
+}

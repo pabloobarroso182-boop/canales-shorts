@@ -1,0 +1,1074 @@
+{
+ "id": "20261119-1-apolo12-rayos",
+ "durationMs": 38597,
+ "audio": "shorts/20261119-1-apolo12-rayos/mezcla.wav",
+ "scenes": [
+  {
+   "startMs": 0,
+   "endMs": 3453,
+   "clip": null,
+   "icon": "bolt",
+   "big": "2 RAYOS",
+   "small": "y llegó a la Luna",
+   "accent": "#FFD23F",
+   "kind": "hook",
+   "ilustracion": {
+    "escenario": "lanzamiento",
+    "rayos": [
+     18,
+     42
+    ],
+    "cifra": {
+     "texto": "2 RAYOS",
+     "sub": "y llegó a la Luna"
+    },
+    "camara": {
+     "zoom": [
+      1.0,
+      1.12
+     ],
+     "foco": [
+      540,
+      900
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 3503,
+   "endMs": 7182,
+   "clip": null,
+   "icon": "rocket",
+   "big": "1969",
+   "small": "misión Apolo 12",
+   "accent": "#2BD9FE",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "lanzamiento",
+    "cifra": {
+     "texto": "1969",
+     "sub": "misión Apolo 12"
+    },
+    "camara": {
+     "zoom": [
+      1.15,
+      1.05
+     ],
+     "foco": [
+      540,
+      800
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 7232,
+   "endMs": 12807,
+   "clip": null,
+   "icon": "bolt",
+   "big": "36 s · 52 s",
+   "small": "dos impactos en el despegue",
+   "accent": "#FF4D8D",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "lanzamiento",
+    "rayos": [
+     40,
+     100
+    ],
+    "cifra": {
+     "texto": "36 s · 52 s",
+     "sub": "dos rayos en el despegue"
+    },
+    "camara": {
+     "zoom": [
+      1.05,
+      1.18
+     ],
+     "foco": [
+      540,
+      700
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 12857,
+   "endMs": 18486,
+   "clip": null,
+   "icon": "alert",
+   "big": "ALARMAS",
+   "small": "datos sin sentido",
+   "accent": "#FF4D8D",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "sala_control",
+    "alarma": true,
+    "personaje": {
+     "pose": "de_pie",
+     "x": 540,
+     "y": 1500,
+     "ojos": "sorpresa",
+     "boca": "o",
+     "look": 2
+    },
+    "bocadillos": [
+     "¡Alarma!",
+     "Datos raros",
+     "¿Qué pasa?",
+     "¡Alarma!"
+    ],
+    "camara": {
+     "zoom": [
+      1.1,
+      1.22
+     ],
+     "foco": [
+      540,
+      900
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 18536,
+   "endMs": 25611,
+   "clip": null,
+   "icon": "bulb",
+   "big": "SCE → AUX",
+   "small": "la orden que salvó la misión",
+   "accent": "#7B5CFF",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "sala_control",
+    "personaje": {
+     "pose": "de_pie",
+     "x": 540,
+     "y": 1760,
+     "boca": "sonrisa",
+     "look": 6,
+     "escala": 1.05
+    },
+    "lupa": {
+     "x": 540,
+     "y": 1000,
+     "icono": "bulb",
+     "color": "#FFD23F",
+     "texto": "SCE → AUX"
+    },
+    "camara": {
+     "zoom": [
+      1.0,
+      1.08
+     ],
+     "foco": [
+      540,
+      1100
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 25661,
+   "endMs": 35003,
+   "clip": null,
+   "icon": "planet",
+   "big": "19 NOV",
+   "small": "junto a la sonda Surveyor 3",
+   "accent": "#FFD23F",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "luna",
+    "cifra": {
+     "texto": "19 NOV",
+     "sub": "junto a la sonda Surveyor 3"
+    },
+    "camara": {
+     "zoom": [
+      1.0,
+      1.12
+     ],
+     "foco": [
+      620,
+      1300
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 35053,
+   "endMs": 37997,
+   "clip": null,
+   "icon": "question",
+   "big": "",
+   "small": null,
+   "accent": "#FFD23F",
+   "kind": "cta",
+   "ilustracion": null
+  }
+ ],
+ "captions": [
+  {
+   "text": "A",
+   "startMs": 0,
+   "endMs": 80,
+   "timestampMs": 35,
+   "confidence": null
+  },
+  {
+   "text": " este",
+   "startMs": 70,
+   "endMs": 350,
+   "timestampMs": 210,
+   "confidence": null
+  },
+  {
+   "text": " cohete",
+   "startMs": 350,
+   "endMs": 780,
+   "timestampMs": 565,
+   "confidence": null
+  },
+  {
+   "text": " le",
+   "startMs": 780,
+   "endMs": 910,
+   "timestampMs": 845,
+   "confidence": null
+  },
+  {
+   "text": " cayeron",
+   "startMs": 910,
+   "endMs": 1400,
+   "timestampMs": 1155,
+   "confidence": null
+  },
+  {
+   "text": " dos",
+   "startMs": 1400,
+   "endMs": 1610,
+   "timestampMs": 1505,
+   "confidence": null
+  },
+  {
+   "text": " rayos.",
+   "startMs": 1610,
+   "endMs": 2030,
+   "timestampMs": 1820,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 2030,
+   "endMs": 2110,
+   "timestampMs": 2060,
+   "confidence": null
+  },
+  {
+   "text": " aun",
+   "startMs": 2090,
+   "endMs": 2240,
+   "timestampMs": 2165,
+   "confidence": null
+  },
+  {
+   "text": " así",
+   "startMs": 2240,
+   "endMs": 2450,
+   "timestampMs": 2345,
+   "confidence": null
+  },
+  {
+   "text": " llegó",
+   "startMs": 2450,
+   "endMs": 2800,
+   "timestampMs": 2625,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 2800,
+   "endMs": 2910,
+   "timestampMs": 2855,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 2910,
+   "endMs": 3010,
+   "timestampMs": 2960,
+   "confidence": null
+  },
+  {
+   "text": " Luna.",
+   "startMs": 3010,
+   "endMs": 3560,
+   "timestampMs": 3285,
+   "confidence": null
+  },
+  {
+   "text": " Era",
+   "startMs": 3560,
+   "endMs": 3780,
+   "timestampMs": 3670,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 3780,
+   "endMs": 3930,
+   "timestampMs": 3855,
+   "confidence": null
+  },
+  {
+   "text": " Apolo",
+   "startMs": 3930,
+   "endMs": 4320,
+   "timestampMs": 4125,
+   "confidence": null
+  },
+  {
+   "text": " doce,",
+   "startMs": 4320,
+   "endMs": 4760,
+   "timestampMs": 4540,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 4760,
+   "endMs": 4840,
+   "timestampMs": 4800,
+   "confidence": null
+  },
+  {
+   "text": " noviembre",
+   "startMs": 4840,
+   "endMs": 5280,
+   "timestampMs": 5060,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 5280,
+   "endMs": 5470,
+   "timestampMs": 5375,
+   "confidence": null
+  },
+  {
+   "text": " mil",
+   "startMs": 5470,
+   "endMs": 5620,
+   "timestampMs": 5545,
+   "confidence": null
+  },
+  {
+   "text": " novecientos",
+   "startMs": 5620,
+   "endMs": 6240,
+   "timestampMs": 5930,
+   "confidence": null
+  },
+  {
+   "text": " sesenta",
+   "startMs": 6240,
+   "endMs": 6700,
+   "timestampMs": 6470,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 6700,
+   "endMs": 6780,
+   "timestampMs": 6705,
+   "confidence": null
+  },
+  {
+   "text": " nueve.",
+   "startMs": 6710,
+   "endMs": 7260,
+   "timestampMs": 6985,
+   "confidence": null
+  },
+  {
+   "text": " A",
+   "startMs": 7260,
+   "endMs": 7370,
+   "timestampMs": 7315,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 7370,
+   "endMs": 7450,
+   "timestampMs": 7405,
+   "confidence": null
+  },
+  {
+   "text": " treinta",
+   "startMs": 7440,
+   "endMs": 7860,
+   "timestampMs": 7650,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 7860,
+   "endMs": 7940,
+   "timestampMs": 7890,
+   "confidence": null
+  },
+  {
+   "text": " seis",
+   "startMs": 7920,
+   "endMs": 8160,
+   "timestampMs": 8040,
+   "confidence": null
+  },
+  {
+   "text": " segundos",
+   "startMs": 8160,
+   "endMs": 8640,
+   "timestampMs": 8400,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 8640,
+   "endMs": 8830,
+   "timestampMs": 8735,
+   "confidence": null
+  },
+  {
+   "text": " despegue",
+   "startMs": 8830,
+   "endMs": 9320,
+   "timestampMs": 9075,
+   "confidence": null
+  },
+  {
+   "text": " le",
+   "startMs": 9320,
+   "endMs": 9400,
+   "timestampMs": 9340,
+   "confidence": null
+  },
+  {
+   "text": " alcanzó",
+   "startMs": 9360,
+   "endMs": 9800,
+   "timestampMs": 9580,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 9800,
+   "endMs": 9990,
+   "timestampMs": 9895,
+   "confidence": null
+  },
+  {
+   "text": " rayo.",
+   "startMs": 9990,
+   "endMs": 10550,
+   "timestampMs": 10270,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 10550,
+   "endMs": 10630,
+   "timestampMs": 10565,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 10580,
+   "endMs": 10660,
+   "timestampMs": 10620,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 10660,
+   "endMs": 10900,
+   "timestampMs": 10780,
+   "confidence": null
+  },
+  {
+   "text": " cincuenta",
+   "startMs": 10900,
+   "endMs": 11600,
+   "timestampMs": 11250,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 11600,
+   "endMs": 11680,
+   "timestampMs": 11640,
+   "confidence": null
+  },
+  {
+   "text": " dos,",
+   "startMs": 11680,
+   "endMs": 12070,
+   "timestampMs": 11875,
+   "confidence": null
+  },
+  {
+   "text": " otro",
+   "startMs": 12070,
+   "endMs": 12380,
+   "timestampMs": 12225,
+   "confidence": null
+  },
+  {
+   "text": " más.",
+   "startMs": 12380,
+   "endMs": 12920,
+   "timestampMs": 12650,
+   "confidence": null
+  },
+  {
+   "text": " Se",
+   "startMs": 12920,
+   "endMs": 13060,
+   "timestampMs": 12990,
+   "confidence": null
+  },
+  {
+   "text": " activaron",
+   "startMs": 13060,
+   "endMs": 13720,
+   "timestampMs": 13390,
+   "confidence": null
+  },
+  {
+   "text": " casi",
+   "startMs": 13720,
+   "endMs": 13980,
+   "timestampMs": 13850,
+   "confidence": null
+  },
+  {
+   "text": " todas",
+   "startMs": 13980,
+   "endMs": 14540,
+   "timestampMs": 14260,
+   "confidence": null
+  },
+  {
+   "text": " las",
+   "startMs": 14540,
+   "endMs": 14620,
+   "timestampMs": 14545,
+   "confidence": null
+  },
+  {
+   "text": " alarmas,",
+   "startMs": 14550,
+   "endMs": 15190,
+   "timestampMs": 14870,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 15190,
+   "endMs": 15270,
+   "timestampMs": 15225,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 15260,
+   "endMs": 15520,
+   "timestampMs": 15390,
+   "confidence": null
+  },
+  {
+   "text": " datos",
+   "startMs": 15520,
+   "endMs": 15860,
+   "timestampMs": 15690,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 15860,
+   "endMs": 16060,
+   "timestampMs": 15960,
+   "confidence": null
+  },
+  {
+   "text": " llegaban",
+   "startMs": 16060,
+   "endMs": 16530,
+   "timestampMs": 16295,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 16530,
+   "endMs": 16650,
+   "timestampMs": 16590,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 16650,
+   "endMs": 16770,
+   "timestampMs": 16710,
+   "confidence": null
+  },
+  {
+   "text": " nave",
+   "startMs": 16770,
+   "endMs": 17020,
+   "timestampMs": 16895,
+   "confidence": null
+  },
+  {
+   "text": " dejaron",
+   "startMs": 17020,
+   "endMs": 17580,
+   "timestampMs": 17300,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 17580,
+   "endMs": 17660,
+   "timestampMs": 17595,
+   "confidence": null
+  },
+  {
+   "text": " tener",
+   "startMs": 17610,
+   "endMs": 17900,
+   "timestampMs": 17755,
+   "confidence": null
+  },
+  {
+   "text": " sentido.",
+   "startMs": 17900,
+   "endMs": 18600,
+   "timestampMs": 18250,
+   "confidence": null
+  },
+  {
+   "text": " Pero",
+   "startMs": 18600,
+   "endMs": 18800,
+   "timestampMs": 18700,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 18800,
+   "endMs": 19070,
+   "timestampMs": 18935,
+   "confidence": null
+  },
+  {
+   "text": " controlador,",
+   "startMs": 19070,
+   "endMs": 19560,
+   "timestampMs": 19315,
+   "confidence": null
+  },
+  {
+   "text": " John",
+   "startMs": 19560,
+   "endMs": 19800,
+   "timestampMs": 19680,
+   "confidence": null
+  },
+  {
+   "text": " Aaron,",
+   "startMs": 19800,
+   "endMs": 20800,
+   "timestampMs": 20300,
+   "confidence": null
+  },
+  {
+   "text": " recordó",
+   "startMs": 20800,
+   "endMs": 21220,
+   "timestampMs": 21010,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 21220,
+   "endMs": 21340,
+   "timestampMs": 21280,
+   "confidence": null
+  },
+  {
+   "text": " fallo",
+   "startMs": 21340,
+   "endMs": 21640,
+   "timestampMs": 21490,
+   "confidence": null
+  },
+  {
+   "text": " parecido",
+   "startMs": 21640,
+   "endMs": 22110,
+   "timestampMs": 21875,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 22110,
+   "endMs": 22230,
+   "timestampMs": 22170,
+   "confidence": null
+  },
+  {
+   "text": " unas",
+   "startMs": 22230,
+   "endMs": 22480,
+   "timestampMs": 22355,
+   "confidence": null
+  },
+  {
+   "text": " pruebas",
+   "startMs": 22480,
+   "endMs": 22900,
+   "timestampMs": 22690,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 22900,
+   "endMs": 22980,
+   "timestampMs": 22930,
+   "confidence": null
+  },
+  {
+   "text": " pidió",
+   "startMs": 22960,
+   "endMs": 23260,
+   "timestampMs": 23110,
+   "confidence": null
+  },
+  {
+   "text": " pasar",
+   "startMs": 23260,
+   "endMs": 23560,
+   "timestampMs": 23410,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 23560,
+   "endMs": 23710,
+   "timestampMs": 23635,
+   "confidence": null
+  },
+  {
+   "text": " sistema",
+   "startMs": 23710,
+   "endMs": 24090,
+   "timestampMs": 23900,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 24090,
+   "endMs": 24170,
+   "timestampMs": 24125,
+   "confidence": null
+  },
+  {
+   "text": " su",
+   "startMs": 24160,
+   "endMs": 24350,
+   "timestampMs": 24255,
+   "confidence": null
+  },
+  {
+   "text": " alimentación",
+   "startMs": 24350,
+   "endMs": 25080,
+   "timestampMs": 24715,
+   "confidence": null
+  },
+  {
+   "text": " auxiliar.",
+   "startMs": 25080,
+   "endMs": 25830,
+   "timestampMs": 25455,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 25830,
+   "endMs": 25910,
+   "timestampMs": 25845,
+   "confidence": null
+  },
+  {
+   "text": " funcionó.",
+   "startMs": 25860,
+   "endMs": 26540,
+   "timestampMs": 26200,
+   "confidence": null
+  },
+  {
+   "text": " Cinco",
+   "startMs": 26540,
+   "endMs": 26850,
+   "timestampMs": 26695,
+   "confidence": null
+  },
+  {
+   "text": " días",
+   "startMs": 26850,
+   "endMs": 27170,
+   "timestampMs": 27010,
+   "confidence": null
+  },
+  {
+   "text": " después,",
+   "startMs": 27170,
+   "endMs": 27640,
+   "timestampMs": 27405,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 27640,
+   "endMs": 27770,
+   "timestampMs": 27705,
+   "confidence": null
+  },
+  {
+   "text": " diecinueve",
+   "startMs": 27770,
+   "endMs": 28390,
+   "timestampMs": 28080,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 28390,
+   "endMs": 28630,
+   "timestampMs": 28510,
+   "confidence": null
+  },
+  {
+   "text": " noviembre,",
+   "startMs": 28630,
+   "endMs": 29250,
+   "timestampMs": 28940,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 29250,
+   "endMs": 29340,
+   "timestampMs": 29295,
+   "confidence": null
+  },
+  {
+   "text": " posaron",
+   "startMs": 29340,
+   "endMs": 29830,
+   "timestampMs": 29585,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 29830,
+   "endMs": 30080,
+   "timestampMs": 29955,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 30080,
+   "endMs": 30270,
+   "timestampMs": 30175,
+   "confidence": null
+  },
+  {
+   "text": " Luna",
+   "startMs": 30270,
+   "endMs": 30470,
+   "timestampMs": 30370,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 30470,
+   "endMs": 30550,
+   "timestampMs": 30500,
+   "confidence": null
+  },
+  {
+   "text": " pocos",
+   "startMs": 30530,
+   "endMs": 30860,
+   "timestampMs": 30695,
+   "confidence": null
+  },
+  {
+   "text": " pasos",
+   "startMs": 30860,
+   "endMs": 31170,
+   "timestampMs": 31015,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 31170,
+   "endMs": 31300,
+   "timestampMs": 31235,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 31300,
+   "endMs": 31480,
+   "timestampMs": 31390,
+   "confidence": null
+  },
+  {
+   "text": " sonda",
+   "startMs": 31480,
+   "endMs": 31810,
+   "timestampMs": 31645,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 31810,
+   "endMs": 32170,
+   "timestampMs": 31990,
+   "confidence": null
+  },
+  {
+   "text": " llevaba",
+   "startMs": 32170,
+   "endMs": 32450,
+   "timestampMs": 32310,
+   "confidence": null
+  },
+  {
+   "text": " allí",
+   "startMs": 32450,
+   "endMs": 32700,
+   "timestampMs": 32575,
+   "confidence": null
+  },
+  {
+   "text": " desde",
+   "startMs": 32700,
+   "endMs": 33020,
+   "timestampMs": 32860,
+   "confidence": null
+  },
+  {
+   "text": " mil",
+   "startMs": 33020,
+   "endMs": 33210,
+   "timestampMs": 33115,
+   "confidence": null
+  },
+  {
+   "text": " novecientos",
+   "startMs": 33210,
+   "endMs": 34000,
+   "timestampMs": 33605,
+   "confidence": null
+  },
+  {
+   "text": " sesenta",
+   "startMs": 34000,
+   "endMs": 34370,
+   "timestampMs": 34185,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 34370,
+   "endMs": 34450,
+   "timestampMs": 34400,
+   "confidence": null
+  },
+  {
+   "text": " siete.",
+   "startMs": 34430,
+   "endMs": 35080,
+   "timestampMs": 34755,
+   "confidence": null
+  },
+  {
+   "text": " ¿Tú",
+   "startMs": 35080,
+   "endMs": 35270,
+   "timestampMs": 35175,
+   "confidence": null
+  },
+  {
+   "text": " habrías",
+   "startMs": 35270,
+   "endMs": 35620,
+   "timestampMs": 35445,
+   "confidence": null
+  },
+  {
+   "text": " seguido",
+   "startMs": 35620,
+   "endMs": 36020,
+   "timestampMs": 35820,
+   "confidence": null
+  },
+  {
+   "text": " adelante?",
+   "startMs": 36020,
+   "endMs": 36650,
+   "timestampMs": 36335,
+   "confidence": null
+  },
+  {
+   "text": " Te",
+   "startMs": 36650,
+   "endMs": 36760,
+   "timestampMs": 36705,
+   "confidence": null
+  },
+  {
+   "text": " leo",
+   "startMs": 36760,
+   "endMs": 36920,
+   "timestampMs": 36840,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 36920,
+   "endMs": 37170,
+   "timestampMs": 37045,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 37170,
+   "endMs": 37250,
+   "timestampMs": 37185,
+   "confidence": null
+  },
+  {
+   "text": " comentarios.",
+   "startMs": 37200,
+   "endMs": 38000,
+   "timestampMs": 37600,
+   "confidence": null
+  }
+ ],
+ "estilo": "ilustrado"
+}

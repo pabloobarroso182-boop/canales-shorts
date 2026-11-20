@@ -1,0 +1,94 @@
+{
+ "id": "20261120-2-estomago-se-renueva",
+ "tema": "Cuerpo humano",
+ "tema_clave": "estomago renueva celulas acido",
+ "estilo": "divulga",
+ "titulo": "¿Por qué tu ESTÓMAGO no se digiere a sí mismo? 🤯 #shorts",
+ "descripcion": "El estómago produce ácido clorhídrico, pero se protege con una capa de moco y, sobre todo, cambiando sin parar las células de su superficie: se renuevan cada pocos días (unos 3 a 5).",
+ "hashtags": [
+  "#shorts",
+  "#curiosidades",
+  "#datoscuriosos",
+  "#cuerpohumano",
+  "#estomago",
+  "#ciencia",
+  "#salud"
+ ],
+ "tags": [
+  "curiosidades",
+  "datos curiosos",
+  "cuerpo humano",
+  "estomago",
+  "renueva",
+  "celulas"
+ ],
+ "fuentes": [
+  "Alberts et al., Molecular Biology of the Cell (NCBI Bookshelf) · Renewal by stem cells: epidermis/gut: https://www.ncbi.nlm.nih.gov/books/NBK26875/",
+  "Universidad de Alaska Fairbanks · Why doesn't the stomach digest itself?: https://www.gi.alaska.edu/alaska-science-forum/why-doesnt-stomach-digest-itself",
+  "Revisión en PMC sobre el recambio del epitelio gástrico (células de superficie ~3 días): https://pmc.ncbi.nlm.nih.gov/articles/PMC2816264/"
+ ],
+ "verificacion": "Ácido clorhídrico en el jugo gástrico; capa de moco y bicarbonato como protección; células mucosas de superficie con recambio de ~3 días (rango popular 3–5). Se dice «más o menos cada tres a cinco días». El ácido clorhídrico se usa en la industria para decapar (limpiar) el acero.",
+ "escenas": [
+  {
+   "clave": "e_gancho",
+   "kind": "hook",
+   "pieza": 1,
+   "voz": "[curious] Tu estómago está lleno de ácido. ¿Por qué no se digiere a sí mismo?"
+  },
+  {
+   "clave": "e_acido",
+   "kind": "fact",
+   "pieza": 2,
+   "voz": "Es ácido clorhídrico, el mismo que se usa en la industria para limpiar el acero."
+  },
+  {
+   "clave": "e_moco",
+   "kind": "fact",
+   "pieza": 3,
+   "voz": "Para aguantarlo, su pared se cubre con una capa de moco que lo frena."
+  },
+  {
+   "clave": "e_basta",
+   "kind": "fact",
+   "pieza": 4,
+   "voz": "Pero eso no basta."
+  },
+  {
+   "clave": "e_dano",
+   "kind": "fact",
+   "pieza": 5,
+   "voz": "Cada día, ese ácido va dañando las células de la superficie."
+  },
+  {
+   "clave": "e_rompe",
+   "kind": "fact",
+   "pieza": 6,
+   "voz": "Y aun así, el estómago no se rompe."
+  },
+  {
+   "clave": "e_renueva",
+   "kind": "giro",
+   "pieza": 7,
+   "voz": "[dramatically] Porque las cambia por nuevas sin parar. Las de la superficie se renuevan, más o menos, cada tres a cinco días. Es como estrenar el forro del estómago cada semana."
+  },
+  {
+   "clave": "e_cta",
+   "kind": "cta",
+   "pieza": 8,
+   "voz": "[warmly] Mándaselo a quien presume de estómago de hierro."
+  }
+ ],
+ "marcas": {
+  "acido": "ácido.",
+  "clorhidrico": "clorhídrico,",
+  "acero": "acero.",
+  "moco": "moco",
+  "basta": "basta.",
+  "danando": "dañando",
+  "rompe": "rompe.",
+  "nuevas": "nuevas",
+  "cinco": "cinco",
+  "semana": "semana.",
+  "hierro": "hierro."
+ }
+}

@@ -1,0 +1,15 @@
+[HOOK] [curious] Tu estómago está lleno de ácido. ¿Por qué no se digiere a sí mismo?
+
+[FACT] Es ácido clorhídrico, el mismo que se usa en la industria para limpiar el acero.
+
+[FACT] Para aguantarlo, su pared se cubre con una capa de moco que lo frena.
+
+[FACT] Pero eso no basta.
+
+[FACT] Cada día, ese ácido va dañando las células de la superficie.
+
+[FACT] Y aun así, el estómago no se rompe.
+
+[GIRO] [dramatically] Porque las cambia por nuevas sin parar. Las de la superficie se renuevan, más o menos, cada tres a cinco días. Es como estrenar el forro del estómago cada semana.
+
+[CTA] [warmly] Mándaselo a quien presume de estómago de hierro.

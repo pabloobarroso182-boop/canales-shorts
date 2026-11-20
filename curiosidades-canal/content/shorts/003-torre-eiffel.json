@@ -1,0 +1,68 @@
+{
+  "id": "003-torre-eiffel",
+  "tema": "Mitos desmentidos",
+  "titulo": "¿La Torre Eiffel crece en verano? El MITO y la verdad 🗼 #shorts",
+  "descripcion": "Se repite mucho que la Torre Eiffel crece 15 cm en verano, pero no es exactamente así. Lo que ocurre de verdad: en un día de sol, la cara iluminada se dilata más que la de la sombra, y la cima se inclina alejándose del Sol, dibujando a lo largo del día una curva de unos 15 cm de diámetro.\n\nSíguenos para más curiosidades de todo tipo.\n\nFuente: web oficial de la Torre Eiffel (toureiffel.paris), «Why does the Eiffel Tower change size?».",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#mitos",
+    "#torreeiffel",
+    "#paris",
+    "#ciencia"
+  ],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "torre eiffel",
+    "mitos",
+    "dilatación",
+    "parís",
+    "ciencia"
+  ],
+  "fuentes": [
+    "https://www.toureiffel.paris/en/news/history-and-culture/why-does-eiffel-tower-change-size",
+    "https://www.yahoo.com/news/fact-check-eiffel-tower-grows-120000751.html"
+  ],
+  "verificacion": "No se da una cifra de crecimiento en altura porque no se ha podido confirmar en la fuente oficial; solo los ~15 cm de la curva que describe la cima.",
+  "musica": "curioso-112bpm.wav",
+  "escenas": [
+    {
+      "kind": "hook",
+      "voz": "Seguro que has oído que la Torre Eiffel crece quince centímetros en verano. Pues no es exactamente así.",
+      "icon": "tower",
+      "big": "¿+15 CM?",
+      "small": "el mito",
+      "accent": "#FF4D8D"
+    },
+    {
+      "voz": "Es cierto que el calor dilata el hierro y la torre cambia ligeramente de tamaño.",
+      "icon": "thermometer",
+      "big": "CALOR",
+      "small": "el hierro se dilata",
+      "accent": "#FFD23F"
+    },
+    {
+      "voz": "Pero lo curioso de verdad es otra cosa: en un día de sol, la cara iluminada se dilata más que la que está a la sombra.",
+      "icon": "sun",
+      "big": "SOL vs SOMBRA",
+      "small": "un lado se dilata más",
+      "accent": "#2BD9FE"
+    },
+    {
+      "voz": "Por eso la cima se inclina alejándose del Sol y, a lo largo del día, dibuja una curva de unos quince centímetros.",
+      "icon": "circle",
+      "big": "15 CM",
+      "small": "la curva que dibuja la cima",
+      "accent": "#7B5CFF"
+    },
+    {
+      "kind": "cta",
+      "voz": "¿A que no lo sabías? Síguenos para más curiosidades de todo tipo.",
+      "icon": "question",
+      "big": "",
+      "accent": "#FFD23F"
+    }
+  ],
+  "tema_clave": "torre eiffel dilatacion verano"
+}

@@ -1,0 +1,96 @@
+{
+ "id": "20261120-6-miel-no-caduca",
+ "tema": "Comida",
+ "tema_clave": "miel no caduca egipto enzima",
+ "estilo": "divulga",
+ "titulo": "La MIEL (casi) no caduca 🍯⏳ #shorts",
+ "descripcion": "La miel tiene muy poca agua y mucho azúcar, es ácida y contiene peróxido de hidrógeno (agua oxigenada) que se forma gracias a una enzima que añaden las abejas. Bien cerrada, se conserva durante muchísimo tiempo: en tumbas egipcias se han encontrado tarros de miel de miles de años.",
+ "hashtags": [
+  "#shorts",
+  "#curiosidades",
+  "#datoscuriosos",
+  "#comida",
+  "#miel",
+  "#ciencia",
+  "#historia"
+ ],
+ "tags": [
+  "curiosidades",
+  "datos curiosos",
+  "comida",
+  "miel",
+  "no",
+  "caduca"
+ ],
+ "fuentes": [
+  "Smithsonian Magazine · The science behind honey's eternal shelf life: https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
+  "Smithsonian Magazine · Why honey never spoils: https://www.smithsonianmag.com/smart-news/why-honey-never-spoils-1218690/",
+  "National Honey Board (EE. UU.) · Honey storage / shelf life: https://honey.com/about-honey/storing-honey",
+  "ScienceBlog · matiz sobre la miel «comestible» de las tumbas: https://scienceblog.com/?p=582013"
+ ],
+ "verificacion": "Poca agua y mucho azúcar (las bacterias se deshidratan), pH ácido (~3,2–4,5) y enzima glucosa oxidasa que produce ácido glucónico y peróxido de hidrógeno. Tarros de miel hallados en tumbas egipcias de miles de años: se dice solo que «se han encontrado», sin afirmar que se comieran (no hay fuente primaria). «Prácticamente no caduca» y «bien cerrada», porque con humedad sí se estropea. No se recomienda para bebés (no se menciona porque no es el tema, pero no se dice que sea apta para todos).",
+ "escenas": [
+  {
+   "clave": "m_gancho",
+   "kind": "hook",
+   "pieza": 1,
+   "voz": "[curious] ¿Sabes qué alimento puede aguantar miles de años sin estropearse?"
+  },
+  {
+   "clave": "m_miel",
+   "kind": "fact",
+   "pieza": 2,
+   "voz": "La miel."
+  },
+  {
+   "clave": "m_tumbas",
+   "kind": "fact",
+   "pieza": 3,
+   "voz": "En tumbas del antiguo Egipto se han encontrado tarros de miel de hace miles de años."
+  },
+  {
+   "clave": "m_truco",
+   "kind": "fact",
+   "pieza": 4,
+   "voz": "Y tiene truco."
+  },
+  {
+   "clave": "m_azucar",
+   "kind": "fact",
+   "pieza": 5,
+   "voz": "Casi toda es azúcar y muy poca agua, así que las bacterias que caen en ella se quedan secas."
+  },
+  {
+   "clave": "m_abejas",
+   "kind": "fact",
+   "pieza": 6,
+   "voz": "Pero las abejas le añaden algo más."
+  },
+  {
+   "clave": "m_enzima",
+   "kind": "giro",
+   "pieza": 7,
+   "voz": "[dramatically] Una enzima que, con el néctar, produce ácido y un poco de agua oxigenada. Seca, ácida y con su propio desinfectante: si la guardas bien cerrada, prácticamente no caduca."
+  },
+  {
+   "clave": "m_cta",
+   "kind": "cta",
+   "pieza": 8,
+   "voz": "[warmly] Mándaselo a quien tira la miel por la fecha."
+  }
+ ],
+ "marcas": {
+  "miles": "miles",
+  "miel": "miel.",
+  "egipto": "Egipto",
+  "truco": "truco.",
+  "azucar": "azúcar",
+  "secas": "secas.",
+  "abejas": "abejas",
+  "enzima": "enzima",
+  "oxigenada": "oxigenada.",
+  "cerrada": "cerrada,",
+  "caduca": "caduca.",
+  "fecha": "fecha."
+ }
+}

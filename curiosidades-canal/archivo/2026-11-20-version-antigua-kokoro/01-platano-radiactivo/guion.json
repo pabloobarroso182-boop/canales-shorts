@@ -1,0 +1,226 @@
+{
+  "id": "20261120-1-platano-radiactivo",
+  "tema": "Comida y ciencia",
+  "tema_clave": "platano radiactivo potasio",
+  "estilo": "ilustrado",
+  "titulo": "El plátano de tu desayuno es un poco RADIACTIVO 🍌☢️ #shorts",
+  "descripcion": "Los plátanos son ligeramente radiactivos por su potasio: una parte diminuta es potasio-40, un isótopo natural. En un plátano se desintegran unos quince átomos por segundo. No es peligroso: el cuerpo regula el potasio, así que comer plátanos no te hace más radiactivo de lo que ya eres. Hasta existe una unidad informal, la «dosis equivalente a un plátano», para explicar la radiación.\n\nFuentes: Wikipedia (Banana equivalent dose); Gizmodo; The Takeout.",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#ciencia",
+    "#platano",
+    "#radiactividad",
+    "#sabíasque"
+  ],
+  "tags": [
+    "curiosidades",
+    "plátano",
+    "radiactividad",
+    "potasio",
+    "ciencia",
+    "alimentación",
+    "sabías que"
+  ],
+  "fuentes": [
+    "https://en.wikipedia.org/wiki/Banana_equivalent_dose",
+    "https://gizmodo.com/why-are-bananas-radioactive-5783811",
+    "https://thetakeout.com/2156645/bananas-radioactive-safe-to-eat-explained"
+  ],
+  "verificacion": "Potasio-40 ≈ 0,012 % del potasio; 14–15 desintegraciones/s por plátano según las fuentes; el cuerpo regula el potasio (homeostasis), por lo que no se acumula. La 'dosis equivalente a un plátano' es una unidad informal. No se dan dosis exactas porque el redondeo varía entre fuentes.",
+  "escenas": [
+    {
+      "voz": "El plátano de tu desayuno es un poquito radiactivo.",
+      "icon": "banana",
+      "big": "¡RADIACTIVO!",
+      "small": "tu desayuno",
+      "accent": "#FFD23F",
+      "kind": "hook",
+      "ilustracion": {
+        "escenario": "habitacion",
+        "personaje": {
+          "pose": "de_pie",
+          "x": 600,
+          "y": 1420,
+          "ojos": "sorpresa",
+          "boca": "o"
+        },
+        "lupa": {
+          "x": 520,
+          "y": 1000,
+          "icono": "banana",
+          "color": "#FFD23F",
+          "texto": "un poquito radiactivo"
+        },
+        "camara": {
+          "zoom": [
+            1.1,
+            1.22
+          ],
+          "foco": [
+            560,
+            950
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Tranquilo, no es peligroso. Pero es verdad, y tiene explicación.",
+      "icon": "check",
+      "big": "TRANQUILO",
+      "small": "no es peligroso",
+      "accent": "#2BD9FE",
+      "ilustracion": {
+        "escenario": "habitacion",
+        "personaje": {
+          "pose": "de_pie",
+          "x": 540,
+          "y": 1420,
+          "boca": "sonrisa"
+        },
+        "bocadillos": [
+          "¿Radiactivo?",
+          "¿En serio?",
+          "¿Me lo como?"
+        ],
+        "camara": {
+          "zoom": [
+            1.2,
+            1.1
+          ],
+          "foco": [
+            540,
+            900
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Los plátanos tienen mucho potasio, y una parte diminuta de ese potasio es radiactiva: el potasio cuarenta.",
+      "icon": "atom",
+      "big": "K-40",
+      "small": "potasio radiactivo natural",
+      "accent": "#7B5CFF",
+      "ilustracion": {
+        "escenario": "plano",
+        "color": "#5B4BC9",
+        "objeto": {
+          "icono": "atom",
+          "color": "#FFD23F"
+        },
+        "cifra": {
+          "texto": "K-40",
+          "sub": "una parte diminuta del potasio"
+        },
+        "camara": {
+          "zoom": [
+            1.0,
+            1.1
+          ],
+          "foco": [
+            540,
+            800
+          ]
+        }
+      }
+    },
+    {
+      "voz": "En un solo plátano se desintegran unos quince átomos cada segundo.",
+      "icon": "banana",
+      "big": "15 / s",
+      "small": "átomos que se desintegran",
+      "accent": "#FF4D8D",
+      "ilustracion": {
+        "escenario": "plano",
+        "color": "#2F6F8F",
+        "objeto": {
+          "icono": "banana",
+          "color": "#FFD23F"
+        },
+        "cifra": {
+          "texto": "15 / s",
+          "sub": "átomos por segundo"
+        },
+        "camara": {
+          "zoom": [
+            1.12,
+            1.0
+          ],
+          "foco": [
+            540,
+            800
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Es tan conocido que hasta existe una unidad de broma para explicar la radiación: la dosis equivalente a un plátano.",
+      "icon": "bulb",
+      "big": "1 PLÁTANO",
+      "small": "unidad informal",
+      "accent": "#2BD9FE",
+      "ilustracion": {
+        "escenario": "ciudad",
+        "multitud": {
+          "total": 10,
+          "destacados": 1
+        },
+        "cifra": {
+          "texto": "1 PLÁTANO",
+          "sub": "la «unidad» de radiación"
+        },
+        "camara": {
+          "zoom": [
+            1.05,
+            1.15
+          ],
+          "foco": [
+            540,
+            1100
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Pero tu cuerpo regula el potasio: comerte uno no te hace más radiactivo de lo que ya eres.",
+      "icon": "body",
+      "big": "EQUILIBRIO",
+      "small": "el cuerpo lo regula",
+      "accent": "#FFD23F",
+      "kind": "giro",
+      "ilustracion": {
+        "escenario": "habitacion",
+        "personaje": {
+          "pose": "brazos_arriba",
+          "x": 540,
+          "y": 1420,
+          "boca": "sonrisa"
+        },
+        "lupa": {
+          "x": 540,
+          "y": 960,
+          "icono": "body",
+          "color": "#3CCB9E",
+          "texto": "el cuerpo lo regula"
+        },
+        "camara": {
+          "zoom": [
+            1.12,
+            1.2
+          ],
+          "foco": [
+            540,
+            950
+          ]
+        }
+      }
+    },
+    {
+      "kind": "cta",
+      "voz": "¿Te lo vas a seguir comiendo? Te leo en los comentarios.",
+      "icon": "question",
+      "big": "",
+      "accent": "#FFD23F"
+    }
+  ]
+}

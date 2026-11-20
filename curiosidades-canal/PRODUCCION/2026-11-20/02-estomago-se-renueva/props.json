@@ -1,0 +1,782 @@
+{
+ "id": "20261120-2-estomago-se-renueva",
+ "durationMs": 33859,
+ "audio": "shorts/20261120-2-estomago-se-renueva.wav",
+ "escenas": [
+  {
+   "clave": "e_gancho",
+   "startMs": 0
+  },
+  {
+   "clave": "e_acido",
+   "startMs": 4110
+  },
+  {
+   "clave": "e_moco",
+   "startMs": 8650
+  },
+  {
+   "clave": "e_basta",
+   "startMs": 12770
+  },
+  {
+   "clave": "e_dano",
+   "startMs": 13950
+  },
+  {
+   "clave": "e_rompe",
+   "startMs": 17550
+  },
+  {
+   "clave": "e_renueva",
+   "startMs": 20070
+  },
+  {
+   "clave": "e_cta",
+   "startMs": 29930
+  }
+ ],
+ "marcas": {
+  "acido": 1480,
+  "clorhidrico": 4710,
+  "acero": 8300,
+  "moco": 11460,
+  "basta": 13550,
+  "danando": 15110,
+  "rompe": 19600,
+  "nuevas": 21650,
+  "cinco": 26100,
+  "semana": 29480,
+  "hierro": 31910
+ },
+ "captions": [
+  {
+   "text": "Tu",
+   "startMs": 0,
+   "endMs": 140,
+   "timestampMs": 70,
+   "confidence": null
+  },
+  {
+   "text": " estómago",
+   "startMs": 140,
+   "endMs": 780,
+   "timestampMs": 460,
+   "confidence": null
+  },
+  {
+   "text": " está",
+   "startMs": 780,
+   "endMs": 1000,
+   "timestampMs": 890,
+   "confidence": null
+  },
+  {
+   "text": " lleno",
+   "startMs": 1000,
+   "endMs": 1340,
+   "timestampMs": 1170,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 1340,
+   "endMs": 1480,
+   "timestampMs": 1410,
+   "confidence": null
+  },
+  {
+   "text": " ácido.",
+   "startMs": 1480,
+   "endMs": 2190,
+   "timestampMs": 1835,
+   "confidence": null
+  },
+  {
+   "text": " ¿Por",
+   "startMs": 2190,
+   "endMs": 2420,
+   "timestampMs": 2305,
+   "confidence": null
+  },
+  {
+   "text": " qué",
+   "startMs": 2420,
+   "endMs": 2630,
+   "timestampMs": 2525,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 2630,
+   "endMs": 2770,
+   "timestampMs": 2700,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 2770,
+   "endMs": 2920,
+   "timestampMs": 2845,
+   "confidence": null
+  },
+  {
+   "text": " digiere",
+   "startMs": 2920,
+   "endMs": 3420,
+   "timestampMs": 3170,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 3420,
+   "endMs": 3525,
+   "timestampMs": 3472,
+   "confidence": null
+  },
+  {
+   "text": " sí",
+   "startMs": 3525,
+   "endMs": 3630,
+   "timestampMs": 3577,
+   "confidence": null
+  },
+  {
+   "text": " mismo?",
+   "startMs": 3630,
+   "endMs": 4260,
+   "timestampMs": 3945,
+   "confidence": null
+  },
+  {
+   "text": " Es",
+   "startMs": 4260,
+   "endMs": 4390,
+   "timestampMs": 4325,
+   "confidence": null
+  },
+  {
+   "text": " ácido",
+   "startMs": 4390,
+   "endMs": 4710,
+   "timestampMs": 4550,
+   "confidence": null
+  },
+  {
+   "text": " clorhídrico,",
+   "startMs": 4710,
+   "endMs": 5490,
+   "timestampMs": 5100,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 5490,
+   "endMs": 5610,
+   "timestampMs": 5550,
+   "confidence": null
+  },
+  {
+   "text": " mismo",
+   "startMs": 5610,
+   "endMs": 5950,
+   "timestampMs": 5780,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 5950,
+   "endMs": 6090,
+   "timestampMs": 6020,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 6090,
+   "endMs": 6470,
+   "timestampMs": 6280,
+   "confidence": null
+  },
+  {
+   "text": " usa",
+   "startMs": 6470,
+   "endMs": 6550,
+   "timestampMs": 6475,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 6480,
+   "endMs": 6650,
+   "timestampMs": 6565,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 6650,
+   "endMs": 6740,
+   "timestampMs": 6695,
+   "confidence": null
+  },
+  {
+   "text": " industria",
+   "startMs": 6740,
+   "endMs": 7330,
+   "timestampMs": 7035,
+   "confidence": null
+  },
+  {
+   "text": " para",
+   "startMs": 7330,
+   "endMs": 7590,
+   "timestampMs": 7460,
+   "confidence": null
+  },
+  {
+   "text": " limpiar",
+   "startMs": 7590,
+   "endMs": 8170,
+   "timestampMs": 7880,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 8170,
+   "endMs": 8300,
+   "timestampMs": 8235,
+   "confidence": null
+  },
+  {
+   "text": " acero.",
+   "startMs": 8300,
+   "endMs": 8800,
+   "timestampMs": 8550,
+   "confidence": null
+  },
+  {
+   "text": " Para",
+   "startMs": 8800,
+   "endMs": 8880,
+   "timestampMs": 8800,
+   "confidence": null
+  },
+  {
+   "text": " aguantarlo,",
+   "startMs": 8800,
+   "endMs": 9580,
+   "timestampMs": 9190,
+   "confidence": null
+  },
+  {
+   "text": " su",
+   "startMs": 9580,
+   "endMs": 9690,
+   "timestampMs": 9635,
+   "confidence": null
+  },
+  {
+   "text": " pared",
+   "startMs": 9690,
+   "endMs": 10060,
+   "timestampMs": 9875,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 10060,
+   "endMs": 10200,
+   "timestampMs": 10130,
+   "confidence": null
+  },
+  {
+   "text": " cubre",
+   "startMs": 10200,
+   "endMs": 10580,
+   "timestampMs": 10390,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 10580,
+   "endMs": 11010,
+   "timestampMs": 10795,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 11010,
+   "endMs": 11090,
+   "timestampMs": 11015,
+   "confidence": null
+  },
+  {
+   "text": " capa",
+   "startMs": 11020,
+   "endMs": 11310,
+   "timestampMs": 11165,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 11310,
+   "endMs": 11460,
+   "timestampMs": 11385,
+   "confidence": null
+  },
+  {
+   "text": " moco",
+   "startMs": 11460,
+   "endMs": 11760,
+   "timestampMs": 11610,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 11760,
+   "endMs": 11980,
+   "timestampMs": 11870,
+   "confidence": null
+  },
+  {
+   "text": " lo",
+   "startMs": 11980,
+   "endMs": 12130,
+   "timestampMs": 12055,
+   "confidence": null
+  },
+  {
+   "text": " frena.",
+   "startMs": 12130,
+   "endMs": 12920,
+   "timestampMs": 12525,
+   "confidence": null
+  },
+  {
+   "text": " Pero",
+   "startMs": 12920,
+   "endMs": 13110,
+   "timestampMs": 13015,
+   "confidence": null
+  },
+  {
+   "text": " eso",
+   "startMs": 13110,
+   "endMs": 13340,
+   "timestampMs": 13225,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 13340,
+   "endMs": 13550,
+   "timestampMs": 13445,
+   "confidence": null
+  },
+  {
+   "text": " basta.",
+   "startMs": 13550,
+   "endMs": 14100,
+   "timestampMs": 13825,
+   "confidence": null
+  },
+  {
+   "text": " Cada",
+   "startMs": 14100,
+   "endMs": 14180,
+   "timestampMs": 14130,
+   "confidence": null
+  },
+  {
+   "text": " día,",
+   "startMs": 14160,
+   "endMs": 14450,
+   "timestampMs": 14305,
+   "confidence": null
+  },
+  {
+   "text": " ese",
+   "startMs": 14450,
+   "endMs": 14600,
+   "timestampMs": 14525,
+   "confidence": null
+  },
+  {
+   "text": " ácido",
+   "startMs": 14600,
+   "endMs": 14960,
+   "timestampMs": 14780,
+   "confidence": null
+  },
+  {
+   "text": " va",
+   "startMs": 14960,
+   "endMs": 15110,
+   "timestampMs": 15035,
+   "confidence": null
+  },
+  {
+   "text": " dañando",
+   "startMs": 15110,
+   "endMs": 15620,
+   "timestampMs": 15365,
+   "confidence": null
+  },
+  {
+   "text": " las",
+   "startMs": 15620,
+   "endMs": 15840,
+   "timestampMs": 15730,
+   "confidence": null
+  },
+  {
+   "text": " células",
+   "startMs": 15840,
+   "endMs": 16370,
+   "timestampMs": 16105,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 16370,
+   "endMs": 16550,
+   "timestampMs": 16460,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 16550,
+   "endMs": 16660,
+   "timestampMs": 16605,
+   "confidence": null
+  },
+  {
+   "text": " superficie.",
+   "startMs": 16660,
+   "endMs": 17700,
+   "timestampMs": 17180,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 17700,
+   "endMs": 17780,
+   "timestampMs": 17735,
+   "confidence": null
+  },
+  {
+   "text": " aun",
+   "startMs": 17770,
+   "endMs": 18280,
+   "timestampMs": 18025,
+   "confidence": null
+  },
+  {
+   "text": " así,",
+   "startMs": 18280,
+   "endMs": 18360,
+   "timestampMs": 18295,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 18310,
+   "endMs": 18490,
+   "timestampMs": 18400,
+   "confidence": null
+  },
+  {
+   "text": " estómago",
+   "startMs": 18490,
+   "endMs": 19210,
+   "timestampMs": 18850,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 19210,
+   "endMs": 19440,
+   "timestampMs": 19325,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 19440,
+   "endMs": 19600,
+   "timestampMs": 19520,
+   "confidence": null
+  },
+  {
+   "text": " rompe.",
+   "startMs": 19600,
+   "endMs": 20220,
+   "timestampMs": 19910,
+   "confidence": null
+  },
+  {
+   "text": " Porque",
+   "startMs": 20220,
+   "endMs": 20610,
+   "timestampMs": 20415,
+   "confidence": null
+  },
+  {
+   "text": " las",
+   "startMs": 20610,
+   "endMs": 20840,
+   "timestampMs": 20725,
+   "confidence": null
+  },
+  {
+   "text": " cambia",
+   "startMs": 20840,
+   "endMs": 21310,
+   "timestampMs": 21075,
+   "confidence": null
+  },
+  {
+   "text": " por",
+   "startMs": 21310,
+   "endMs": 21650,
+   "timestampMs": 21480,
+   "confidence": null
+  },
+  {
+   "text": " nuevas",
+   "startMs": 21650,
+   "endMs": 22030,
+   "timestampMs": 21840,
+   "confidence": null
+  },
+  {
+   "text": " sin",
+   "startMs": 22030,
+   "endMs": 22360,
+   "timestampMs": 22195,
+   "confidence": null
+  },
+  {
+   "text": " parar.",
+   "startMs": 22360,
+   "endMs": 22970,
+   "timestampMs": 22665,
+   "confidence": null
+  },
+  {
+   "text": " Las",
+   "startMs": 22970,
+   "endMs": 23160,
+   "timestampMs": 23065,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 23160,
+   "endMs": 23450,
+   "timestampMs": 23305,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 23450,
+   "endMs": 23560,
+   "timestampMs": 23505,
+   "confidence": null
+  },
+  {
+   "text": " superficie",
+   "startMs": 23560,
+   "endMs": 24190,
+   "timestampMs": 23875,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 24190,
+   "endMs": 24290,
+   "timestampMs": 24240,
+   "confidence": null
+  },
+  {
+   "text": " renuevan,",
+   "startMs": 24290,
+   "endMs": 25070,
+   "timestampMs": 24680,
+   "confidence": null
+  },
+  {
+   "text": " más",
+   "startMs": 25070,
+   "endMs": 25150,
+   "timestampMs": 25075,
+   "confidence": null
+  },
+  {
+   "text": " o",
+   "startMs": 25080,
+   "endMs": 25160,
+   "timestampMs": 25115,
+   "confidence": null
+  },
+  {
+   "text": " menos,",
+   "startMs": 25150,
+   "endMs": 25490,
+   "timestampMs": 25320,
+   "confidence": null
+  },
+  {
+   "text": " cada",
+   "startMs": 25490,
+   "endMs": 25760,
+   "timestampMs": 25625,
+   "confidence": null
+  },
+  {
+   "text": " tres",
+   "startMs": 25760,
+   "endMs": 26030,
+   "timestampMs": 25895,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 26030,
+   "endMs": 26110,
+   "timestampMs": 26065,
+   "confidence": null
+  },
+  {
+   "text": " cinco",
+   "startMs": 26100,
+   "endMs": 26430,
+   "timestampMs": 26265,
+   "confidence": null
+  },
+  {
+   "text": " días.",
+   "startMs": 26430,
+   "endMs": 26910,
+   "timestampMs": 26670,
+   "confidence": null
+  },
+  {
+   "text": " Es",
+   "startMs": 26910,
+   "endMs": 27290,
+   "timestampMs": 27100,
+   "confidence": null
+  },
+  {
+   "text": " como",
+   "startMs": 27290,
+   "endMs": 27370,
+   "timestampMs": 27305,
+   "confidence": null
+  },
+  {
+   "text": " estrenar",
+   "startMs": 27320,
+   "endMs": 27850,
+   "timestampMs": 27585,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 27850,
+   "endMs": 28000,
+   "timestampMs": 27925,
+   "confidence": null
+  },
+  {
+   "text": " forro",
+   "startMs": 28000,
+   "endMs": 28310,
+   "timestampMs": 28155,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 28310,
+   "endMs": 28520,
+   "timestampMs": 28415,
+   "confidence": null
+  },
+  {
+   "text": " estómago",
+   "startMs": 28520,
+   "endMs": 29200,
+   "timestampMs": 28860,
+   "confidence": null
+  },
+  {
+   "text": " cada",
+   "startMs": 29200,
+   "endMs": 29480,
+   "timestampMs": 29340,
+   "confidence": null
+  },
+  {
+   "text": " semana.",
+   "startMs": 29480,
+   "endMs": 30080,
+   "timestampMs": 29780,
+   "confidence": null
+  },
+  {
+   "text": " Mándaselo",
+   "startMs": 30080,
+   "endMs": 30610,
+   "timestampMs": 30345,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 30610,
+   "endMs": 30690,
+   "timestampMs": 30635,
+   "confidence": null
+  },
+  {
+   "text": " quien",
+   "startMs": 30660,
+   "endMs": 30930,
+   "timestampMs": 30795,
+   "confidence": null
+  },
+  {
+   "text": " presume",
+   "startMs": 30930,
+   "endMs": 31310,
+   "timestampMs": 31120,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 31310,
+   "endMs": 31420,
+   "timestampMs": 31365,
+   "confidence": null
+  },
+  {
+   "text": " estómago",
+   "startMs": 31420,
+   "endMs": 31850,
+   "timestampMs": 31635,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 31850,
+   "endMs": 31930,
+   "timestampMs": 31880,
+   "confidence": null
+  },
+  {
+   "text": " hierro.",
+   "startMs": 31910,
+   "endMs": 32520,
+   "timestampMs": 32215,
+   "confidence": null
+  }
+ ]
+}

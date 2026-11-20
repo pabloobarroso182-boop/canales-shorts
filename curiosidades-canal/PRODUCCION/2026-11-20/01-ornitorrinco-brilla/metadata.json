@@ -1,0 +1,43 @@
+{
+  "titulo": "El ORNITORRINCO brilla en la oscuridad 🦆✨ #shorts",
+  "descripcion": "En 2020, un estudio publicado en la revista Mammalia mostró que el pelo del ornitorrinco, marrón a simple vista, brilla en verde y azul bajo luz ultravioleta (biofluorescencia). Se vio en ejemplares de museo y se confirmó en uno salvaje. Todavía no se sabe para qué le sirve.\n\n#shorts #curiosidades #datoscuriosos #animales #ornitorrinco #ciencia #naturaleza",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#datoscuriosos",
+    "#animales",
+    "#ornitorrinco",
+    "#ciencia",
+    "#naturaleza"
+  ],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "animales",
+    "ornitorrinco",
+    "brilla",
+    "luz"
+  ],
+  "categoria": "27",
+  "idioma": "es",
+  "archivo": "/home/user/curiosidades-canal/PRODUCCION/2026-11-20/01-ornitorrinco-brilla/20261120-1-ornitorrinco-brilla.mp4",
+  "duracion_s": 35.12,
+  "voz": "elevenlabs_v4",
+  "voz_motivo": "voz oficial",
+  "voz_config": {
+    "proveedor": "elevenlabs",
+    "modelo": "eleven_v4",
+    "voice_id": "kQwUFpYQ184OVlnMEzlm",
+    "nombre": "datoscuriosin (clonada por el propietario)",
+    "idioma": "es",
+    "ajustes": {
+      "stability": 0.5,
+      "similarity": 0.85
+    },
+    "caracteres": 561
+  },
+  "voz_palabras_min": 171,
+  "subtitulos_coincidencia": 0.969,
+  "estilo": "divulga",
+  "publicar": false
+}

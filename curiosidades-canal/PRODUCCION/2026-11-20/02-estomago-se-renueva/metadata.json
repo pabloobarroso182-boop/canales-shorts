@@ -1,0 +1,43 @@
+{
+  "titulo": "¿Por qué tu ESTÓMAGO no se digiere a sí mismo? 🤯 #shorts",
+  "descripcion": "El estómago produce ácido clorhídrico, pero se protege con una capa de moco y, sobre todo, cambiando sin parar las células de su superficie: se renuevan cada pocos días (unos 3 a 5).\n\n#shorts #curiosidades #datoscuriosos #cuerpohumano #estomago #ciencia #salud",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#datoscuriosos",
+    "#cuerpohumano",
+    "#estomago",
+    "#ciencia",
+    "#salud"
+  ],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "cuerpo humano",
+    "estomago",
+    "renueva",
+    "celulas"
+  ],
+  "categoria": "27",
+  "idioma": "es",
+  "archivo": "/home/user/curiosidades-canal/PRODUCCION/2026-11-20/02-estomago-se-renueva/20261120-2-estomago-se-renueva.mp4",
+  "duracion_s": 33.88,
+  "voz": "elevenlabs_v4",
+  "voz_motivo": "voz oficial",
+  "voz_config": {
+    "proveedor": "elevenlabs",
+    "modelo": "eleven_v4",
+    "voice_id": "kQwUFpYQ184OVlnMEzlm",
+    "nombre": "datoscuriosin (clonada por el propietario)",
+    "idioma": "es",
+    "ajustes": {
+      "stability": 0.5,
+      "similarity": 0.85
+    },
+    "caracteres": 580
+  },
+  "voz_palabras_min": 192,
+  "subtitulos_coincidencia": 0.971,
+  "estilo": "divulga",
+  "publicar": false
+}

@@ -1,0 +1,13 @@
+[HOOK] El plátano de tu desayuno es un poquito radiactivo.
+
+[FACT] Tranquilo, no es peligroso. Pero es verdad, y tiene explicación.
+
+[FACT] Los plátanos tienen mucho potasio, y una parte diminuta de ese potasio es radiactiva: el potasio cuarenta.
+
+[FACT] En un solo plátano se desintegran unos quince átomos cada segundo.
+
+[FACT] Es tan conocido que hasta existe una unidad de broma para explicar la radiación: la dosis equivalente a un plátano.
+
+[GIRO] Pero tu cuerpo regula el potasio: comerte uno no te hace más radiactivo de lo que ya eres.
+
+[CTA] ¿Te lo vas a seguir comiendo? Te leo en los comentarios.

@@ -1,0 +1,216 @@
+{
+  "id": "20261119-1-apolo12-rayos",
+  "tema": "Historia del espacio",
+  "tema_clave": "apolo 12 rayos lanzamiento",
+  "titulo": "A este cohete le cayeron DOS rayos… y llegó a la Luna ⚡🚀 #shorts",
+  "descripcion": "El 14 de noviembre de 1969, el Apolo 12 recibió dos rayos a los 36,5 y 52 segundos del despegue. Las alarmas se dispararon y la telemetría dejó de tener sentido, hasta que el controlador John Aaron pidió pasar el sistema SCE a su alimentación auxiliar («SCE to AUX»). El 19 de noviembre de 1969 alunizaron a poca distancia de la sonda Surveyor 3, que llevaba allí desde abril de 1967.\n\nFuentes: AmericaSpace; Astronomy; Armagh Observatory and Planetarium.",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#apolo12",
+    "#nasa",
+    "#espacio",
+    "#historia"
+  ],
+  "tags": [
+    "curiosidades",
+    "apolo 12",
+    "nasa",
+    "luna",
+    "rayos",
+    "historia del espacio",
+    "sabías que"
+  ],
+  "fuentes": [
+    "https://www.americaspace.com/2020/11/14/sce-to-aux-remembering-apollo-12s-hair-raising-launch-otd-in-1969/",
+    "https://www.astronomy.com/space-exploration/apollo-12-50-years-later/",
+    "https://armaghplanet.com/apollo-12-1969s-other-moon-landing.html"
+  ],
+  "verificacion": "Lanzamiento el 14/11/1969; rayos a los 36,5 s y 52 s; alunizaje el 19/11/1969 junto al Surveyor 3 (en la Luna desde el 20/04/1967). Coinciden las tres fuentes. Se evita decir 'tal día como hoy' para que valga se publique el día que se publique.",
+  "escenas": [
+    {
+      "kind": "hook",
+      "voz": "A este cohete le cayeron dos rayos. Y aun así llegó a la Luna.",
+      "icon": "bolt",
+      "big": "2 RAYOS",
+      "small": "y llegó a la Luna",
+      "accent": "#FFD23F",
+      "ilustracion": {
+        "escenario": "lanzamiento",
+        "rayos": [
+          18,
+          42
+        ],
+        "cifra": {
+          "texto": "2 RAYOS",
+          "sub": "y llegó a la Luna"
+        },
+        "camara": {
+          "zoom": [
+            1.0,
+            1.12
+          ],
+          "foco": [
+            540,
+            900
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Era el Apolo doce, en noviembre de mil novecientos sesenta y nueve.",
+      "icon": "rocket",
+      "big": "1969",
+      "small": "misión Apolo 12",
+      "accent": "#2BD9FE",
+      "ilustracion": {
+        "escenario": "lanzamiento",
+        "cifra": {
+          "texto": "1969",
+          "sub": "misión Apolo 12"
+        },
+        "camara": {
+          "zoom": [
+            1.15,
+            1.05
+          ],
+          "foco": [
+            540,
+            800
+          ]
+        }
+      }
+    },
+    {
+      "voz": "A los treinta y seis segundos del despegue le alcanzó un rayo. Y a los cincuenta y dos, otro más.",
+      "icon": "bolt",
+      "big": "36 s · 52 s",
+      "small": "dos impactos en el despegue",
+      "accent": "#FF4D8D",
+      "ilustracion": {
+        "escenario": "lanzamiento",
+        "rayos": [
+          40,
+          100
+        ],
+        "cifra": {
+          "texto": "36 s · 52 s",
+          "sub": "dos rayos en el despegue"
+        },
+        "camara": {
+          "zoom": [
+            1.05,
+            1.18
+          ],
+          "foco": [
+            540,
+            700
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Se activaron casi todas las alarmas, y los datos que llegaban de la nave dejaron de tener sentido.",
+      "icon": "alert",
+      "big": "ALARMAS",
+      "small": "datos sin sentido",
+      "accent": "#FF4D8D",
+      "ilustracion": {
+        "escenario": "sala_control",
+        "alarma": true,
+        "personaje": {
+          "pose": "de_pie",
+          "x": 540,
+          "y": 1500,
+          "ojos": "sorpresa",
+          "boca": "o",
+          "look": 2
+        },
+        "bocadillos": [
+          "¡Alarma!",
+          "Datos raros",
+          "¿Qué pasa?",
+          "¡Alarma!"
+        ],
+        "camara": {
+          "zoom": [
+            1.1,
+            1.22
+          ],
+          "foco": [
+            540,
+            900
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Pero un controlador, John Aaron, recordó un fallo parecido en unas pruebas y pidió pasar un sistema a su alimentación auxiliar.",
+      "icon": "bulb",
+      "big": "SCE → AUX",
+      "small": "la orden que salvó la misión",
+      "accent": "#7B5CFF",
+      "ilustracion": {
+        "escenario": "sala_control",
+        "personaje": {
+          "pose": "de_pie",
+          "x": 540,
+          "y": 1760,
+          "boca": "sonrisa",
+          "look": 6,
+          "escala": 1.05
+        },
+        "lupa": {
+          "x": 540,
+          "y": 1000,
+          "icono": "bulb",
+          "color": "#FFD23F",
+          "texto": "SCE → AUX"
+        },
+        "camara": {
+          "zoom": [
+            1.0,
+            1.08
+          ],
+          "foco": [
+            540,
+            1100
+          ]
+        }
+      }
+    },
+    {
+      "kind": "giro",
+      "voz": "Y funcionó. Cinco días después, el diecinueve de noviembre, se posaron en la Luna a pocos pasos de una sonda que llevaba allí desde mil novecientos sesenta y siete.",
+      "icon": "planet",
+      "big": "19 NOV",
+      "small": "junto a la sonda Surveyor 3",
+      "accent": "#FFD23F",
+      "ilustracion": {
+        "escenario": "luna",
+        "cifra": {
+          "texto": "19 NOV",
+          "sub": "junto a la sonda Surveyor 3"
+        },
+        "camara": {
+          "zoom": [
+            1.0,
+            1.12
+          ],
+          "foco": [
+            620,
+            1300
+          ]
+        }
+      }
+    },
+    {
+      "kind": "cta",
+      "voz": "¿Tú habrías seguido adelante? Te leo en los comentarios.",
+      "icon": "question",
+      "big": "",
+      "accent": "#FFD23F"
+    }
+  ],
+  "estilo": "ilustrado"
+}

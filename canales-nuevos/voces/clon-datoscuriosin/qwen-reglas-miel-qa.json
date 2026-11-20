@@ -1,0 +1,124 @@
+{
+  "salida": "qwen-reglas-miel.wav",
+  "voz": "datoscuriosin clonada · Qwen3-TTS 0.6B Base",
+  "duracion_s": 34.72,
+  "aprobado": true,
+  "pruebas": [
+    {
+      "prueba": "Whisper ≥ 95 % del guion",
+      "ok": true,
+      "detalle": "96.3 %"
+    },
+    {
+      "prueba": "sin etiquetas leídas",
+      "ok": true,
+      "detalle": "ninguna"
+    },
+    {
+      "prueba": "ritmo 150–185 pal/min",
+      "ok": true,
+      "detalle": "164 pal/min"
+    },
+    {
+      "prueba": "variación de tono ≥ 3,8 st",
+      "ok": true,
+      "detalle": "4.78 st"
+    },
+    {
+      "prueba": "arranque ≥ +5 st",
+      "ok": true,
+      "detalle": "10.72 st"
+    },
+    {
+      "prueba": "ningún silencio > 0,8 s",
+      "ok": true,
+      "detalle": "máx. 0.61 s"
+    },
+    {
+      "prueba": "sonoridad −14 LUFS (−16 a −12)",
+      "ok": true,
+      "detalle": "-15.4 LUFS"
+    },
+    {
+      "prueba": "pico ≤ −1 dBTP",
+      "ok": true,
+      "detalle": "-1.5 dB"
+    }
+  ],
+  "piezas": [
+    {
+      "pieza": "HOOK",
+      "texto": "¿Sabes qué alimento puede aguantar miles de años sin estropearse?",
+      "tomas": 4,
+      "inicio_st": 10.72,
+      "final_st": -4.19,
+      "variacion_st": 5.1,
+      "acierto_whisper": 1.0
+    },
+    {
+      "pieza": "FACT",
+      "texto": "La miel.",
+      "tomas": 1,
+      "inicio_st": -6.87,
+      "final_st": -6.87,
+      "variacion_st": 1.32,
+      "acierto_whisper": 1.0
+    },
+    {
+      "pieza": "FACT",
+      "texto": "En tumbas del antiguo Egipto se han encontrado tarros de miel de hace miles de años.",
+      "tomas": 1,
+      "inicio_st": 5.94,
+      "final_st": -2.73,
+      "variacion_st": 3.87,
+      "acierto_whisper": 1.0
+    },
+    {
+      "pieza": "FACT",
+      "texto": "Y tiene truco.",
+      "tomas": 1,
+      "inicio_st": -2.35,
+      "final_st": -2.86,
+      "variacion_st": 2.12,
+      "acierto_whisper": 1.0
+    },
+    {
+      "pieza": "FACT",
+      "texto": "Casi toda es azúcar y muy poca agua, así que las bacterias que caen en ella se quedan secas.",
+      "tomas": 1,
+      "inicio_st": 6.8,
+      "final_st": 4.74,
+      "variacion_st": 4.9,
+      "acierto_whisper": 0.947
+    },
+    {
+      "pieza": "FACT",
+      "texto": "Pero las abejas le añaden algo más.",
+      "tomas": 1,
+      "inicio_st": -3.35,
+      "final_st": -2.35,
+      "variacion_st": 4.42,
+      "acierto_whisper": 1.0
+    },
+    {
+      "pieza": "GIRO",
+      "texto": "Una enzima que, con el néctar, produce ácido y un poco de agua oxigenada. Seca, ácida y con su propio desinfectante: si la guardas bien cerrada, prácticamente no caduca.",
+      "tomas": 2,
+      "inicio_st": 7.93,
+      "final_st": -2.35,
+      "variacion_st": 4.64,
+      "acierto_whisper": 0.949
+    },
+    {
+      "pieza": "CTA",
+      "texto": "Mándaselo a quien tira la miel por la fecha.",
+      "tomas": 1,
+      "inicio_st": 6.8,
+      "final_st": -1.01,
+      "variacion_st": 4.36,
+      "acierto_whisper": 1.0
+    }
+  ],
+  "transcripcion": "¿Sabes qué alimento puede aguantar miles de años sin estropearse? La miel. En tumbas del antiguo Egipto se han encontrado tarros de miel de hace miles de años. Y tiene truco. Casi toda es azúcar y muy poca agua, así que las bacterias que caen en ellas se quedan secas. Pero las abejas le añaden algo más. Una encima que con el néctar produce ácido y un poco de agua oxigenada. Seca, ácida y con su propio desinfectante. Si la guarda es bien cerrada, prácticamente no caduca. Mándaselo a quien tira la miel por la fecha.",
+  "segundos_de_proceso": 429
+}

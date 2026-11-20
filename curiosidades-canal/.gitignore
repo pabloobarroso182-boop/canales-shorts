@@ -1,0 +1,10 @@
+secrets/
+**/work/
+video/node_modules/
+video/public/shorts/
+__pycache__/
+*.mp4
+assets/music/
+output/
+backups/
+MANIFIESTO.sha256

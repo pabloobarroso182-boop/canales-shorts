@@ -1,0 +1,68 @@
+{
+  "id": "002-pulpo",
+  "tema": "Animales",
+  "titulo": "Este animal tiene TRES corazones y sangre AZUL 🐙 #shorts",
+  "descripcion": "El pulpo tiene tres corazones: dos bombean la sangre por las branquias y el tercero la envía al resto del cuerpo. Su sangre es azul porque transporta el oxígeno con hemocianina, una proteína basada en cobre, y no en hierro como la nuestra.\n\nSíguenos para más curiosidades de todo tipo.\n\nFuentes: Smithsonian Magazine; Science Focus (BBC).",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#sabíasque",
+    "#animales",
+    "#pulpo",
+    "#ciencia"
+  ],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "pulpo",
+    "animales",
+    "sangre azul",
+    "tres corazones",
+    "ciencia"
+  ],
+  "fuentes": [
+    "https://www.smithsonianmag.com/science-nature/ten-curious-facts-about-octopuses-7625828/",
+    "https://www.sciencefocus.com/nature/why-does-an-octopus-have-more-than-one-heart"
+  ],
+  "verificacion": "Se evita el dato de que 'el corazón se para al nadar' porque las fuentes consultadas no coinciden.",
+  "musica": "curioso-98bpm.wav",
+  "escenas": [
+    {
+      "kind": "hook",
+      "voz": "Este animal tiene tres corazones. Y la sangre, azul.",
+      "icon": "octopus",
+      "big": "3 CORAZONES",
+      "small": "y sangre azul",
+      "accent": "#FFD23F"
+    },
+    {
+      "voz": "Dos de sus corazones bombean la sangre a través de las branquias, donde recoge el oxígeno.",
+      "icon": "gills",
+      "big": "2",
+      "small": "corazones para las branquias",
+      "accent": "#2BD9FE"
+    },
+    {
+      "voz": "El tercero la envía al resto del cuerpo.",
+      "icon": "heart",
+      "big": "+1",
+      "small": "para todo el cuerpo",
+      "accent": "#FF4D8D"
+    },
+    {
+      "voz": "¿Y por qué es azul? Porque transporta el oxígeno con hemocianina, una proteína basada en cobre, y no en hierro como la nuestra.",
+      "icon": "copper",
+      "big": "COBRE",
+      "small": "hemocianina, no hierro",
+      "accent": "#7B5CFF"
+    },
+    {
+      "kind": "cta",
+      "voz": "Es el pulpo. Síguenos para más curiosidades de todo tipo.",
+      "icon": "octopus",
+      "big": "",
+      "accent": "#FFD23F"
+    }
+  ],
+  "tema_clave": "pulpo tres corazones sangre azul"
+}

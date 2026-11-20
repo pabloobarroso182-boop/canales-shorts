@@ -1,0 +1,698 @@
+[
+  {
+    "carpeta": "01-ornitorrinco-brilla",
+    "id": "20261120-1-ornitorrinco-brilla",
+    "titulo": "El ORNITORRINCO brilla en la oscuridad 🦆✨ #shorts",
+    "originalidad": {
+      "id": "20261120-1-ornitorrinco-brilla",
+      "original": true,
+      "max_5gramas_compartidos": 0.0,
+      "texto_mas_parecido": "",
+      "tema_repetido": [],
+      "textos_comparados": 14
+    },
+    "estado": "aprobado",
+    "aprobado": true,
+    "qa": {
+      "id": "20261120-1-ornitorrinco-brilla",
+      "aprobado": true,
+      "duracion_s": 35.12,
+      "voz": "elevenlabs_v4",
+      "pruebas": [
+        {
+          "prueba": "resolución 1080x1920",
+          "ok": true,
+          "detalle": "1080x1920"
+        },
+        {
+          "prueba": "30 fps",
+          "ok": true,
+          "detalle": "30/1"
+        },
+        {
+          "prueba": "códecs H.264 + AAC",
+          "ok": true,
+          "detalle": "h264 + aac"
+        },
+        {
+          "prueba": "duración 25–45 s",
+          "ok": true,
+          "detalle": "35.1 s"
+        },
+        {
+          "prueba": "sonoridad −16 a −12 LUFS",
+          "ok": true,
+          "detalle": "-14.1 LUFS"
+        },
+        {
+          "prueba": "pico ≤ −1 dB",
+          "ok": true,
+          "detalle": "-1.5 dBFS"
+        },
+        {
+          "prueba": "sin silencios largos",
+          "ok": true,
+          "detalle": "ninguno"
+        },
+        {
+          "prueba": "sin pantallas negras",
+          "ok": true,
+          "detalle": "ninguna"
+        },
+        {
+          "prueba": "la voz se entiende (Whisper ≥ 85 %)",
+          "ok": true,
+          "detalle": "100%"
+        },
+        {
+          "prueba": "título ≤ 100 caracteres con #shorts",
+          "ok": true,
+          "detalle": "49 caracteres"
+        },
+        {
+          "prueba": "descripción",
+          "ok": true,
+          "detalle": "275 caracteres"
+        },
+        {
+          "prueba": "3–15 hashtags",
+          "ok": true,
+          "detalle": "7"
+        },
+        {
+          "prueba": "≥ 2 fuentes y ≥ 1 enlace",
+          "ok": true,
+          "detalle": "4 fuentes, 4 enlaces"
+        },
+        {
+          "prueba": "gancho corto (≤ 14 palabras)",
+          "ok": true,
+          "detalle": "10 palabras"
+        },
+        {
+          "prueba": "estructura (informativo)",
+          "ok": true,
+          "detalle": "1 → 2 → 3 → 4 → 5 → 6 → 7 → 8"
+        },
+        {
+          "prueba": "voz oficial (Eleven v4 + datoscuriosin)",
+          "ok": true,
+          "detalle": "datoscuriosin (clonada por el propietario) · eleven_v4"
+        },
+        {
+          "prueba": "ritmo de narración 140–200 pal/min",
+          "ok": true,
+          "detalle": "171 pal/min"
+        },
+        {
+          "prueba": "originalidad",
+          "ok": true,
+          "detalle": "máx. 0% de 5-gramas compartidos con «—»"
+        }
+      ]
+    },
+    "voz": "elevenlabs_v4",
+    "voz_motivo": "voz oficial",
+    "duracion_s": 35.12
+  },
+  {
+    "carpeta": "02-estomago-se-renueva",
+    "id": "20261120-2-estomago-se-renueva",
+    "titulo": "¿Por qué tu ESTÓMAGO no se digiere a sí mismo? 🤯 #shorts",
+    "originalidad": {
+      "id": "20261120-2-estomago-se-renueva",
+      "original": true,
+      "max_5gramas_compartidos": 0.0,
+      "texto_mas_parecido": "",
+      "tema_repetido": [],
+      "textos_comparados": 14
+    },
+    "estado": "aprobado",
+    "aprobado": true,
+    "qa": {
+      "id": "20261120-2-estomago-se-renueva",
+      "aprobado": true,
+      "duracion_s": 33.88,
+      "voz": "elevenlabs_v4",
+      "pruebas": [
+        {
+          "prueba": "resolución 1080x1920",
+          "ok": true,
+          "detalle": "1080x1920"
+        },
+        {
+          "prueba": "30 fps",
+          "ok": true,
+          "detalle": "30/1"
+        },
+        {
+          "prueba": "códecs H.264 + AAC",
+          "ok": true,
+          "detalle": "h264 + aac"
+        },
+        {
+          "prueba": "duración 25–45 s",
+          "ok": true,
+          "detalle": "33.9 s"
+        },
+        {
+          "prueba": "sonoridad −16 a −12 LUFS",
+          "ok": true,
+          "detalle": "-13.5 LUFS"
+        },
+        {
+          "prueba": "pico ≤ −1 dB",
+          "ok": true,
+          "detalle": "-1.5 dBFS"
+        },
+        {
+          "prueba": "sin silencios largos",
+          "ok": true,
+          "detalle": "ninguno"
+        },
+        {
+          "prueba": "sin pantallas negras",
+          "ok": true,
+          "detalle": "ninguna"
+        },
+        {
+          "prueba": "la voz se entiende (Whisper ≥ 85 %)",
+          "ok": true,
+          "detalle": "97%"
+        },
+        {
+          "prueba": "título ≤ 100 caracteres con #shorts",
+          "ok": true,
+          "detalle": "56 caracteres"
+        },
+        {
+          "prueba": "descripción",
+          "ok": true,
+          "detalle": "182 caracteres"
+        },
+        {
+          "prueba": "3–15 hashtags",
+          "ok": true,
+          "detalle": "7"
+        },
+        {
+          "prueba": "≥ 2 fuentes y ≥ 1 enlace",
+          "ok": true,
+          "detalle": "3 fuentes, 3 enlaces"
+        },
+        {
+          "prueba": "gancho corto (≤ 14 palabras)",
+          "ok": true,
+          "detalle": "14 palabras"
+        },
+        {
+          "prueba": "estructura (informativo)",
+          "ok": true,
+          "detalle": "1 → 2 → 3 → 4 → 5 → 6 → 7 → 8"
+        },
+        {
+          "prueba": "voz oficial (Eleven v4 + datoscuriosin)",
+          "ok": true,
+          "detalle": "datoscuriosin (clonada por el propietario) · eleven_v4"
+        },
+        {
+          "prueba": "ritmo de narración 140–200 pal/min",
+          "ok": true,
+          "detalle": "192 pal/min"
+        },
+        {
+          "prueba": "originalidad",
+          "ok": true,
+          "detalle": "máx. 0% de 5-gramas compartidos con «—»"
+        }
+      ]
+    },
+    "voz": "elevenlabs_v4",
+    "voz_motivo": "voz oficial",
+    "duracion_s": 33.88
+  },
+  {
+    "carpeta": "03-saturno-flotaria",
+    "id": "20261120-3-saturno-flotaria",
+    "titulo": "SATURNO flotaría en una bañera 🪐🛁 #shorts",
+    "originalidad": {
+      "id": "20261120-3-saturno-flotaria",
+      "original": true,
+      "max_5gramas_compartidos": 0.0,
+      "texto_mas_parecido": "",
+      "tema_repetido": [],
+      "textos_comparados": 14
+    },
+    "estado": "aprobado",
+    "aprobado": true,
+    "qa": {
+      "id": "20261120-3-saturno-flotaria",
+      "aprobado": true,
+      "duracion_s": 34.75,
+      "voz": "elevenlabs_v4",
+      "pruebas": [
+        {
+          "prueba": "resolución 1080x1920",
+          "ok": true,
+          "detalle": "1080x1920"
+        },
+        {
+          "prueba": "30 fps",
+          "ok": true,
+          "detalle": "30/1"
+        },
+        {
+          "prueba": "códecs H.264 + AAC",
+          "ok": true,
+          "detalle": "h264 + aac"
+        },
+        {
+          "prueba": "duración 25–45 s",
+          "ok": true,
+          "detalle": "34.8 s"
+        },
+        {
+          "prueba": "sonoridad −16 a −12 LUFS",
+          "ok": true,
+          "detalle": "-13.8 LUFS"
+        },
+        {
+          "prueba": "pico ≤ −1 dB",
+          "ok": true,
+          "detalle": "-1.5 dBFS"
+        },
+        {
+          "prueba": "sin silencios largos",
+          "ok": true,
+          "detalle": "ninguno"
+        },
+        {
+          "prueba": "sin pantallas negras",
+          "ok": true,
+          "detalle": "ninguna"
+        },
+        {
+          "prueba": "la voz se entiende (Whisper ≥ 85 %)",
+          "ok": true,
+          "detalle": "95%"
+        },
+        {
+          "prueba": "título ≤ 100 caracteres con #shorts",
+          "ok": true,
+          "detalle": "41 caracteres"
+        },
+        {
+          "prueba": "descripción",
+          "ok": true,
+          "detalle": "191 caracteres"
+        },
+        {
+          "prueba": "3–15 hashtags",
+          "ok": true,
+          "detalle": "7"
+        },
+        {
+          "prueba": "≥ 2 fuentes y ≥ 1 enlace",
+          "ok": true,
+          "detalle": "4 fuentes, 4 enlaces"
+        },
+        {
+          "prueba": "gancho corto (≤ 14 palabras)",
+          "ok": true,
+          "detalle": "9 palabras"
+        },
+        {
+          "prueba": "estructura (informativo)",
+          "ok": true,
+          "detalle": "1 → 2 → 3 → 4 → 5 → 6 → 7 → 8"
+        },
+        {
+          "prueba": "voz oficial (Eleven v4 + datoscuriosin)",
+          "ok": true,
+          "detalle": "datoscuriosin (clonada por el propietario) · eleven_v4"
+        },
+        {
+          "prueba": "ritmo de narración 140–200 pal/min",
+          "ok": true,
+          "detalle": "162 pal/min"
+        },
+        {
+          "prueba": "originalidad",
+          "ok": true,
+          "detalle": "máx. 0% de 5-gramas compartidos con «—»"
+        }
+      ]
+    },
+    "voz": "elevenlabs_v4",
+    "voz_motivo": "voz oficial",
+    "duracion_s": 34.75
+  },
+  {
+    "carpeta": "04-vikingos-sin-cuernos",
+    "id": "20261120-4-vikingos-sin-cuernos",
+    "titulo": "Los VIKINGOS nunca llevaron cuernos 🪖❌ #shorts",
+    "originalidad": {
+      "id": "20261120-4-vikingos-sin-cuernos",
+      "original": true,
+      "max_5gramas_compartidos": 0.0,
+      "texto_mas_parecido": "",
+      "tema_repetido": [],
+      "textos_comparados": 14
+    },
+    "estado": "aprobado",
+    "aprobado": true,
+    "qa": {
+      "id": "20261120-4-vikingos-sin-cuernos",
+      "aprobado": true,
+      "duracion_s": 38.51,
+      "voz": "elevenlabs_v4",
+      "pruebas": [
+        {
+          "prueba": "resolución 1080x1920",
+          "ok": true,
+          "detalle": "1080x1920"
+        },
+        {
+          "prueba": "30 fps",
+          "ok": true,
+          "detalle": "30/1"
+        },
+        {
+          "prueba": "códecs H.264 + AAC",
+          "ok": true,
+          "detalle": "h264 + aac"
+        },
+        {
+          "prueba": "duración 25–45 s",
+          "ok": true,
+          "detalle": "38.5 s"
+        },
+        {
+          "prueba": "sonoridad −16 a −12 LUFS",
+          "ok": true,
+          "detalle": "-14.0 LUFS"
+        },
+        {
+          "prueba": "pico ≤ −1 dB",
+          "ok": true,
+          "detalle": "-1.5 dBFS"
+        },
+        {
+          "prueba": "sin silencios largos",
+          "ok": true,
+          "detalle": "ninguno"
+        },
+        {
+          "prueba": "sin pantallas negras",
+          "ok": true,
+          "detalle": "ninguna"
+        },
+        {
+          "prueba": "la voz se entiende (Whisper ≥ 85 %)",
+          "ok": true,
+          "detalle": "97%"
+        },
+        {
+          "prueba": "título ≤ 100 caracteres con #shorts",
+          "ok": true,
+          "detalle": "46 caracteres"
+        },
+        {
+          "prueba": "descripción",
+          "ok": true,
+          "detalle": "256 caracteres"
+        },
+        {
+          "prueba": "3–15 hashtags",
+          "ok": true,
+          "detalle": "7"
+        },
+        {
+          "prueba": "≥ 2 fuentes y ≥ 1 enlace",
+          "ok": true,
+          "detalle": "4 fuentes, 4 enlaces"
+        },
+        {
+          "prueba": "gancho corto (≤ 14 palabras)",
+          "ok": true,
+          "detalle": "8 palabras"
+        },
+        {
+          "prueba": "estructura (informativo)",
+          "ok": true,
+          "detalle": "1 → 2 → 3 → 4 → 5 → 6 → 7 → 8"
+        },
+        {
+          "prueba": "voz oficial (Eleven v4 + datoscuriosin)",
+          "ok": true,
+          "detalle": "datoscuriosin (clonada por el propietario) · eleven_v4"
+        },
+        {
+          "prueba": "ritmo de narración 140–200 pal/min",
+          "ok": true,
+          "detalle": "170 pal/min"
+        },
+        {
+          "prueba": "originalidad",
+          "ok": true,
+          "detalle": "máx. 0% de 5-gramas compartidos con «—»"
+        }
+      ]
+    },
+    "voz": "elevenlabs_v4",
+    "voz_motivo": "voz oficial",
+    "duracion_s": 38.51
+  },
+  {
+    "carpeta": "05-ballenas-tenian-patas",
+    "id": "20261120-5-ballenas-tenian-patas",
+    "titulo": "Las BALLENAS antes CAMINABAN 🐋🦵 #shorts",
+    "originalidad": {
+      "id": "20261120-5-ballenas-tenian-patas",
+      "original": true,
+      "max_5gramas_compartidos": 0.0,
+      "texto_mas_parecido": "",
+      "tema_repetido": [],
+      "textos_comparados": 14
+    },
+    "estado": "aprobado",
+    "aprobado": true,
+    "qa": {
+      "id": "20261120-5-ballenas-tenian-patas",
+      "aprobado": true,
+      "duracion_s": 38.87,
+      "voz": "elevenlabs_v4",
+      "pruebas": [
+        {
+          "prueba": "resolución 1080x1920",
+          "ok": true,
+          "detalle": "1080x1920"
+        },
+        {
+          "prueba": "30 fps",
+          "ok": true,
+          "detalle": "30/1"
+        },
+        {
+          "prueba": "códecs H.264 + AAC",
+          "ok": true,
+          "detalle": "h264 + aac"
+        },
+        {
+          "prueba": "duración 25–45 s",
+          "ok": true,
+          "detalle": "38.9 s"
+        },
+        {
+          "prueba": "sonoridad −16 a −12 LUFS",
+          "ok": true,
+          "detalle": "-14.1 LUFS"
+        },
+        {
+          "prueba": "pico ≤ −1 dB",
+          "ok": true,
+          "detalle": "-1.4 dBFS"
+        },
+        {
+          "prueba": "sin silencios largos",
+          "ok": true,
+          "detalle": "ninguno"
+        },
+        {
+          "prueba": "sin pantallas negras",
+          "ok": true,
+          "detalle": "ninguna"
+        },
+        {
+          "prueba": "la voz se entiende (Whisper ≥ 85 %)",
+          "ok": true,
+          "detalle": "97%"
+        },
+        {
+          "prueba": "título ≤ 100 caracteres con #shorts",
+          "ok": true,
+          "detalle": "39 caracteres"
+        },
+        {
+          "prueba": "descripción",
+          "ok": true,
+          "detalle": "274 caracteres"
+        },
+        {
+          "prueba": "3–15 hashtags",
+          "ok": true,
+          "detalle": "7"
+        },
+        {
+          "prueba": "≥ 2 fuentes y ≥ 1 enlace",
+          "ok": true,
+          "detalle": "4 fuentes, 4 enlaces"
+        },
+        {
+          "prueba": "gancho corto (≤ 14 palabras)",
+          "ok": true,
+          "detalle": "7 palabras"
+        },
+        {
+          "prueba": "estructura (informativo)",
+          "ok": true,
+          "detalle": "1 → 2 → 3 → 4 → 5 → 6 → 7 → 8"
+        },
+        {
+          "prueba": "voz oficial (Eleven v4 + datoscuriosin)",
+          "ok": true,
+          "detalle": "datoscuriosin (clonada por el propietario) · eleven_v4"
+        },
+        {
+          "prueba": "ritmo de narración 140–200 pal/min",
+          "ok": true,
+          "detalle": "168 pal/min"
+        },
+        {
+          "prueba": "originalidad",
+          "ok": true,
+          "detalle": "máx. 0% de 5-gramas compartidos con «—»"
+        }
+      ]
+    },
+    "voz": "elevenlabs_v4",
+    "voz_motivo": "voz oficial",
+    "duracion_s": 38.87
+  },
+  {
+    "carpeta": "06-miel-no-caduca",
+    "id": "20261120-6-miel-no-caduca",
+    "titulo": "La MIEL (casi) no caduca 🍯⏳ #shorts",
+    "originalidad": {
+      "id": "20261120-6-miel-no-caduca",
+      "original": true,
+      "max_5gramas_compartidos": 0.0,
+      "texto_mas_parecido": "",
+      "tema_repetido": [],
+      "textos_comparados": 14
+    },
+    "estado": "aprobado",
+    "aprobado": true,
+    "qa": {
+      "id": "20261120-6-miel-no-caduca",
+      "aprobado": true,
+      "duracion_s": 34.01,
+      "voz": "elevenlabs_v4",
+      "pruebas": [
+        {
+          "prueba": "resolución 1080x1920",
+          "ok": true,
+          "detalle": "1080x1920"
+        },
+        {
+          "prueba": "30 fps",
+          "ok": true,
+          "detalle": "30/1"
+        },
+        {
+          "prueba": "códecs H.264 + AAC",
+          "ok": true,
+          "detalle": "h264 + aac"
+        },
+        {
+          "prueba": "duración 25–45 s",
+          "ok": true,
+          "detalle": "34.0 s"
+        },
+        {
+          "prueba": "sonoridad −16 a −12 LUFS",
+          "ok": true,
+          "detalle": "-14.1 LUFS"
+        },
+        {
+          "prueba": "pico ≤ −1 dB",
+          "ok": true,
+          "detalle": "-1.4 dBFS"
+        },
+        {
+          "prueba": "sin silencios largos",
+          "ok": true,
+          "detalle": "ninguno"
+        },
+        {
+          "prueba": "sin pantallas negras",
+          "ok": true,
+          "detalle": "ninguna"
+        },
+        {
+          "prueba": "la voz se entiende (Whisper ≥ 85 %)",
+          "ok": true,
+          "detalle": "98%"
+        },
+        {
+          "prueba": "título ≤ 100 caracteres con #shorts",
+          "ok": true,
+          "detalle": "35 caracteres"
+        },
+        {
+          "prueba": "descripción",
+          "ok": true,
+          "detalle": "281 caracteres"
+        },
+        {
+          "prueba": "3–15 hashtags",
+          "ok": true,
+          "detalle": "7"
+        },
+        {
+          "prueba": "≥ 2 fuentes y ≥ 1 enlace",
+          "ok": true,
+          "detalle": "4 fuentes, 4 enlaces"
+        },
+        {
+          "prueba": "gancho corto (≤ 14 palabras)",
+          "ok": true,
+          "detalle": "10 palabras"
+        },
+        {
+          "prueba": "estructura (informativo)",
+          "ok": true,
+          "detalle": "1 → 2 → 3 → 4 → 5 → 6 → 7 → 8"
+        },
+        {
+          "prueba": "voz oficial (Eleven v4 + datoscuriosin)",
+          "ok": true,
+          "detalle": "datoscuriosin (clonada por el propietario) · eleven_v4"
+        },
+        {
+          "prueba": "ritmo de narración 140–200 pal/min",
+          "ok": true,
+          "detalle": "175 pal/min"
+        },
+        {
+          "prueba": "originalidad",
+          "ok": true,
+          "detalle": "máx. 0% de 5-gramas compartidos con «—»"
+        }
+      ]
+    },
+    "voz": "elevenlabs_v4",
+    "voz_motivo": "voz oficial",
+    "duracion_s": 34.01
+  }
+]

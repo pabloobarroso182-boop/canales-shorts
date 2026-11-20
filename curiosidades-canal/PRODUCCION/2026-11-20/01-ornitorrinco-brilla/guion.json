@@ -1,0 +1,96 @@
+{
+ "id": "20261120-1-ornitorrinco-brilla",
+ "tema": "Animales",
+ "tema_clave": "ornitorrinco brilla luz ultravioleta",
+ "estilo": "divulga",
+ "titulo": "El ORNITORRINCO brilla en la oscuridad 🦆✨ #shorts",
+ "descripcion": "En 2020, un estudio publicado en la revista Mammalia mostró que el pelo del ornitorrinco, marrón a simple vista, brilla en verde y azul bajo luz ultravioleta (biofluorescencia). Se vio en ejemplares de museo y se confirmó en uno salvaje. Todavía no se sabe para qué le sirve.",
+ "hashtags": [
+  "#shorts",
+  "#curiosidades",
+  "#datoscuriosos",
+  "#animales",
+  "#ornitorrinco",
+  "#ciencia",
+  "#naturaleza"
+ ],
+ "tags": [
+  "curiosidades",
+  "datos curiosos",
+  "animales",
+  "ornitorrinco",
+  "brilla",
+  "luz"
+ ],
+ "fuentes": [
+  "Anich et al. (2020), «Biofluorescence in the platypus», Mammalia: https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2020-0027/html",
+  "National Geographic · We knew platypuses were incredible. Now we know they glow, too: https://www.nationalgeographic.com/animals/article/glowing-platypus",
+  "ScienceDaily · UV glow in the dark platypus: https://www.sciencedaily.com/releases/2020/10/201029105011.htm",
+  "Australian Museum · Platypus (espolón venenoso del macho): https://australian.museum/learn/animals/mammals/platypus/"
+ ],
+ "verificacion": "Estudio de 2020 (Mammalia) con ejemplares del Field Museum y de la Universidad de Nebraska; pelo marrón que bajo UV emite verde-cian. Función desconocida (los autores solo plantean hipótesis). Espolón venenoso: solo en machos, en las patas traseras.",
+ "escenas": [
+  {
+   "clave": "o_gancho",
+   "kind": "hook",
+   "pieza": 1,
+   "voz": "[curious] ¿Sabías que hay un mamífero que brilla en la oscuridad?"
+  },
+  {
+   "clave": "o_quien",
+   "kind": "fact",
+   "pieza": 2,
+   "voz": "Es el ornitorrinco. Sí, el del pico de pato."
+  },
+  {
+   "clave": "o_raro",
+   "kind": "fact",
+   "pieza": 3,
+   "voz": "Ya era raro: pone huevos, y los machos tienen un espolón con veneno en las patas."
+  },
+  {
+   "clave": "o_falta",
+   "kind": "fact",
+   "pieza": 4,
+   "voz": "Pero escondía algo más."
+  },
+  {
+   "clave": "o_museo",
+   "kind": "fact",
+   "pieza": 5,
+   "voz": "En dos mil veinte, unos científicos iluminaron ornitorrincos de un museo con luz ultravioleta."
+  },
+  {
+   "clave": "o_cambia",
+   "kind": "fact",
+   "pieza": 6,
+   "voz": "Y su pelo marrón… cambió de color."
+  },
+  {
+   "clave": "o_brilla",
+   "kind": "giro",
+   "pieza": 7,
+   "voz": "[dramatically] Brillaba en verde y azul. Es biofluorescencia: el pelo absorbe esa luz invisible y la devuelve en colores que sí vemos. Y nadie sabe todavía para qué le sirve."
+  },
+  {
+   "clave": "o_cta",
+   "kind": "cta",
+   "pieza": 8,
+   "voz": "[warmly] ¿Tú para qué crees que lo usa?"
+  }
+ ],
+ "marcas": {
+  "mamifero": "mamífero",
+  "ornitorrinco": "ornitorrinco.",
+  "huevos": "huevos,",
+  "veneno": "veneno",
+  "escondia": "escondía",
+  "2020": "veinte,",
+  "ultravioleta": "ultravioleta.",
+  "marron": "marrón…",
+  "verde": "verde",
+  "biofluorescencia": "biofluorescencia:",
+  "nadie": "nadie",
+  "usa": "usa?"
+ }
+}

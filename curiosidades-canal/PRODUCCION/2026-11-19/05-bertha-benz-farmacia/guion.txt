@@ -1,0 +1,19 @@
+[HOOK] [curious] ¿Sabes dónde estaba la primera gasolinera del mundo?
+
+[FACT] En una farmacia.
+
+[FACT] Agosto de 1888. Bertha Benz coge el coche de su marido, Karl, y sale con sus dos hijos hacia casa de su madre.
+
+[FACT] Ciento seis kilómetros. Era el primer viaje largo en coche de la historia.
+
+[FACT] Por el camino, se queda sin combustible.
+
+[FACT] Pista: todavía no existían las gasolineras.
+
+[GIRO] [dramatically] Así que entra en una farmacia de Wiesloch… y compra ligroína, un disolvente que entonces se vendía en farmacias.
+
+[FACT] Y el coche volvió a arrancar.
+
+[FACT] Esa farmacia sigue abierta. Y hoy se la conoce como la primera gasolinera del mundo.
+
+[CTA] [warmly] ¿Tú te habrías atrevido?

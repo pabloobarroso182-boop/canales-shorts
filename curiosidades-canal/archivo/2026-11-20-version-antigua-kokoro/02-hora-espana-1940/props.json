@@ -1,0 +1,828 @@
+{
+ "id": "20261120-2-hora-espana-1940",
+ "durationMs": 26998,
+ "audio": "shorts/20261120-2-hora-espana-1940/mezcla.wav",
+ "scenes": [
+  {
+   "startMs": 0,
+   "endMs": 2784,
+   "clip": null,
+   "icon": "clock",
+   "big": "+1 HORA",
+   "small": "tu reloj",
+   "accent": "#FFD23F",
+   "kind": "hook",
+   "ilustracion": {
+    "escenario": "habitacion",
+    "personaje": {
+     "pose": "de_pie",
+     "x": 600,
+     "y": 1420,
+     "ojos": "sorpresa",
+     "boca": "o",
+     "look": 7
+    },
+    "lupa": {
+     "x": 520,
+     "y": 1000,
+     "icono": "clock",
+     "color": "#FFD23F",
+     "texto": "una hora adelantado"
+    },
+    "camara": {
+     "zoom": [
+      1.1,
+      1.22
+     ],
+     "foco": [
+      560,
+      950
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 2834,
+   "endMs": 7144,
+   "clip": null,
+   "icon": "globe",
+   "big": "0°",
+   "small": "meridiano de Greenwich",
+   "accent": "#2BD9FE",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "plano",
+    "color": "#2F6F8F",
+    "objeto": {
+     "icono": "globe",
+     "color": "#2BD9FE"
+    },
+    "cifra": {
+     "texto": "0°",
+     "sub": "meridiano de Greenwich"
+    },
+    "camara": {
+     "zoom": [
+      1.0,
+      1.1
+     ],
+     "foco": [
+      540,
+      800
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 7194,
+   "endMs": 12211,
+   "clip": null,
+   "icon": "calendar",
+   "big": "1901",
+   "small": "hora de Greenwich",
+   "accent": "#7B5CFF",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "ciudad",
+    "cifra": {
+     "texto": "1901",
+     "sub": "la misma hora que Londres"
+    },
+    "multitud": {
+     "total": 8,
+     "destacados": 8,
+     "todos": true
+    },
+    "camara": {
+     "zoom": [
+      1.15,
+      1.05
+     ],
+     "foco": [
+      540,
+      1100
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 12261,
+   "endMs": 17276,
+   "clip": null,
+   "icon": "clock",
+   "big": "1940",
+   "small": "+60 minutos",
+   "accent": "#FF4D8D",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "habitacion",
+    "calendario": [
+     "Marzo",
+     "1940"
+    ],
+    "personaje": {
+     "pose": "de_pie",
+     "x": 420,
+     "y": 1420,
+     "boca": "o",
+     "look": 7
+    },
+    "cifra": {
+     "texto": "1940",
+     "sub": "relojes +60 minutos"
+    },
+    "camara": {
+     "zoom": [
+      1.05,
+      1.18
+     ],
+     "foco": [
+      480,
+      900
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 17326,
+   "endMs": 23078,
+   "clip": null,
+   "icon": "sun",
+   "big": "UTC+1",
+   "small": "desde hace 86 años",
+   "accent": "#FFD23F",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "habitacion",
+    "personaje": {
+     "pose": "brazos_arriba",
+     "x": 540,
+     "y": 1420,
+     "boca": "sonrisa",
+     "look": 7
+    },
+    "lupa": {
+     "x": 540,
+     "y": 960,
+     "icono": "sun",
+     "color": "#FFD23F",
+     "texto": "el sol, más tarde"
+    },
+    "camara": {
+     "zoom": [
+      1.12,
+      1.22
+     ],
+     "foco": [
+      540,
+      950
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 23128,
+   "endMs": 26398,
+   "clip": null,
+   "icon": "question",
+   "big": "",
+   "small": null,
+   "accent": "#FFD23F",
+   "kind": "cta",
+   "ilustracion": null
+  }
+ ],
+ "captions": [
+  {
+   "text": "¿Y",
+   "startMs": 0,
+   "endMs": 80,
+   "timestampMs": 35,
+   "confidence": null
+  },
+  {
+   "text": " si",
+   "startMs": 70,
+   "endMs": 240,
+   "timestampMs": 155,
+   "confidence": null
+  },
+  {
+   "text": " te",
+   "startMs": 240,
+   "endMs": 350,
+   "timestampMs": 295,
+   "confidence": null
+  },
+  {
+   "text": " dijera",
+   "startMs": 350,
+   "endMs": 640,
+   "timestampMs": 495,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 640,
+   "endMs": 890,
+   "timestampMs": 765,
+   "confidence": null
+  },
+  {
+   "text": " tu",
+   "startMs": 890,
+   "endMs": 1040,
+   "timestampMs": 965,
+   "confidence": null
+  },
+  {
+   "text": " reloj",
+   "startMs": 1040,
+   "endMs": 1340,
+   "timestampMs": 1190,
+   "confidence": null
+  },
+  {
+   "text": " va",
+   "startMs": 1340,
+   "endMs": 1650,
+   "timestampMs": 1495,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 1650,
+   "endMs": 1730,
+   "timestampMs": 1670,
+   "confidence": null
+  },
+  {
+   "text": " hora",
+   "startMs": 1690,
+   "endMs": 1980,
+   "timestampMs": 1835,
+   "confidence": null
+  },
+  {
+   "text": " adelantado?",
+   "startMs": 1980,
+   "endMs": 3000,
+   "timestampMs": 2490,
+   "confidence": null
+  },
+  {
+   "text": " Por",
+   "startMs": 3000,
+   "endMs": 3150,
+   "timestampMs": 3075,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 3150,
+   "endMs": 3260,
+   "timestampMs": 3205,
+   "confidence": null
+  },
+  {
+   "text": " este",
+   "startMs": 3260,
+   "endMs": 3470,
+   "timestampMs": 3365,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 3470,
+   "endMs": 3570,
+   "timestampMs": 3520,
+   "confidence": null
+  },
+  {
+   "text": " España",
+   "startMs": 3570,
+   "endMs": 3940,
+   "timestampMs": 3755,
+   "confidence": null
+  },
+  {
+   "text": " pasa",
+   "startMs": 3940,
+   "endMs": 4090,
+   "timestampMs": 4015,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 4090,
+   "endMs": 4180,
+   "timestampMs": 4135,
+   "confidence": null
+  },
+  {
+   "text": " meridiano",
+   "startMs": 4180,
+   "endMs": 4720,
+   "timestampMs": 4450,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 4720,
+   "endMs": 4820,
+   "timestampMs": 4770,
+   "confidence": null
+  },
+  {
+   "text": " Greenwich,",
+   "startMs": 4820,
+   "endMs": 5540,
+   "timestampMs": 5180,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 5540,
+   "endMs": 5710,
+   "timestampMs": 5625,
+   "confidence": null
+  },
+  {
+   "text": " mismo",
+   "startMs": 5710,
+   "endMs": 6000,
+   "timestampMs": 5855,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 6000,
+   "endMs": 6200,
+   "timestampMs": 6100,
+   "confidence": null
+  },
+  {
+   "text": " cruza",
+   "startMs": 6200,
+   "endMs": 6530,
+   "timestampMs": 6365,
+   "confidence": null
+  },
+  {
+   "text": " Londres.",
+   "startMs": 6530,
+   "endMs": 7240,
+   "timestampMs": 6885,
+   "confidence": null
+  },
+  {
+   "text": " Por",
+   "startMs": 7240,
+   "endMs": 7430,
+   "timestampMs": 7335,
+   "confidence": null
+  },
+  {
+   "text": " eso,",
+   "startMs": 7430,
+   "endMs": 7740,
+   "timestampMs": 7585,
+   "confidence": null
+  },
+  {
+   "text": " desde",
+   "startMs": 7740,
+   "endMs": 8080,
+   "timestampMs": 7910,
+   "confidence": null
+  },
+  {
+   "text": " mil",
+   "startMs": 8080,
+   "endMs": 8250,
+   "timestampMs": 8165,
+   "confidence": null
+  },
+  {
+   "text": " novecientos",
+   "startMs": 8250,
+   "endMs": 8940,
+   "timestampMs": 8595,
+   "confidence": null
+  },
+  {
+   "text": " uno,",
+   "startMs": 8940,
+   "endMs": 9250,
+   "timestampMs": 9095,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 9250,
+   "endMs": 9440,
+   "timestampMs": 9345,
+   "confidence": null
+  },
+  {
+   "text": " hora",
+   "startMs": 9440,
+   "endMs": 9680,
+   "timestampMs": 9560,
+   "confidence": null
+  },
+  {
+   "text": " oficial",
+   "startMs": 9680,
+   "endMs": 10100,
+   "timestampMs": 9890,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 10100,
+   "endMs": 10220,
+   "timestampMs": 10160,
+   "confidence": null
+  },
+  {
+   "text": " España",
+   "startMs": 10220,
+   "endMs": 10630,
+   "timestampMs": 10425,
+   "confidence": null
+  },
+  {
+   "text": " fue",
+   "startMs": 10630,
+   "endMs": 10780,
+   "timestampMs": 10705,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 10780,
+   "endMs": 10990,
+   "timestampMs": 10885,
+   "confidence": null
+  },
+  {
+   "text": " misma",
+   "startMs": 10990,
+   "endMs": 11230,
+   "timestampMs": 11110,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 11230,
+   "endMs": 11400,
+   "timestampMs": 11315,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 11400,
+   "endMs": 11520,
+   "timestampMs": 11460,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 11520,
+   "endMs": 11690,
+   "timestampMs": 11605,
+   "confidence": null
+  },
+  {
+   "text": " Londres.",
+   "startMs": 11690,
+   "endMs": 12330,
+   "timestampMs": 12010,
+   "confidence": null
+  },
+  {
+   "text": " Pero",
+   "startMs": 12330,
+   "endMs": 12640,
+   "timestampMs": 12485,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 12640,
+   "endMs": 12720,
+   "timestampMs": 12675,
+   "confidence": null
+  },
+  {
+   "text": " mil",
+   "startMs": 12710,
+   "endMs": 12990,
+   "timestampMs": 12850,
+   "confidence": null
+  },
+  {
+   "text": " novecientos",
+   "startMs": 12990,
+   "endMs": 13570,
+   "timestampMs": 13280,
+   "confidence": null
+  },
+  {
+   "text": " cuarenta,",
+   "startMs": 13570,
+   "endMs": 14180,
+   "timestampMs": 13875,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 14180,
+   "endMs": 14360,
+   "timestampMs": 14270,
+   "confidence": null
+  },
+  {
+   "text": " orden",
+   "startMs": 14360,
+   "endMs": 14740,
+   "timestampMs": 14550,
+   "confidence": null
+  },
+  {
+   "text": " adelantó",
+   "startMs": 14740,
+   "endMs": 15270,
+   "timestampMs": 15005,
+   "confidence": null
+  },
+  {
+   "text": " todos",
+   "startMs": 15270,
+   "endMs": 15630,
+   "timestampMs": 15450,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 15630,
+   "endMs": 15780,
+   "timestampMs": 15705,
+   "confidence": null
+  },
+  {
+   "text": " relojes",
+   "startMs": 15780,
+   "endMs": 16390,
+   "timestampMs": 16085,
+   "confidence": null
+  },
+  {
+   "text": " sesenta",
+   "startMs": 16390,
+   "endMs": 16670,
+   "timestampMs": 16530,
+   "confidence": null
+  },
+  {
+   "text": " minutos.",
+   "startMs": 16670,
+   "endMs": 17380,
+   "timestampMs": 17025,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 17380,
+   "endMs": 17630,
+   "timestampMs": 17505,
+   "confidence": null
+  },
+  {
+   "text": " nunca",
+   "startMs": 17630,
+   "endMs": 17750,
+   "timestampMs": 17690,
+   "confidence": null
+  },
+  {
+   "text": " volvimos",
+   "startMs": 17750,
+   "endMs": 18310,
+   "timestampMs": 18030,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 18310,
+   "endMs": 18390,
+   "timestampMs": 18310,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 18310,
+   "endMs": 18430,
+   "timestampMs": 18370,
+   "confidence": null
+  },
+  {
+   "text": " hora",
+   "startMs": 18430,
+   "endMs": 18680,
+   "timestampMs": 18555,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 18680,
+   "endMs": 18800,
+   "timestampMs": 18740,
+   "confidence": null
+  },
+  {
+   "text": " Greenwich.",
+   "startMs": 18800,
+   "endMs": 19600,
+   "timestampMs": 19200,
+   "confidence": null
+  },
+  {
+   "text": " Por",
+   "startMs": 19600,
+   "endMs": 19780,
+   "timestampMs": 19690,
+   "confidence": null
+  },
+  {
+   "text": " eso,",
+   "startMs": 19780,
+   "endMs": 20090,
+   "timestampMs": 19935,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 20090,
+   "endMs": 20310,
+   "timestampMs": 20200,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 20310,
+   "endMs": 20390,
+   "timestampMs": 20330,
+   "confidence": null
+  },
+  {
+   "text": " reloj,",
+   "startMs": 20350,
+   "endMs": 20820,
+   "timestampMs": 20585,
+   "confidence": null
+  },
+  {
+   "text": " aquí",
+   "startMs": 20820,
+   "endMs": 21030,
+   "timestampMs": 20925,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 21030,
+   "endMs": 21160,
+   "timestampMs": 21095,
+   "confidence": null
+  },
+  {
+   "text": " mediodía",
+   "startMs": 21160,
+   "endMs": 21660,
+   "timestampMs": 21410,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 21660,
+   "endMs": 21850,
+   "timestampMs": 21755,
+   "confidence": null
+  },
+  {
+   "text": " sol",
+   "startMs": 21850,
+   "endMs": 22040,
+   "timestampMs": 21945,
+   "confidence": null
+  },
+  {
+   "text": " llega",
+   "startMs": 22040,
+   "endMs": 22360,
+   "timestampMs": 22200,
+   "confidence": null
+  },
+  {
+   "text": " más",
+   "startMs": 22360,
+   "endMs": 22670,
+   "timestampMs": 22515,
+   "confidence": null
+  },
+  {
+   "text": " tarde.",
+   "startMs": 22670,
+   "endMs": 23160,
+   "timestampMs": 22915,
+   "confidence": null
+  },
+  {
+   "text": " ¿Tú",
+   "startMs": 23160,
+   "endMs": 23350,
+   "timestampMs": 23255,
+   "confidence": null
+  },
+  {
+   "text": " volverías",
+   "startMs": 23350,
+   "endMs": 23890,
+   "timestampMs": 23620,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 23890,
+   "endMs": 23970,
+   "timestampMs": 23920,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 23950,
+   "endMs": 24070,
+   "timestampMs": 24010,
+   "confidence": null
+  },
+  {
+   "text": " hora",
+   "startMs": 24070,
+   "endMs": 24340,
+   "timestampMs": 24205,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 24340,
+   "endMs": 24450,
+   "timestampMs": 24395,
+   "confidence": null
+  },
+  {
+   "text": " Londres?",
+   "startMs": 24450,
+   "endMs": 25020,
+   "timestampMs": 24735,
+   "confidence": null
+  },
+  {
+   "text": " Te",
+   "startMs": 25020,
+   "endMs": 25210,
+   "timestampMs": 25115,
+   "confidence": null
+  },
+  {
+   "text": " leo",
+   "startMs": 25210,
+   "endMs": 25290,
+   "timestampMs": 25250,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 25290,
+   "endMs": 25400,
+   "timestampMs": 25345,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 25400,
+   "endMs": 25570,
+   "timestampMs": 25485,
+   "confidence": null
+  },
+  {
+   "text": " comentarios.",
+   "startMs": 25570,
+   "endMs": 26420,
+   "timestampMs": 25995,
+   "confidence": null
+  }
+ ],
+ "estilo": "ilustrado"
+}

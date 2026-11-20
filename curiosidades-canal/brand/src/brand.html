@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Datos Curiosos · Marca</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Montserrat:wght@600;800;900&display=block" rel="stylesheet">
+<style>
+  :root{
+    --noche:#0A0E27; --indigo:#1B1F4B; --chispa:#FFD23F; --coral:#FF4D8D;
+    --cian:#2BD9FE; --violeta:#7B5CFF; --blanco:#FFFFFF;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{background:transparent}
+  body{font-family:Montserrat,sans-serif;color:var(--blanco)}
+  .view{display:none;position:relative;overflow:hidden}
+  .view.on{display:block}
+  .wm-title{font-family:"Archivo Black",sans-serif;letter-spacing:.5px;line-height:.92}
+  .pill{display:inline-block;background:var(--chispa);color:var(--noche);font-weight:900;border-radius:999px}
+  .bg-cosmos{
+    background:
+      radial-gradient(1200px 700px at 20% 10%, rgba(123,92,255,.45), transparent 60%),
+      radial-gradient(900px 600px at 85% 90%, rgba(255,77,141,.35), transparent 60%),
+      radial-gradient(700px 500px at 70% 15%, rgba(43,217,254,.22), transparent 60%),
+      var(--noche);
+  }
+  .grid{position:absolute;inset:0;background-image:
+      linear-gradient(rgba(255,255,255,.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.05) 1px, transparent 1px);
+      background-size:64px 64px;mask-image:radial-gradient(closest-side,#000 40%,transparent)}
+</style>
+</head>
+<body>
+<!-- Símbolo reutilizable: insignia con "?" amarilla, órbita y chispa -->
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <linearGradient id="gBadge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF4D8D"/>
+      <stop offset=".55" stop-color="#7B5CFF"/>
+      <stop offset="1" stop-color="#2BD9FE"/>
+    </linearGradient>
+    <linearGradient id="gQ" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE680"/>
+      <stop offset="1" stop-color="#FFC21A"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0A0E27" flood-opacity=".55"/>
+    </filter>
+    <symbol id="spark" viewBox="-50 -50 100 100">
+      <path d="M0-50 C6-12 12-6 50 0 C12 6 6 12 0 50 C-6 12-12 6-50 0 C-12-6-6-12 0-50Z"/>
+    </symbol>
+    <symbol id="mark" viewBox="0 0 1000 1000">
+      <circle cx="500" cy="500" r="470" fill="url(#gBadge)"/>
+      <circle cx="500" cy="500" r="470" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="10"/>
+      <!-- órbita trasera -->
+      <ellipse cx="500" cy="520" rx="400" ry="120" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="16" transform="rotate(-18 500 520)" stroke-dasharray="1260 1260" stroke-dashoffset="0"/>
+      <!-- signo de interrogación -->
+      <g filter="url(#soft)">
+        <path d="M335 380 C335 255 420 185 515 185 C620 185 690 255 690 345 C690 425 640 465 585 500 C545 525 530 548 530 600 L530 640 L430 640 L430 590 C430 515 465 478 515 447 C565 416 585 395 585 352 C585 305 555 275 512 275 C462 275 437 310 435 380 Z" fill="url(#gQ)"/>
+      </g>
+      <!-- chispa como punto del "?" -->
+      <use href="#spark" x="405" y="665" width="150" height="150" fill="#FFFFFF" filter="url(#soft)"/>
+      <!-- órbita delantera (tramo) con planeta -->
+      <path d="M118 650 A400 120 -18 0 0 860 380" fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round" stroke-opacity=".9" transform="rotate(0)"/>
+      <circle cx="845" cy="392" r="34" fill="#2BD9FE" stroke="#fff" stroke-width="10"/>
+      <use href="#spark" x="170" y="190" width="70" height="70" fill="#FFD23F"/>
+      <use href="#spark" x="760" y="700" width="48" height="48" fill="#fff" opacity=".85"/>
+    </symbol>
+
+    <!-- Iconos de "todo tipo" para el banner -->
+    <symbol id="i-planet" viewBox="0 0 100 100"><circle cx="50" cy="50" r="24" fill="none" stroke="currentColor" stroke-width="5"/><ellipse cx="50" cy="50" rx="44" ry="13" fill="none" stroke="currentColor" stroke-width="5" transform="rotate(-20 50 50)"/></symbol>
+    <symbol id="i-atom" viewBox="0 0 100 100"><g fill="none" stroke="currentColor" stroke-width="5"><ellipse cx="50" cy="50" rx="44" ry="16"/><ellipse cx="50" cy="50" rx="44" ry="16" transform="rotate(60 50 50)"/><ellipse cx="50" cy="50" rx="44" ry="16" transform="rotate(-60 50 50)"/></g><circle cx="50" cy="50" r="7" fill="currentColor"/></symbol>
+    <symbol id="i-pyramid" viewBox="0 0 100 100"><path d="M50 12 L90 84 L10 84 Z M50 12 L60 84" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round"/></symbol>
+    <symbol id="i-octo" viewBox="0 0 100 100"><g fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round"><path d="M28 50 C28 22 72 22 72 50"/><path d="M28 50 C22 66 12 70 10 82"/><path d="M40 52 C38 70 32 78 34 90"/><path d="M60 52 C62 70 68 78 66 90"/><path d="M72 50 C78 66 88 70 90 82"/></g><circle cx="42" cy="40" r="4" fill="currentColor"/><circle cx="58" cy="40" r="4" fill="currentColor"/></symbol>
+    <symbol id="i-bulb" viewBox="0 0 100 100"><g fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round"><path d="M34 60 C24 52 20 42 20 36 C20 20 34 10 50 10 C66 10 80 20 80 36 C80 42 76 52 66 60 L66 72 L34 72 Z"/><path d="M38 82 L62 82"/><path d="M42 92 L58 92"/></g></symbol>
+    <symbol id="i-brain" viewBox="0 0 100 100"><g fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round"><path d="M50 18 C40 8 22 14 24 30 C12 34 12 52 22 56 C18 70 32 82 44 76 C48 84 50 84 50 84 Z"/><path d="M50 18 C60 8 78 14 76 30 C88 34 88 52 78 56 C82 70 68 82 56 76 C52 84 50 84 50 84"/></g></symbol>
+    <symbol id="i-globe" viewBox="0 0 100 100"><g fill="none" stroke="currentColor" stroke-width="5"><circle cx="50" cy="50" r="38"/><ellipse cx="50" cy="50" rx="16" ry="38"/><path d="M12 50 H88 M18 30 H82 M18 70 H82"/></g></symbol>
+    <symbol id="i-dna" viewBox="0 0 100 100"><g fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round"><path d="M30 10 C30 40 70 40 70 50 C70 60 30 60 30 90"/><path d="M70 10 C70 40 30 40 30 50 C30 60 70 60 70 90"/><path d="M38 22 H62 M38 78 H62"/></g></symbol>
+  </defs>
+</svg>
+
+<!-- 1) Logotipo completo (cuadrado, fondo transparente) -->
+<section class="view" id="logo" style="width:1600px;height:1600px">
+  <div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:40px">
+    <svg width="760" height="760"><use href="#mark"/></svg>
+    <div style="text-align:center">
+      <div class="wm-title" style="font-size:230px;color:#fff;text-shadow:0 10px 0 #0A0E27">DATOS</div>
+      <div class="pill" style="font-size:100px;padding:14px 60px;margin-top:22px;letter-spacing:10px">CURIOSOS</div>
+    </div>
+  </div>
+</section>
+
+<!-- 1b) Logotipo horizontal para fondos oscuros -->
+<section class="view bg-cosmos" id="logo-dark" style="width:2400px;height:900px">
+  <div class="grid"></div>
+  <div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;gap:70px">
+    <svg width="620" height="620"><use href="#mark"/></svg>
+    <div>
+      <div class="wm-title" style="font-size:250px">DATOS</div>
+      <div class="pill" style="font-size:110px;padding:14px 64px;margin-top:26px;letter-spacing:12px">CURIOSOS</div>
+    </div>
+  </div>
+</section>
+
+<!-- 2) Imagen de perfil 800x800 (se recorta en círculo) -->
+<section class="view" id="avatar" style="width:800px;height:800px;background:#0A0E27">
+  <div style="position:absolute;inset:0;background:radial-gradient(circle at 50% 40%, #1B1F4B, #0A0E27 70%)"></div>
+  <svg width="800" height="800" style="position:absolute;inset:0"><use href="#mark" x="40" y="40" width="720" height="720"/></svg>
+</section>
+
+<!-- 3) Banner 2560x1440, zona segura central 1546x423 -->
+<section class="view bg-cosmos" id="banner" style="width:2560px;height:1440px">
+  <div class="grid"></div>
+  <div id="icons" style="position:absolute;inset:0"></div>
+  <!-- zona segura: x 507..2053, y 508..931 -->
+  <div style="position:absolute;left:507px;top:508px;width:1546px;height:423px;display:flex;align-items:center;justify-content:center;gap:56px">
+    <div style="text-align:center">
+      <div class="wm-title" style="font-size:210px;white-space:nowrap;line-height:.9">DATOS</div>
+      <div style="display:flex;align-items:center;justify-content:center;gap:28px;margin-top:20px">
+        <div class="pill" style="font-size:80px;padding:8px 46px;letter-spacing:10px;white-space:nowrap">CURIOSOS</div>
+        <div style="font-size:44px;font-weight:800;opacity:.85;white-space:nowrap">@datoscuriososs.1</div>
+      </div>
+      <div style="font-size:42px;font-weight:800;margin-top:26px;opacity:.95;white-space:nowrap">Datos sorprendentes y verificados <span style="color:#FFD23F">·</span> Shorts nuevos cada día</div>
+    </div>
+  </div>
+</section>
+
+<!-- 4) Marca de agua 150x150 (YouTube "branding watermark") -->
+<section class="view" id="watermark" style="width:150px;height:150px">
+  <svg width="150" height="150"><use href="#mark"/></svg>
+</section>
+
+<!-- 5) Hoja de identidad (paleta + tipografías) -->
+<section class="view bg-cosmos" id="sheet" style="width:1920px;height:1080px">
+  <div class="grid"></div>
+  <div style="position:absolute;inset:80px;display:grid;grid-template-columns:520px 1fr;gap:80px;align-items:center">
+    <svg width="520" height="520"><use href="#mark"/></svg>
+    <div>
+      <div class="wm-title" style="font-size:140px">DATOS</div>
+      <div class="pill" style="font-size:60px;padding:8px 36px;margin:16px 0 50px;letter-spacing:8px">CURIOSOS</div>
+      <div style="display:flex;gap:26px;margin-bottom:40px" id="swatches"></div>
+      <div style="font-size:30px;font-weight:600;line-height:1.5;opacity:.9">
+        <b style="font-family:'Archivo Black'">Archivo Black</b> — titulares y subtítulos de los Shorts<br>
+        <b>Montserrat 600–900</b> — textos de apoyo, banner y miniaturas
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  const view = new URLSearchParams(location.search).get('view') || 'logo';
+  document.getElementById(view).classList.add('on');
+
+  // Iconos dispersos fuera de la zona segura del banner (deterministas)
+  const icons = ['i-planet','i-atom','i-pyramid','i-octo','i-bulb','i-brain','i-globe','i-dna'];
+  const colors = ['#FFD23F','#2BD9FE','#FF4D8D','#ffffff'];
+  const spots = [[120,120,170],[520,250,120],[930,90,140],[1420,180,110],[1850,110,160],[2290,240,150],
+                 [180,620,130],[2320,640,140],[110,1100,160],[560,1180,120],[1000,1230,140],
+                 [1500,1150,130],[1950,1210,150],[2340,1060,120],[300,380,90],[2140,420,90]];
+  const host = document.getElementById('icons');
+  spots.forEach(([x,y,s],i)=>{
+    host.insertAdjacentHTML('beforeend',
+      `<svg width="${s}" height="${s}" style="position:absolute;left:${x}px;top:${y}px;color:${colors[i%4]};opacity:.55;transform:rotate(${(i*37)%50-25}deg)"><use href="#${icons[i%icons.length]}"/></svg>`);
+  });
+
+  const sw = [['Noche','#0A0E27'],['Chispa','#FFD23F'],['Coral','#FF4D8D'],['Violeta','#7B5CFF'],['Cian','#2BD9FE'],['Blanco','#FFFFFF']];
+  const sh = document.getElementById('swatches');
+  sw.forEach(([n,c])=> sh.insertAdjacentHTML('beforeend',
+    `<div style="text-align:center;font-weight:800;font-size:22px"><div style="width:130px;height:130px;border-radius:28px;background:${c};border:4px solid rgba(255,255,255,.25);margin-bottom:10px"></div>${n}<br><span style="opacity:.7;font-weight:600">${c}</span></div>`));
+</script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+{
+  "referencia": {
+    "voz_elevenlabs": "curiosidades281",
+    "voice_id": "NNgYp96c8FM1iI4HMawH",
+    "f0_mediana_hz": 122.13740458015268,
+    "f0_variacion_st": 4.247633096074379,
+    "centroide_hz": 1760.7084669877474,
+    "silabas_por_s": 6.128133704735376
+  },
+  "candidatas": {
+    "em_alex": {
+      "f0_mediana_hz": 131.6894729711421,
+      "f0_variacion_st": 3.417549235284911,
+      "centroide_hz": 2007.9428122872005,
+      "silabas_por_s": 7.105263157894737,
+      "desplazamiento_st": -1.3036191636690013,
+      "distancia": 2.9220697566946567
+    },
+    "em_santa": {
+      "f0_mediana_hz": 137.93103448275863,
+      "f0_variacion_st": 4.354868261049862,
+      "centroide_hz": 1972.5470282885753,
+      "silabas_por_s": 7.341772151898734,
+      "desplazamiento_st": -2.1053040769185394,
+      "distancia": 2.8941953377570266
+    }
+  },
+  "elegida": "em_santa",
+  "ajuste_tono_semitonos": -2.11,
+  "velocidad": 0.9
+}

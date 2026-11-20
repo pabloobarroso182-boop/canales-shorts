@@ -1,0 +1,929 @@
+{
+ "id": "20261119-3-avestruz-mito",
+ "durationMs": 31063,
+ "audio": "shorts/20261119-3-avestruz-mito/mezcla.wav",
+ "scenes": [
+  {
+   "startMs": 0,
+   "endMs": 2920,
+   "clip": null,
+   "icon": "myth",
+   "big": "MITO",
+   "small": "la cabeza bajo la arena",
+   "accent": "#FF4D8D",
+   "kind": "hook",
+   "ilustracion": {
+    "escenario": "sabana",
+    "avestruz": {
+     "x": 660,
+     "y": 1540,
+     "pose": "de_pie"
+    },
+    "cifra": {
+     "texto": "MITO",
+     "sub": "la cabeza bajo la arena"
+    },
+    "camara": {
+     "zoom": [
+      1.0,
+      1.1
+     ],
+     "foco": [
+      520,
+      1000
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 2970,
+   "endMs": 7006,
+   "clip": null,
+   "icon": "question",
+   "big": "¿ENTONCES?",
+   "small": "no podría respirar",
+   "accent": "#2BD9FE",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "sabana",
+    "avestruz": {
+     "x": 660,
+     "y": 1540,
+     "pose": "de_pie"
+    },
+    "bocadillos": [
+     "¿Bajo la arena?",
+     "¿Y respira?",
+     "¿Entonces?"
+    ],
+    "camara": {
+     "zoom": [
+      1.12,
+      1.04
+     ],
+     "foco": [
+      480,
+      900
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 7056,
+   "endMs": 10270,
+   "clip": null,
+   "icon": "egg",
+   "big": "NIDO",
+   "small": "un hoyo en el suelo",
+   "accent": "#FFD23F",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "sabana",
+    "nido": {
+     "x": 480,
+     "y": 1500
+    },
+    "cifra": {
+     "texto": "NIDO",
+     "sub": "un hoyo en el suelo"
+    },
+    "camara": {
+     "zoom": [
+      1.2,
+      1.35
+     ],
+     "foco": [
+      480,
+      1420
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 10320,
+   "endMs": 15353,
+   "clip": null,
+   "icon": "spin",
+   "big": "GIRAR",
+   "small": "los huevos, con el pico",
+   "accent": "#7B5CFF",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "sabana",
+    "nido": {
+     "x": 330,
+     "y": 1500,
+     "girando": true
+    },
+    "avestruz": {
+     "x": 640,
+     "y": 1540,
+     "pose": "cabeza_en_hoyo"
+    },
+    "cifra": {
+     "texto": "GIRAR",
+     "sub": "los huevos, con el pico"
+    },
+    "camara": {
+     "zoom": [
+      1.05,
+      1.16
+     ],
+     "foco": [
+      460,
+      1250
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 15403,
+   "endMs": 20055,
+   "clip": null,
+   "icon": "eye",
+   "big": "ILUSIÓN",
+   "small": "vista de lejos",
+   "accent": "#2BD9FE",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "sabana",
+    "avestruz": {
+     "x": 640,
+     "y": 1440,
+     "escala": 0.42,
+     "pose": "cabeza_en_hoyo"
+    },
+    "lupa": {
+     "x": 520,
+     "y": 1420,
+     "icono": "eye",
+     "color": "#2BD9FE",
+     "texto": "de lejos, parece enterrada"
+    },
+    "camara": {
+     "zoom": [
+      1.25,
+      1.0
+     ],
+     "foco": [
+      560,
+      1350
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 20105,
+   "endMs": 26077,
+   "clip": null,
+   "icon": "alert",
+   "big": "QUIETOS",
+   "small": "cuello pegado al suelo",
+   "accent": "#FFD23F",
+   "kind": "fact",
+   "ilustracion": {
+    "escenario": "sabana",
+    "avestruz": {
+     "x": 720,
+     "y": 1540,
+     "pose": "tumbado"
+    },
+    "cifra": {
+     "texto": "QUIETOS",
+     "sub": "cuello pegado al suelo"
+    },
+    "camara": {
+     "zoom": [
+      1.05,
+      1.15
+     ],
+     "foco": [
+      480,
+      1450
+     ]
+    }
+   }
+  },
+  {
+   "startMs": 26127,
+   "endMs": 30463,
+   "clip": null,
+   "icon": "question",
+   "big": "",
+   "small": null,
+   "accent": "#FFD23F",
+   "kind": "cta",
+   "ilustracion": null
+  }
+ ],
+ "captions": [
+  {
+   "text": "El",
+   "startMs": 0,
+   "endMs": 130,
+   "timestampMs": 65,
+   "confidence": null
+  },
+  {
+   "text": " avestruz",
+   "startMs": 130,
+   "endMs": 660,
+   "timestampMs": 395,
+   "confidence": null
+  },
+  {
+   "text": " nunca",
+   "startMs": 660,
+   "endMs": 1000,
+   "timestampMs": 830,
+   "confidence": null
+  },
+  {
+   "text": " esconde",
+   "startMs": 1000,
+   "endMs": 1470,
+   "timestampMs": 1235,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 1470,
+   "endMs": 1600,
+   "timestampMs": 1535,
+   "confidence": null
+  },
+  {
+   "text": " cabeza",
+   "startMs": 1600,
+   "endMs": 2000,
+   "timestampMs": 1800,
+   "confidence": null
+  },
+  {
+   "text": " bajo",
+   "startMs": 2000,
+   "endMs": 2270,
+   "timestampMs": 2135,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 2270,
+   "endMs": 2410,
+   "timestampMs": 2340,
+   "confidence": null
+  },
+  {
+   "text": " arena.",
+   "startMs": 2410,
+   "endMs": 3020,
+   "timestampMs": 2715,
+   "confidence": null
+  },
+  {
+   "text": " Si",
+   "startMs": 3020,
+   "endMs": 3130,
+   "timestampMs": 3075,
+   "confidence": null
+  },
+  {
+   "text": " lo",
+   "startMs": 3130,
+   "endMs": 3290,
+   "timestampMs": 3210,
+   "confidence": null
+  },
+  {
+   "text": " hiciera,",
+   "startMs": 3290,
+   "endMs": 3850,
+   "timestampMs": 3570,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 3850,
+   "endMs": 3980,
+   "timestampMs": 3915,
+   "confidence": null
+  },
+  {
+   "text": " podría",
+   "startMs": 3980,
+   "endMs": 4470,
+   "timestampMs": 4225,
+   "confidence": null
+  },
+  {
+   "text": " respirar.",
+   "startMs": 4470,
+   "endMs": 5000,
+   "timestampMs": 4735,
+   "confidence": null
+  },
+  {
+   "text": " Entonces,",
+   "startMs": 5000,
+   "endMs": 5670,
+   "timestampMs": 5335,
+   "confidence": null
+  },
+  {
+   "text": " ¿de",
+   "startMs": 5670,
+   "endMs": 5940,
+   "timestampMs": 5805,
+   "confidence": null
+  },
+  {
+   "text": " dónde",
+   "startMs": 5940,
+   "endMs": 6200,
+   "timestampMs": 6070,
+   "confidence": null
+  },
+  {
+   "text": " sale",
+   "startMs": 6200,
+   "endMs": 6470,
+   "timestampMs": 6335,
+   "confidence": null
+  },
+  {
+   "text": " esa",
+   "startMs": 6470,
+   "endMs": 6670,
+   "timestampMs": 6570,
+   "confidence": null
+  },
+  {
+   "text": " idea?",
+   "startMs": 6670,
+   "endMs": 7200,
+   "timestampMs": 6935,
+   "confidence": null
+  },
+  {
+   "text": " Los",
+   "startMs": 7200,
+   "endMs": 7410,
+   "timestampMs": 7305,
+   "confidence": null
+  },
+  {
+   "text": " avestruces",
+   "startMs": 7410,
+   "endMs": 8040,
+   "timestampMs": 7725,
+   "confidence": null
+  },
+  {
+   "text": " hacen",
+   "startMs": 8040,
+   "endMs": 8380,
+   "timestampMs": 8210,
+   "confidence": null
+  },
+  {
+   "text": " su",
+   "startMs": 8380,
+   "endMs": 8480,
+   "timestampMs": 8430,
+   "confidence": null
+  },
+  {
+   "text": " nido",
+   "startMs": 8480,
+   "endMs": 8740,
+   "timestampMs": 8610,
+   "confidence": null
+  },
+  {
+   "text": " cavando",
+   "startMs": 8740,
+   "endMs": 9190,
+   "timestampMs": 8965,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 9190,
+   "endMs": 9320,
+   "timestampMs": 9255,
+   "confidence": null
+  },
+  {
+   "text": " hoyo",
+   "startMs": 9320,
+   "endMs": 9620,
+   "timestampMs": 9470,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 9620,
+   "endMs": 9880,
+   "timestampMs": 9750,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 9880,
+   "endMs": 10020,
+   "timestampMs": 9950,
+   "confidence": null
+  },
+  {
+   "text": " suelo.",
+   "startMs": 10020,
+   "endMs": 10360,
+   "timestampMs": 10190,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 10360,
+   "endMs": 10440,
+   "timestampMs": 10395,
+   "confidence": null
+  },
+  {
+   "text": " varias",
+   "startMs": 10430,
+   "endMs": 10950,
+   "timestampMs": 10690,
+   "confidence": null
+  },
+  {
+   "text": " veces",
+   "startMs": 10950,
+   "endMs": 11200,
+   "timestampMs": 11075,
+   "confidence": null
+  },
+  {
+   "text": " al",
+   "startMs": 11200,
+   "endMs": 11340,
+   "timestampMs": 11270,
+   "confidence": null
+  },
+  {
+   "text": " día",
+   "startMs": 11340,
+   "endMs": 11530,
+   "timestampMs": 11435,
+   "confidence": null
+  },
+  {
+   "text": " meten",
+   "startMs": 11530,
+   "endMs": 11880,
+   "timestampMs": 11705,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 11880,
+   "endMs": 12010,
+   "timestampMs": 11945,
+   "confidence": null
+  },
+  {
+   "text": " cabeza",
+   "startMs": 12010,
+   "endMs": 12430,
+   "timestampMs": 12220,
+   "confidence": null
+  },
+  {
+   "text": " dentro",
+   "startMs": 12430,
+   "endMs": 12840,
+   "timestampMs": 12635,
+   "confidence": null
+  },
+  {
+   "text": " para",
+   "startMs": 12840,
+   "endMs": 13130,
+   "timestampMs": 12985,
+   "confidence": null
+  },
+  {
+   "text": " dar",
+   "startMs": 13130,
+   "endMs": 13380,
+   "timestampMs": 13255,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 13380,
+   "endMs": 13480,
+   "timestampMs": 13430,
+   "confidence": null
+  },
+  {
+   "text": " vuelta",
+   "startMs": 13480,
+   "endMs": 13900,
+   "timestampMs": 13690,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 13900,
+   "endMs": 13980,
+   "timestampMs": 13935,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 13970,
+   "endMs": 14180,
+   "timestampMs": 14075,
+   "confidence": null
+  },
+  {
+   "text": " huevos",
+   "startMs": 14180,
+   "endMs": 14590,
+   "timestampMs": 14385,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 14590,
+   "endMs": 14830,
+   "timestampMs": 14710,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 14830,
+   "endMs": 14940,
+   "timestampMs": 14885,
+   "confidence": null
+  },
+  {
+   "text": " pico.",
+   "startMs": 14940,
+   "endMs": 15480,
+   "timestampMs": 15210,
+   "confidence": null
+  },
+  {
+   "text": " De",
+   "startMs": 15480,
+   "endMs": 15600,
+   "timestampMs": 15540,
+   "confidence": null
+  },
+  {
+   "text": " lejos,",
+   "startMs": 15600,
+   "endMs": 16070,
+   "timestampMs": 15835,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 16070,
+   "endMs": 16200,
+   "timestampMs": 16135,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 16200,
+   "endMs": 16320,
+   "timestampMs": 16260,
+   "confidence": null
+  },
+  {
+   "text": " cuerpo",
+   "startMs": 16320,
+   "endMs": 16690,
+   "timestampMs": 16505,
+   "confidence": null
+  },
+  {
+   "text": " enorme",
+   "startMs": 16690,
+   "endMs": 17060,
+   "timestampMs": 16875,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 17060,
+   "endMs": 17140,
+   "timestampMs": 17090,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 17120,
+   "endMs": 17300,
+   "timestampMs": 17210,
+   "confidence": null
+  },
+  {
+   "text": " cabeza",
+   "startMs": 17300,
+   "endMs": 17670,
+   "timestampMs": 17485,
+   "confidence": null
+  },
+  {
+   "text": " tan",
+   "startMs": 17670,
+   "endMs": 17890,
+   "timestampMs": 17780,
+   "confidence": null
+  },
+  {
+   "text": " pequeña,",
+   "startMs": 17890,
+   "endMs": 18500,
+   "timestampMs": 18195,
+   "confidence": null
+  },
+  {
+   "text": " parece",
+   "startMs": 18500,
+   "endMs": 18780,
+   "timestampMs": 18640,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 18780,
+   "endMs": 18960,
+   "timestampMs": 18870,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 18960,
+   "endMs": 19080,
+   "timestampMs": 19020,
+   "confidence": null
+  },
+  {
+   "text": " han",
+   "startMs": 19080,
+   "endMs": 19260,
+   "timestampMs": 19170,
+   "confidence": null
+  },
+  {
+   "text": " enterrado.",
+   "startMs": 19260,
+   "endMs": 20160,
+   "timestampMs": 19710,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 20160,
+   "endMs": 20240,
+   "timestampMs": 20190,
+   "confidence": null
+  },
+  {
+   "text": " cuando",
+   "startMs": 20220,
+   "endMs": 20610,
+   "timestampMs": 20415,
+   "confidence": null
+  },
+  {
+   "text": " hay",
+   "startMs": 20610,
+   "endMs": 20800,
+   "timestampMs": 20705,
+   "confidence": null
+  },
+  {
+   "text": " peligro",
+   "startMs": 20800,
+   "endMs": 21260,
+   "timestampMs": 21030,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 21260,
+   "endMs": 21340,
+   "timestampMs": 21285,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 21310,
+   "endMs": 21490,
+   "timestampMs": 21400,
+   "confidence": null
+  },
+  {
+   "text": " pueden",
+   "startMs": 21490,
+   "endMs": 21830,
+   "timestampMs": 21660,
+   "confidence": null
+  },
+  {
+   "text": " huir,",
+   "startMs": 21830,
+   "endMs": 22220,
+   "timestampMs": 22025,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 22220,
+   "endMs": 22340,
+   "timestampMs": 22280,
+   "confidence": null
+  },
+  {
+   "text": " tumban",
+   "startMs": 22340,
+   "endMs": 22740,
+   "timestampMs": 22540,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 22740,
+   "endMs": 22870,
+   "timestampMs": 22805,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 22870,
+   "endMs": 23000,
+   "timestampMs": 22935,
+   "confidence": null
+  },
+  {
+   "text": " suelo",
+   "startMs": 23000,
+   "endMs": 23320,
+   "timestampMs": 23160,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 23320,
+   "endMs": 23540,
+   "timestampMs": 23430,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 23540,
+   "endMs": 23640,
+   "timestampMs": 23590,
+   "confidence": null
+  },
+  {
+   "text": " cabeza",
+   "startMs": 23640,
+   "endMs": 24090,
+   "timestampMs": 23865,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 24090,
+   "endMs": 24170,
+   "timestampMs": 24100,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 24110,
+   "endMs": 24220,
+   "timestampMs": 24165,
+   "confidence": null
+  },
+  {
+   "text": " cuello",
+   "startMs": 24220,
+   "endMs": 24680,
+   "timestampMs": 24450,
+   "confidence": null
+  },
+  {
+   "text": " estirados,",
+   "startMs": 24680,
+   "endMs": 25340,
+   "timestampMs": 25010,
+   "confidence": null
+  },
+  {
+   "text": " muy",
+   "startMs": 25340,
+   "endMs": 25520,
+   "timestampMs": 25430,
+   "confidence": null
+  },
+  {
+   "text": " quietos.",
+   "startMs": 25520,
+   "endMs": 26160,
+   "timestampMs": 25840,
+   "confidence": null
+  },
+  {
+   "text": " ¿Qué",
+   "startMs": 26160,
+   "endMs": 26370,
+   "timestampMs": 26265,
+   "confidence": null
+  },
+  {
+   "text": " otro",
+   "startMs": 26370,
+   "endMs": 26580,
+   "timestampMs": 26475,
+   "confidence": null
+  },
+  {
+   "text": " mito",
+   "startMs": 26580,
+   "endMs": 26790,
+   "timestampMs": 26685,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 26790,
+   "endMs": 26890,
+   "timestampMs": 26840,
+   "confidence": null
+  },
+  {
+   "text": " animales",
+   "startMs": 26890,
+   "endMs": 27310,
+   "timestampMs": 27100,
+   "confidence": null
+  },
+  {
+   "text": " quieres",
+   "startMs": 27310,
+   "endMs": 27700,
+   "timestampMs": 27505,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 27700,
+   "endMs": 27880,
+   "timestampMs": 27790,
+   "confidence": null
+  },
+  {
+   "text": " desmontemos?",
+   "startMs": 27880,
+   "endMs": 28920,
+   "timestampMs": 28400,
+   "confidence": null
+  },
+  {
+   "text": " Escríbelo",
+   "startMs": 28920,
+   "endMs": 29520,
+   "timestampMs": 29220,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 29520,
+   "endMs": 29620,
+   "timestampMs": 29570,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 29620,
+   "endMs": 29770,
+   "timestampMs": 29695,
+   "confidence": null
+  },
+  {
+   "text": " comentarios.",
+   "startMs": 29770,
+   "endMs": 30520,
+   "timestampMs": 30145,
+   "confidence": null
+  }
+ ],
+ "estilo": "ilustrado"
+}

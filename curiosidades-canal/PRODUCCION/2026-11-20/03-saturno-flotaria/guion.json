@@ -1,0 +1,95 @@
+{
+ "id": "20261120-3-saturno-flotaria",
+ "tema": "Espacio",
+ "tema_clave": "saturno densidad menor agua flotaria",
+ "estilo": "divulga",
+ "titulo": "SATURNO flotaría en una bañera 🪐🛁 #shorts",
+ "descripcion": "Saturno es el único planeta del sistema solar con una densidad media menor que la del agua (unos 0,69 g/cm³ frente a 1). En teoría, flotaría; en la práctica no, porque no es un cuerpo sólido.",
+ "hashtags": [
+  "#shorts",
+  "#curiosidades",
+  "#datoscuriosos",
+  "#espacio",
+  "#saturno",
+  "#astronomia",
+  "#nasa"
+ ],
+ "tags": [
+  "curiosidades",
+  "datos curiosos",
+  "espacio",
+  "saturno",
+  "densidad",
+  "menor"
+ ],
+ "fuentes": [
+  "NASA Science · Saturn facts (densidad menor que el agua, ~764 Tierras de volumen): https://science.nasa.gov/saturn/facts/",
+  "NASA Goddard (archivo) · Saturn: https://science.gsfc.nasa.gov/attic/huygensgcms/Saturn.htm",
+  "Caltech Cool Cosmos · Can Saturn really float on water?: https://coolcosmos.ipac.caltech.edu/ask/113-Can-Saturn-really-float-on-water-",
+  "BBC Sky at Night · Saturn could float on water: https://www.skyatnightmagazine.com/space-science/saturn-could-float-on-water"
+ ],
+ "verificacion": "Densidad media 0,687 g/cm³ (agua 1 g/cm³). Volumen ≈ 764 Tierras («más de setecientas»). Compuesto sobre todo de hidrógeno y helio. Se aclara que solo flotaría «en teoría», porque no es sólido.",
+ "escenas": [
+  {
+   "clave": "s_gancho",
+   "kind": "hook",
+   "pieza": 1,
+   "voz": "[curious] ¿Qué pasaría si metieras Saturno en una bañera gigante?"
+  },
+  {
+   "clave": "s_grande",
+   "kind": "fact",
+   "pieza": 2,
+   "voz": "Es enorme: dentro cabrían más de setecientas Tierras."
+  },
+  {
+   "clave": "s_gas",
+   "kind": "fact",
+   "pieza": 3,
+   "voz": "Pero casi todo es hidrógeno y helio, los gases más ligeros que existen."
+  },
+  {
+   "clave": "s_cuenta",
+   "kind": "fact",
+   "pieza": 4,
+   "voz": "Ahora, la cuenta."
+  },
+  {
+   "clave": "s_litro",
+   "kind": "fact",
+   "pieza": 5,
+   "voz": "Un litro de agua pesa un kilo. Un litro de Saturno, de media, unos setecientos gramos."
+  },
+  {
+   "clave": "s_menos",
+   "kind": "fact",
+   "pieza": 6,
+   "voz": "Menos que el agua."
+  },
+  {
+   "clave": "s_flota",
+   "kind": "giro",
+   "pieza": 7,
+   "voz": "[dramatically] Es el único planeta del sistema solar menos denso que el agua. Así que, en teoría, flotaría. Eso sí: en la práctica no aguantaría entero, porque no es sólido."
+  },
+  {
+   "clave": "s_cta",
+   "kind": "cta",
+   "pieza": 8,
+   "voz": "[warmly] ¿Qué otro planeta meterías tú en la bañera?"
+  }
+ ],
+ "marcas": {
+  "banera": "bañera",
+  "tierras": "Tierras.",
+  "helio": "helio,",
+  "cuenta": "cuenta.",
+  "kilo": "kilo.",
+  "gramos": "gramos.",
+  "menos": "Menos",
+  "unico": "único",
+  "teoria": "teoría,",
+  "solido": "sólido.",
+  "meterias": "meterías"
+ }
+}

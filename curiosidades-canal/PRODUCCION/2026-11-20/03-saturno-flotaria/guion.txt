@@ -1,0 +1,15 @@
+[HOOK] [curious] ¿Qué pasaría si metieras Saturno en una bañera gigante?
+
+[FACT] Es enorme: dentro cabrían más de setecientas Tierras.
+
+[FACT] Pero casi todo es hidrógeno y helio, los gases más ligeros que existen.
+
+[FACT] Ahora, la cuenta.
+
+[FACT] Un litro de agua pesa un kilo. Un litro de Saturno, de media, unos setecientos gramos.
+
+[FACT] Menos que el agua.
+
+[GIRO] [dramatically] Es el único planeta del sistema solar menos denso que el agua. Así que, en teoría, flotaría. Eso sí: en la práctica no aguantaría entero, porque no es sólido.
+
+[CTA] [warmly] ¿Qué otro planeta meterías tú en la bañera?

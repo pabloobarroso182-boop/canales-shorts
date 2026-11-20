@@ -1,0 +1,791 @@
+{
+ "id": "20261120-4-vikingos-sin-cuernos",
+ "durationMs": 38469,
+ "audio": "shorts/20261120-4-vikingos-sin-cuernos.wav",
+ "escenas": [
+  {
+   "clave": "v_gancho",
+   "startMs": 0
+  },
+  {
+   "clave": "v_imagen",
+   "startMs": 2930
+  },
+  {
+   "clave": "v_real",
+   "startMs": 6450
+  },
+  {
+   "clave": "v_salen",
+   "startMs": 14130
+  },
+  {
+   "clave": "v_ano",
+   "startMs": 16850
+  },
+  {
+   "clave": "v_teatro",
+   "startMs": 20530
+  },
+  {
+   "clave": "v_opera",
+   "startMs": 23530
+  },
+  {
+   "clave": "v_cta",
+   "startMs": 35170
+  }
+ ],
+ "marcas": {
+  "nunca": 950,
+  "invento": 6210,
+  "noruega": 10250,
+  "hierro": 12180,
+  "cuerno": 13480,
+  "salen": 15620,
+  "alemania": 18410,
+  "1876": 20410,
+  "teatro": 22880,
+  "wagner": 25400,
+  "doepler": 27330,
+  "hoy": 34830,
+  "imaginabas": 35970
+ },
+ "captions": [
+  {
+   "text": "Los",
+   "startMs": 0,
+   "endMs": 220,
+   "timestampMs": 110,
+   "confidence": null
+  },
+  {
+   "text": " vikingos",
+   "startMs": 220,
+   "endMs": 950,
+   "timestampMs": 585,
+   "confidence": null
+  },
+  {
+   "text": " nunca",
+   "startMs": 950,
+   "endMs": 1170,
+   "timestampMs": 1060,
+   "confidence": null
+  },
+  {
+   "text": " llevaron",
+   "startMs": 1170,
+   "endMs": 1810,
+   "timestampMs": 1490,
+   "confidence": null
+  },
+  {
+   "text": " cuernos",
+   "startMs": 1810,
+   "endMs": 2270,
+   "timestampMs": 2040,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 2270,
+   "endMs": 2420,
+   "timestampMs": 2345,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 2420,
+   "endMs": 2620,
+   "timestampMs": 2520,
+   "confidence": null
+  },
+  {
+   "text": " casco.",
+   "startMs": 2620,
+   "endMs": 3080,
+   "timestampMs": 2850,
+   "confidence": null
+  },
+  {
+   "text": " Sí,",
+   "startMs": 3080,
+   "endMs": 3420,
+   "timestampMs": 3250,
+   "confidence": null
+  },
+  {
+   "text": " esa",
+   "startMs": 3420,
+   "endMs": 3680,
+   "timestampMs": 3550,
+   "confidence": null
+  },
+  {
+   "text": " imagen",
+   "startMs": 3680,
+   "endMs": 4200,
+   "timestampMs": 3940,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 4200,
+   "endMs": 4490,
+   "timestampMs": 4345,
+   "confidence": null
+  },
+  {
+   "text": " todos",
+   "startMs": 4490,
+   "endMs": 4890,
+   "timestampMs": 4690,
+   "confidence": null
+  },
+  {
+   "text": " tenemos…",
+   "startMs": 4890,
+   "endMs": 5520,
+   "timestampMs": 5205,
+   "confidence": null
+  },
+  {
+   "text": " es",
+   "startMs": 5520,
+   "endMs": 5700,
+   "timestampMs": 5610,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 5700,
+   "endMs": 6210,
+   "timestampMs": 5955,
+   "confidence": null
+  },
+  {
+   "text": " invento.",
+   "startMs": 6210,
+   "endMs": 6600,
+   "timestampMs": 6405,
+   "confidence": null
+  },
+  {
+   "text": " El",
+   "startMs": 6600,
+   "endMs": 6740,
+   "timestampMs": 6670,
+   "confidence": null
+  },
+  {
+   "text": " único",
+   "startMs": 6740,
+   "endMs": 7100,
+   "timestampMs": 6920,
+   "confidence": null
+  },
+  {
+   "text": " casco",
+   "startMs": 7100,
+   "endMs": 7450,
+   "timestampMs": 7275,
+   "confidence": null
+  },
+  {
+   "text": " vikingo",
+   "startMs": 7450,
+   "endMs": 7950,
+   "timestampMs": 7700,
+   "confidence": null
+  },
+  {
+   "text": " casi",
+   "startMs": 7950,
+   "endMs": 8230,
+   "timestampMs": 8090,
+   "confidence": null
+  },
+  {
+   "text": " completo",
+   "startMs": 8230,
+   "endMs": 8830,
+   "timestampMs": 8530,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 8830,
+   "endMs": 8990,
+   "timestampMs": 8910,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 8990,
+   "endMs": 9090,
+   "timestampMs": 9040,
+   "confidence": null
+  },
+  {
+   "text": " ha",
+   "startMs": 9090,
+   "endMs": 9210,
+   "timestampMs": 9150,
+   "confidence": null
+  },
+  {
+   "text": " encontrado,",
+   "startMs": 9210,
+   "endMs": 9960,
+   "timestampMs": 9585,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 9960,
+   "endMs": 10250,
+   "timestampMs": 10105,
+   "confidence": null
+  },
+  {
+   "text": " Noruega,",
+   "startMs": 10250,
+   "endMs": 10810,
+   "timestampMs": 10530,
+   "confidence": null
+  },
+  {
+   "text": " es",
+   "startMs": 10810,
+   "endMs": 10970,
+   "timestampMs": 10890,
+   "confidence": null
+  },
+  {
+   "text": " redondo,",
+   "startMs": 10970,
+   "endMs": 11860,
+   "timestampMs": 11415,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 11860,
+   "endMs": 12180,
+   "timestampMs": 12020,
+   "confidence": null
+  },
+  {
+   "text": " hierro,",
+   "startMs": 12180,
+   "endMs": 12520,
+   "timestampMs": 12350,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 12520,
+   "endMs": 12630,
+   "timestampMs": 12575,
+   "confidence": null
+  },
+  {
+   "text": " sin",
+   "startMs": 12630,
+   "endMs": 12940,
+   "timestampMs": 12785,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 12940,
+   "endMs": 13240,
+   "timestampMs": 13090,
+   "confidence": null
+  },
+  {
+   "text": " solo",
+   "startMs": 13240,
+   "endMs": 13480,
+   "timestampMs": 13360,
+   "confidence": null
+  },
+  {
+   "text": " cuerno.",
+   "startMs": 13480,
+   "endMs": 14280,
+   "timestampMs": 13880,
+   "confidence": null
+  },
+  {
+   "text": " Entonces,",
+   "startMs": 14280,
+   "endMs": 15030,
+   "timestampMs": 14655,
+   "confidence": null
+  },
+  {
+   "text": " ¿de",
+   "startMs": 15030,
+   "endMs": 15250,
+   "timestampMs": 15140,
+   "confidence": null
+  },
+  {
+   "text": " dónde",
+   "startMs": 15250,
+   "endMs": 15620,
+   "timestampMs": 15435,
+   "confidence": null
+  },
+  {
+   "text": " salen",
+   "startMs": 15620,
+   "endMs": 15990,
+   "timestampMs": 15805,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 15990,
+   "endMs": 16210,
+   "timestampMs": 16100,
+   "confidence": null
+  },
+  {
+   "text": " cuernos?",
+   "startMs": 16210,
+   "endMs": 17000,
+   "timestampMs": 16605,
+   "confidence": null
+  },
+  {
+   "text": " Hay",
+   "startMs": 17000,
+   "endMs": 17320,
+   "timestampMs": 17160,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 17320,
+   "endMs": 17640,
+   "timestampMs": 17480,
+   "confidence": null
+  },
+  {
+   "text": " viajar",
+   "startMs": 17640,
+   "endMs": 18280,
+   "timestampMs": 17960,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 18280,
+   "endMs": 18410,
+   "timestampMs": 18345,
+   "confidence": null
+  },
+  {
+   "text": " Alemania,",
+   "startMs": 18410,
+   "endMs": 19230,
+   "timestampMs": 18820,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 19230,
+   "endMs": 19330,
+   "timestampMs": 19280,
+   "confidence": null
+  },
+  {
+   "text": " mil",
+   "startMs": 19330,
+   "endMs": 19600,
+   "timestampMs": 19465,
+   "confidence": null
+  },
+  {
+   "text": " ochocientos",
+   "startMs": 19600,
+   "endMs": 19870,
+   "timestampMs": 19735,
+   "confidence": null
+  },
+  {
+   "text": " setenta",
+   "startMs": 19870,
+   "endMs": 20140,
+   "timestampMs": 20005,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 20140,
+   "endMs": 20410,
+   "timestampMs": 20275,
+   "confidence": null
+  },
+  {
+   "text": " seis.",
+   "startMs": 20410,
+   "endMs": 20680,
+   "timestampMs": 20545,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 20680,
+   "endMs": 20760,
+   "timestampMs": 20715,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 20750,
+   "endMs": 20890,
+   "timestampMs": 20820,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 20890,
+   "endMs": 20970,
+   "timestampMs": 20925,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 20960,
+   "endMs": 21100,
+   "timestampMs": 21030,
+   "confidence": null
+  },
+  {
+   "text": " campo",
+   "startMs": 21100,
+   "endMs": 21500,
+   "timestampMs": 21300,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 21500,
+   "endMs": 21600,
+   "timestampMs": 21550,
+   "confidence": null
+  },
+  {
+   "text": " batalla,",
+   "startMs": 21600,
+   "endMs": 22280,
+   "timestampMs": 21940,
+   "confidence": null
+  },
+  {
+   "text": " sino",
+   "startMs": 22280,
+   "endMs": 22630,
+   "timestampMs": 22455,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 22630,
+   "endMs": 22710,
+   "timestampMs": 22670,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 22710,
+   "endMs": 22880,
+   "timestampMs": 22795,
+   "confidence": null
+  },
+  {
+   "text": " teatro.",
+   "startMs": 22880,
+   "endMs": 23680,
+   "timestampMs": 23280,
+   "confidence": null
+  },
+  {
+   "text": " Para",
+   "startMs": 23680,
+   "endMs": 23960,
+   "timestampMs": 23820,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 23960,
+   "endMs": 24100,
+   "timestampMs": 24030,
+   "confidence": null
+  },
+  {
+   "text": " estreno",
+   "startMs": 24100,
+   "endMs": 24630,
+   "timestampMs": 24365,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 24630,
+   "endMs": 24720,
+   "timestampMs": 24675,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 24720,
+   "endMs": 24950,
+   "timestampMs": 24835,
+   "confidence": null
+  },
+  {
+   "text": " ópera",
+   "startMs": 24950,
+   "endMs": 25260,
+   "timestampMs": 25105,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 25260,
+   "endMs": 25400,
+   "timestampMs": 25330,
+   "confidence": null
+  },
+  {
+   "text": " Wagner,",
+   "startMs": 25400,
+   "endMs": 25940,
+   "timestampMs": 25670,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 25940,
+   "endMs": 26080,
+   "timestampMs": 26010,
+   "confidence": null
+  },
+  {
+   "text": " diseñador",
+   "startMs": 26080,
+   "endMs": 26810,
+   "timestampMs": 26445,
+   "confidence": null
+  },
+  {
+   "text": " Carl",
+   "startMs": 26810,
+   "endMs": 27030,
+   "timestampMs": 26920,
+   "confidence": null
+  },
+  {
+   "text": " Emil",
+   "startMs": 27030,
+   "endMs": 27330,
+   "timestampMs": 27180,
+   "confidence": null
+  },
+  {
+   "text": " Doepler",
+   "startMs": 27330,
+   "endMs": 27720,
+   "timestampMs": 27525,
+   "confidence": null
+  },
+  {
+   "text": " vistió",
+   "startMs": 27720,
+   "endMs": 28180,
+   "timestampMs": 27950,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 28180,
+   "endMs": 28260,
+   "timestampMs": 28190,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 28200,
+   "endMs": 28470,
+   "timestampMs": 28335,
+   "confidence": null
+  },
+  {
+   "text": " guerreros",
+   "startMs": 28470,
+   "endMs": 29230,
+   "timestampMs": 28850,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 29230,
+   "endMs": 29310,
+   "timestampMs": 29245,
+   "confidence": null
+  },
+  {
+   "text": " cascos",
+   "startMs": 29260,
+   "endMs": 29640,
+   "timestampMs": 29450,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 29640,
+   "endMs": 29850,
+   "timestampMs": 29745,
+   "confidence": null
+  },
+  {
+   "text": " cuernos.",
+   "startMs": 29850,
+   "endMs": 30680,
+   "timestampMs": 30265,
+   "confidence": null
+  },
+  {
+   "text": " Gustó",
+   "startMs": 30680,
+   "endMs": 31080,
+   "timestampMs": 30880,
+   "confidence": null
+  },
+  {
+   "text": " tanto",
+   "startMs": 31080,
+   "endMs": 31630,
+   "timestampMs": 31355,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 31630,
+   "endMs": 31720,
+   "timestampMs": 31675,
+   "confidence": null
+  },
+  {
+   "text": " pasó",
+   "startMs": 31720,
+   "endMs": 32040,
+   "timestampMs": 31880,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 32040,
+   "endMs": 32120,
+   "timestampMs": 32080,
+   "confidence": null
+  },
+  {
+   "text": " cuadros,",
+   "startMs": 32120,
+   "endMs": 32840,
+   "timestampMs": 32480,
+   "confidence": null
+  },
+  {
+   "text": " anuncios",
+   "startMs": 32840,
+   "endMs": 33490,
+   "timestampMs": 33165,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 33490,
+   "endMs": 33810,
+   "timestampMs": 33650,
+   "confidence": null
+  },
+  {
+   "text": " libros…",
+   "startMs": 33810,
+   "endMs": 34360,
+   "timestampMs": 34085,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 34360,
+   "endMs": 34440,
+   "timestampMs": 34400,
+   "confidence": null
+  },
+  {
+   "text": " hasta",
+   "startMs": 34440,
+   "endMs": 34830,
+   "timestampMs": 34635,
+   "confidence": null
+  },
+  {
+   "text": " hoy.",
+   "startMs": 34830,
+   "endMs": 35320,
+   "timestampMs": 35075,
+   "confidence": null
+  },
+  {
+   "text": " ¿Tú",
+   "startMs": 35320,
+   "endMs": 35470,
+   "timestampMs": 35395,
+   "confidence": null
+  },
+  {
+   "text": " también",
+   "startMs": 35470,
+   "endMs": 35820,
+   "timestampMs": 35645,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 35820,
+   "endMs": 35970,
+   "timestampMs": 35895,
+   "confidence": null
+  },
+  {
+   "text": " imaginabas",
+   "startMs": 35970,
+   "endMs": 36470,
+   "timestampMs": 36220,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 36470,
+   "endMs": 36620,
+   "timestampMs": 36545,
+   "confidence": null
+  },
+  {
+   "text": " cuernos?",
+   "startMs": 36620,
+   "endMs": 37160,
+   "timestampMs": 36890,
+   "confidence": null
+  }
+ ]
+}

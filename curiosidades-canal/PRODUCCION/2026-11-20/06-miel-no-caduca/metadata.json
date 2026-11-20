@@ -1,0 +1,43 @@
+{
+  "titulo": "La MIEL (casi) no caduca 🍯⏳ #shorts",
+  "descripcion": "La miel tiene muy poca agua y mucho azúcar, es ácida y contiene peróxido de hidrógeno (agua oxigenada) que se forma gracias a una enzima que añaden las abejas. Bien cerrada, se conserva durante muchísimo tiempo: en tumbas egipcias se han encontrado tarros de miel de miles de años.\n\n#shorts #curiosidades #datoscuriosos #comida #miel #ciencia #historia",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#datoscuriosos",
+    "#comida",
+    "#miel",
+    "#ciencia",
+    "#historia"
+  ],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "comida",
+    "miel",
+    "no",
+    "caduca"
+  ],
+  "categoria": "27",
+  "idioma": "es",
+  "archivo": "/home/user/curiosidades-canal/PRODUCCION/2026-11-20/06-miel-no-caduca/20261120-6-miel-no-caduca.mp4",
+  "duracion_s": 34.01,
+  "voz": "elevenlabs_v4",
+  "voz_motivo": "voz oficial",
+  "voz_config": {
+    "proveedor": "elevenlabs",
+    "modelo": "eleven_v4",
+    "voice_id": "kQwUFpYQ184OVlnMEzlm",
+    "nombre": "datoscuriosin (clonada por el propietario)",
+    "idioma": "es",
+    "ajustes": {
+      "stability": 0.5,
+      "similarity": 0.85
+    },
+    "caracteres": 552
+  },
+  "voz_palabras_min": 175,
+  "subtitulos_coincidencia": 0.989,
+  "estilo": "divulga",
+  "publicar": false
+}

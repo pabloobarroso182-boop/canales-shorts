@@ -1,0 +1,72 @@
+{
+  "referencia": {
+    "archivo": "assets/voz/muestra-objetivo.wav",
+    "texto": "¿Qué pasaría si todas las personas del mundo saltáramos a la vez? Lo primero, hay que saltar juntos, en el mismo sitio, porque repartidos no sirve de nada. Ya se probó.",
+    "f0_mediana_hz": 136.8,
+    "variacion_entonacion_st": 4.32,
+    "duracion_s": 9.53
+  },
+  "elegida": "mezcla",
+  "mezcla": {
+    "em_alex": 0.5,
+    "em_santa": 0.5
+  },
+  "velocidad": 1.0,
+  "ajuste_tono_semitonos": 0.1473399573412403,
+  "distancias": {
+    "timbre": 0.486,
+    "tono_st": 0.147,
+    "entonacion_st": 0.711,
+    "ritmo": 0.002
+  },
+  "candidatas_probadas": 35,
+  "top5": [
+    {
+      "peso_alex": 0.5,
+      "velocidad": 1.0,
+      "tono_st": 0.1473399573412403,
+      "puntuacion": 1.427,
+      "timbre": 0.48630299348192746,
+      "entonacion_st": 0.7108162213727951,
+      "ritmo": 0.0018222104909726583
+    },
+    {
+      "peso_alex": 0.5,
+      "velocidad": 1.0,
+      "tono_st": 0.1473399573412403,
+      "puntuacion": 1.436,
+      "timbre": 0.4895748673938548,
+      "entonacion_st": 0.7191203464309255,
+      "ritmo": 0.0015471253438358624
+    },
+    {
+      "peso_alex": 0.25,
+      "velocidad": 1.0,
+      "tono_st": 0.44969646502395644,
+      "puntuacion": 1.517,
+      "timbre": 0.53688055404424,
+      "entonacion_st": 0.3313419654655241,
+      "ritmo": 0.0012129916151689079
+    },
+    {
+      "peso_alex": 0.5,
+      "velocidad": 1.05,
+      "tono_st": 0.1473399573412403,
+      "puntuacion": 1.523,
+      "timbre": 0.4816032895594352,
+      "entonacion_st": 0.5987418306193741,
+      "ritmo": 0.028623291980904277
+    },
+    {
+      "peso_alex": 0.5,
+      "velocidad": 1.05,
+      "tono_st": 0.14860469346999022,
+      "puntuacion": 1.531,
+      "timbre": 0.4944820962855169,
+      "entonacion_st": 0.5660514366751936,
+      "ritmo": 0.028238548083967648
+    }
+  ],
+  "fijada": true,
+  "nota": "Voz aprobada por el propietario el 18/11/2026. No retocar ni volver a buscar otra."
+}

@@ -1,0 +1,795 @@
+{
+ "id": "20261119-5-bertha-benz-farmacia",
+ "durationMs": 40510,
+ "audio": "shorts/20261119-5-bertha-benz-farmacia.wav",
+ "escenas": [
+  {
+   "clave": "c_gancho",
+   "startMs": 0
+  },
+  {
+   "clave": "c_farmacia",
+   "startMs": 2990
+  },
+  {
+   "clave": "c_bertha",
+   "startMs": 4570
+  },
+  {
+   "clave": "c_ruta",
+   "startMs": 12730
+  },
+  {
+   "clave": "c_sin",
+   "startMs": 17530
+  },
+  {
+   "clave": "c_nohay",
+   "startMs": 19850
+  },
+  {
+   "clave": "c_compra",
+   "startMs": 23050
+  },
+  {
+   "clave": "c_arranca",
+   "startMs": 30290
+  },
+  {
+   "clave": "c_hoy",
+   "startMs": 32490
+  },
+  {
+   "clave": "c_cta",
+   "startMs": 37730
+  }
+ ],
+ "marcas": {
+  "gasolinera": 1710,
+  "farmacia": 3740,
+  "1888": 5640,
+  "bertha": 7260,
+  "hijos": 11120,
+  "madre": 12300,
+  "km": 13680,
+  "primer": 15090,
+  "combustible": 19040,
+  "existian": 21310,
+  "wiesloch": 25400,
+  "ligroina": 26560,
+  "arrancar": 31660,
+  "abierta": 33700,
+  "conoce": 34960,
+  "atrevido": 38540
+ },
+ "captions": [
+  {
+   "text": "¿Sabes",
+   "startMs": 0,
+   "endMs": 430,
+   "timestampMs": 215,
+   "confidence": null
+  },
+  {
+   "text": " dónde",
+   "startMs": 430,
+   "endMs": 720,
+   "timestampMs": 575,
+   "confidence": null
+  },
+  {
+   "text": " estaba",
+   "startMs": 720,
+   "endMs": 1160,
+   "timestampMs": 940,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 1160,
+   "endMs": 1250,
+   "timestampMs": 1205,
+   "confidence": null
+  },
+  {
+   "text": " primera",
+   "startMs": 1250,
+   "endMs": 1710,
+   "timestampMs": 1480,
+   "confidence": null
+  },
+  {
+   "text": " gasolinera",
+   "startMs": 1710,
+   "endMs": 2370,
+   "timestampMs": 2040,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 2370,
+   "endMs": 2570,
+   "timestampMs": 2470,
+   "confidence": null
+  },
+  {
+   "text": " mundo?",
+   "startMs": 2570,
+   "endMs": 3140,
+   "timestampMs": 2855,
+   "confidence": null
+  },
+  {
+   "text": " En",
+   "startMs": 3140,
+   "endMs": 3380,
+   "timestampMs": 3260,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 3380,
+   "endMs": 3740,
+   "timestampMs": 3560,
+   "confidence": null
+  },
+  {
+   "text": " farmacia.",
+   "startMs": 3740,
+   "endMs": 4720,
+   "timestampMs": 4230,
+   "confidence": null
+  },
+  {
+   "text": " Agosto",
+   "startMs": 4720,
+   "endMs": 5410,
+   "timestampMs": 5065,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 5410,
+   "endMs": 5640,
+   "timestampMs": 5525,
+   "confidence": null
+  },
+  {
+   "text": " 1888.",
+   "startMs": 5640,
+   "endMs": 7260,
+   "timestampMs": 6450,
+   "confidence": null
+  },
+  {
+   "text": " Bertha",
+   "startMs": 7260,
+   "endMs": 7830,
+   "timestampMs": 7545,
+   "confidence": null
+  },
+  {
+   "text": " Benz",
+   "startMs": 7830,
+   "endMs": 7960,
+   "timestampMs": 7895,
+   "confidence": null
+  },
+  {
+   "text": " coge",
+   "startMs": 7960,
+   "endMs": 8320,
+   "timestampMs": 8140,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 8320,
+   "endMs": 8400,
+   "timestampMs": 8350,
+   "confidence": null
+  },
+  {
+   "text": " coche",
+   "startMs": 8380,
+   "endMs": 8770,
+   "timestampMs": 8575,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 8770,
+   "endMs": 8850,
+   "timestampMs": 8810,
+   "confidence": null
+  },
+  {
+   "text": " su",
+   "startMs": 8850,
+   "endMs": 8960,
+   "timestampMs": 8905,
+   "confidence": null
+  },
+  {
+   "text": " marido,",
+   "startMs": 8960,
+   "endMs": 9600,
+   "timestampMs": 9280,
+   "confidence": null
+  },
+  {
+   "text": " Karl,",
+   "startMs": 9600,
+   "endMs": 10200,
+   "timestampMs": 9900,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 10200,
+   "endMs": 10280,
+   "timestampMs": 10230,
+   "confidence": null
+  },
+  {
+   "text": " sale",
+   "startMs": 10260,
+   "endMs": 10520,
+   "timestampMs": 10390,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 10520,
+   "endMs": 10720,
+   "timestampMs": 10620,
+   "confidence": null
+  },
+  {
+   "text": " sus",
+   "startMs": 10720,
+   "endMs": 10920,
+   "timestampMs": 10820,
+   "confidence": null
+  },
+  {
+   "text": " dos",
+   "startMs": 10920,
+   "endMs": 11120,
+   "timestampMs": 11020,
+   "confidence": null
+  },
+  {
+   "text": " hijos",
+   "startMs": 11120,
+   "endMs": 11450,
+   "timestampMs": 11285,
+   "confidence": null
+  },
+  {
+   "text": " hacia",
+   "startMs": 11450,
+   "endMs": 11780,
+   "timestampMs": 11615,
+   "confidence": null
+  },
+  {
+   "text": " casa",
+   "startMs": 11780,
+   "endMs": 12040,
+   "timestampMs": 11910,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 12040,
+   "endMs": 12170,
+   "timestampMs": 12105,
+   "confidence": null
+  },
+  {
+   "text": " su",
+   "startMs": 12170,
+   "endMs": 12300,
+   "timestampMs": 12235,
+   "confidence": null
+  },
+  {
+   "text": " madre.",
+   "startMs": 12300,
+   "endMs": 12880,
+   "timestampMs": 12590,
+   "confidence": null
+  },
+  {
+   "text": " Ciento",
+   "startMs": 12880,
+   "endMs": 13280,
+   "timestampMs": 13080,
+   "confidence": null
+  },
+  {
+   "text": " seis",
+   "startMs": 13280,
+   "endMs": 13680,
+   "timestampMs": 13480,
+   "confidence": null
+  },
+  {
+   "text": " kilómetros.",
+   "startMs": 13680,
+   "endMs": 14760,
+   "timestampMs": 14220,
+   "confidence": null
+  },
+  {
+   "text": " Era",
+   "startMs": 14760,
+   "endMs": 14960,
+   "timestampMs": 14860,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 14960,
+   "endMs": 15090,
+   "timestampMs": 15025,
+   "confidence": null
+  },
+  {
+   "text": " primer",
+   "startMs": 15090,
+   "endMs": 15490,
+   "timestampMs": 15290,
+   "confidence": null
+  },
+  {
+   "text": " viaje",
+   "startMs": 15490,
+   "endMs": 15820,
+   "timestampMs": 15655,
+   "confidence": null
+  },
+  {
+   "text": " largo",
+   "startMs": 15820,
+   "endMs": 16150,
+   "timestampMs": 15985,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 16150,
+   "endMs": 16280,
+   "timestampMs": 16215,
+   "confidence": null
+  },
+  {
+   "text": " coche",
+   "startMs": 16280,
+   "endMs": 16610,
+   "timestampMs": 16445,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 16610,
+   "endMs": 16740,
+   "timestampMs": 16675,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 16740,
+   "endMs": 16870,
+   "timestampMs": 16805,
+   "confidence": null
+  },
+  {
+   "text": " historia.",
+   "startMs": 16870,
+   "endMs": 17680,
+   "timestampMs": 17275,
+   "confidence": null
+  },
+  {
+   "text": " Por",
+   "startMs": 17680,
+   "endMs": 17870,
+   "timestampMs": 17775,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 17870,
+   "endMs": 18000,
+   "timestampMs": 17935,
+   "confidence": null
+  },
+  {
+   "text": " camino,",
+   "startMs": 18000,
+   "endMs": 18390,
+   "timestampMs": 18195,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 18390,
+   "endMs": 18520,
+   "timestampMs": 18455,
+   "confidence": null
+  },
+  {
+   "text": " queda",
+   "startMs": 18520,
+   "endMs": 18850,
+   "timestampMs": 18685,
+   "confidence": null
+  },
+  {
+   "text": " sin",
+   "startMs": 18850,
+   "endMs": 19040,
+   "timestampMs": 18945,
+   "confidence": null
+  },
+  {
+   "text": " combustible.",
+   "startMs": 19040,
+   "endMs": 20000,
+   "timestampMs": 19520,
+   "confidence": null
+  },
+  {
+   "text": " Pista:",
+   "startMs": 20000,
+   "endMs": 20640,
+   "timestampMs": 20320,
+   "confidence": null
+  },
+  {
+   "text": " todavía",
+   "startMs": 20640,
+   "endMs": 21160,
+   "timestampMs": 20900,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 21160,
+   "endMs": 21310,
+   "timestampMs": 21235,
+   "confidence": null
+  },
+  {
+   "text": " existían",
+   "startMs": 21310,
+   "endMs": 21900,
+   "timestampMs": 21605,
+   "confidence": null
+  },
+  {
+   "text": " las",
+   "startMs": 21900,
+   "endMs": 22120,
+   "timestampMs": 22010,
+   "confidence": null
+  },
+  {
+   "text": " gasolineras.",
+   "startMs": 22120,
+   "endMs": 23200,
+   "timestampMs": 22660,
+   "confidence": null
+  },
+  {
+   "text": " Así",
+   "startMs": 23200,
+   "endMs": 23450,
+   "timestampMs": 23325,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 23450,
+   "endMs": 23700,
+   "timestampMs": 23575,
+   "confidence": null
+  },
+  {
+   "text": " entra",
+   "startMs": 23700,
+   "endMs": 24130,
+   "timestampMs": 23915,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 24130,
+   "endMs": 24300,
+   "timestampMs": 24215,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 24300,
+   "endMs": 24550,
+   "timestampMs": 24425,
+   "confidence": null
+  },
+  {
+   "text": " farmacia",
+   "startMs": 24550,
+   "endMs": 25230,
+   "timestampMs": 24890,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 25230,
+   "endMs": 25400,
+   "timestampMs": 25315,
+   "confidence": null
+  },
+  {
+   "text": " Wiesloch…",
+   "startMs": 25400,
+   "endMs": 26040,
+   "timestampMs": 25720,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 26040,
+   "endMs": 26320,
+   "timestampMs": 26180,
+   "confidence": null
+  },
+  {
+   "text": " compra",
+   "startMs": 26320,
+   "endMs": 26560,
+   "timestampMs": 26440,
+   "confidence": null
+  },
+  {
+   "text": " ligroína,",
+   "startMs": 26560,
+   "endMs": 27520,
+   "timestampMs": 27040,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 27530,
+   "endMs": 27650,
+   "timestampMs": 27590,
+   "confidence": null
+  },
+  {
+   "text": " disolvente",
+   "startMs": 27650,
+   "endMs": 28320,
+   "timestampMs": 27985,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 28320,
+   "endMs": 28510,
+   "timestampMs": 28415,
+   "confidence": null
+  },
+  {
+   "text": " entonces",
+   "startMs": 28510,
+   "endMs": 29060,
+   "timestampMs": 28785,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 29060,
+   "endMs": 29190,
+   "timestampMs": 29125,
+   "confidence": null
+  },
+  {
+   "text": " vendía",
+   "startMs": 29190,
+   "endMs": 29590,
+   "timestampMs": 29390,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 29590,
+   "endMs": 29720,
+   "timestampMs": 29655,
+   "confidence": null
+  },
+  {
+   "text": " farmacias.",
+   "startMs": 29720,
+   "endMs": 30440,
+   "timestampMs": 30080,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 30440,
+   "endMs": 30520,
+   "timestampMs": 30480,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 30520,
+   "endMs": 30680,
+   "timestampMs": 30600,
+   "confidence": null
+  },
+  {
+   "text": " coche",
+   "startMs": 30680,
+   "endMs": 31090,
+   "timestampMs": 30885,
+   "confidence": null
+  },
+  {
+   "text": " volvió",
+   "startMs": 31090,
+   "endMs": 31600,
+   "timestampMs": 31345,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 31600,
+   "endMs": 31680,
+   "timestampMs": 31630,
+   "confidence": null
+  },
+  {
+   "text": " arrancar.",
+   "startMs": 31660,
+   "endMs": 32640,
+   "timestampMs": 32150,
+   "confidence": null
+  },
+  {
+   "text": " Esa",
+   "startMs": 32640,
+   "endMs": 32830,
+   "timestampMs": 32735,
+   "confidence": null
+  },
+  {
+   "text": " farmacia",
+   "startMs": 32830,
+   "endMs": 33370,
+   "timestampMs": 33100,
+   "confidence": null
+  },
+  {
+   "text": " sigue",
+   "startMs": 33370,
+   "endMs": 33700,
+   "timestampMs": 33535,
+   "confidence": null
+  },
+  {
+   "text": " abierta.",
+   "startMs": 33700,
+   "endMs": 34400,
+   "timestampMs": 34050,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 34400,
+   "endMs": 34480,
+   "timestampMs": 34435,
+   "confidence": null
+  },
+  {
+   "text": " hoy",
+   "startMs": 34470,
+   "endMs": 34680,
+   "timestampMs": 34575,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 34680,
+   "endMs": 34830,
+   "timestampMs": 34755,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 34830,
+   "endMs": 34960,
+   "timestampMs": 34895,
+   "confidence": null
+  },
+  {
+   "text": " conoce",
+   "startMs": 34960,
+   "endMs": 35390,
+   "timestampMs": 35175,
+   "confidence": null
+  },
+  {
+   "text": " como",
+   "startMs": 35390,
+   "endMs": 35680,
+   "timestampMs": 35535,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 35680,
+   "endMs": 35820,
+   "timestampMs": 35750,
+   "confidence": null
+  },
+  {
+   "text": " primera",
+   "startMs": 35820,
+   "endMs": 36320,
+   "timestampMs": 36070,
+   "confidence": null
+  },
+  {
+   "text": " gasolinera",
+   "startMs": 36320,
+   "endMs": 37020,
+   "timestampMs": 36670,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 37020,
+   "endMs": 37510,
+   "timestampMs": 37265,
+   "confidence": null
+  },
+  {
+   "text": " mundo.",
+   "startMs": 37510,
+   "endMs": 37880,
+   "timestampMs": 37695,
+   "confidence": null
+  },
+  {
+   "text": " ¿Tú",
+   "startMs": 37880,
+   "endMs": 38030,
+   "timestampMs": 37955,
+   "confidence": null
+  },
+  {
+   "text": " te",
+   "startMs": 38030,
+   "endMs": 38140,
+   "timestampMs": 38085,
+   "confidence": null
+  },
+  {
+   "text": " habrías",
+   "startMs": 38140,
+   "endMs": 38540,
+   "timestampMs": 38340,
+   "confidence": null
+  },
+  {
+   "text": " atrevido?",
+   "startMs": 38540,
+   "endMs": 39210,
+   "timestampMs": 38875,
+   "confidence": null
+  }
+ ]
+}

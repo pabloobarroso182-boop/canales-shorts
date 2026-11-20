@@ -1,0 +1,727 @@
+{
+ "id": "20261120-1-ornitorrinco-brilla",
+ "durationMs": 35077,
+ "audio": "shorts/20261120-1-ornitorrinco-brilla.wav",
+ "escenas": [
+  {
+   "clave": "o_gancho",
+   "startMs": 0
+  },
+  {
+   "clave": "o_quien",
+   "startMs": 3010
+  },
+  {
+   "clave": "o_raro",
+   "startMs": 6130
+  },
+  {
+   "clave": "o_falta",
+   "startMs": 11050
+  },
+  {
+   "clave": "o_museo",
+   "startMs": 12850
+  },
+  {
+   "clave": "o_cambia",
+   "startMs": 18250
+  },
+  {
+   "clave": "o_brilla",
+   "startMs": 20970
+  },
+  {
+   "clave": "o_cta",
+   "startMs": 32190
+  }
+ ],
+ "marcas": {
+  "mamifero": 950,
+  "ornitorrinco": 3420,
+  "huevos": 7590,
+  "veneno": 9950,
+  "escondia": 11520,
+  "2020": 13626,
+  "ultravioleta": 17460,
+  "marron": 19040,
+  "verde": 22130,
+  "biofluorescencia": 23650,
+  "nadie": 29760,
+  "usa": 33570
+ },
+ "captions": [
+  {
+   "text": "¿Sabías",
+   "startMs": 10,
+   "endMs": 440,
+   "timestampMs": 225,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 440,
+   "endMs": 630,
+   "timestampMs": 535,
+   "confidence": null
+  },
+  {
+   "text": " hay",
+   "startMs": 630,
+   "endMs": 820,
+   "timestampMs": 725,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 820,
+   "endMs": 950,
+   "timestampMs": 885,
+   "confidence": null
+  },
+  {
+   "text": " mamífero",
+   "startMs": 950,
+   "endMs": 1450,
+   "timestampMs": 1200,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 1450,
+   "endMs": 1640,
+   "timestampMs": 1545,
+   "confidence": null
+  },
+  {
+   "text": " brilla",
+   "startMs": 1640,
+   "endMs": 2030,
+   "timestampMs": 1835,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 2030,
+   "endMs": 2160,
+   "timestampMs": 2095,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 2160,
+   "endMs": 2310,
+   "timestampMs": 2235,
+   "confidence": null
+  },
+  {
+   "text": " oscuridad?",
+   "startMs": 2310,
+   "endMs": 3160,
+   "timestampMs": 2735,
+   "confidence": null
+  },
+  {
+   "text": " Es",
+   "startMs": 3160,
+   "endMs": 3290,
+   "timestampMs": 3225,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 3290,
+   "endMs": 3420,
+   "timestampMs": 3355,
+   "confidence": null
+  },
+  {
+   "text": " ornitorrinco.",
+   "startMs": 3420,
+   "endMs": 4480,
+   "timestampMs": 3950,
+   "confidence": null
+  },
+  {
+   "text": " Sí,",
+   "startMs": 4480,
+   "endMs": 4800,
+   "timestampMs": 4640,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 4800,
+   "endMs": 4960,
+   "timestampMs": 4880,
+   "confidence": null
+  },
+  {
+   "text": " del",
+   "startMs": 4960,
+   "endMs": 5200,
+   "timestampMs": 5080,
+   "confidence": null
+  },
+  {
+   "text": " pico",
+   "startMs": 5200,
+   "endMs": 5520,
+   "timestampMs": 5360,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 5520,
+   "endMs": 5680,
+   "timestampMs": 5600,
+   "confidence": null
+  },
+  {
+   "text": " pato.",
+   "startMs": 5680,
+   "endMs": 6280,
+   "timestampMs": 5980,
+   "confidence": null
+  },
+  {
+   "text": " Ya",
+   "startMs": 6280,
+   "endMs": 6450,
+   "timestampMs": 6365,
+   "confidence": null
+  },
+  {
+   "text": " era",
+   "startMs": 6450,
+   "endMs": 6710,
+   "timestampMs": 6580,
+   "confidence": null
+  },
+  {
+   "text": " raro:",
+   "startMs": 6710,
+   "endMs": 7320,
+   "timestampMs": 7015,
+   "confidence": null
+  },
+  {
+   "text": " pone",
+   "startMs": 7320,
+   "endMs": 7590,
+   "timestampMs": 7455,
+   "confidence": null
+  },
+  {
+   "text": " huevos,",
+   "startMs": 7590,
+   "endMs": 7990,
+   "timestampMs": 7790,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 7990,
+   "endMs": 8070,
+   "timestampMs": 8025,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 8060,
+   "endMs": 8260,
+   "timestampMs": 8160,
+   "confidence": null
+  },
+  {
+   "text": " machos",
+   "startMs": 8260,
+   "endMs": 8660,
+   "timestampMs": 8460,
+   "confidence": null
+  },
+  {
+   "text": " tienen",
+   "startMs": 8660,
+   "endMs": 9070,
+   "timestampMs": 8865,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 9070,
+   "endMs": 9200,
+   "timestampMs": 9135,
+   "confidence": null
+  },
+  {
+   "text": " espolón",
+   "startMs": 9200,
+   "endMs": 9760,
+   "timestampMs": 9480,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 9760,
+   "endMs": 9950,
+   "timestampMs": 9855,
+   "confidence": null
+  },
+  {
+   "text": " veneno",
+   "startMs": 9950,
+   "endMs": 10440,
+   "timestampMs": 10195,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 10440,
+   "endMs": 10520,
+   "timestampMs": 10470,
+   "confidence": null
+  },
+  {
+   "text": " las",
+   "startMs": 10500,
+   "endMs": 10600,
+   "timestampMs": 10550,
+   "confidence": null
+  },
+  {
+   "text": " patas.",
+   "startMs": 10600,
+   "endMs": 11200,
+   "timestampMs": 10900,
+   "confidence": null
+  },
+  {
+   "text": " Pero",
+   "startMs": 11200,
+   "endMs": 11520,
+   "timestampMs": 11360,
+   "confidence": null
+  },
+  {
+   "text": " escondía",
+   "startMs": 11520,
+   "endMs": 12160,
+   "timestampMs": 11840,
+   "confidence": null
+  },
+  {
+   "text": " algo",
+   "startMs": 12160,
+   "endMs": 12480,
+   "timestampMs": 12320,
+   "confidence": null
+  },
+  {
+   "text": " más.",
+   "startMs": 12480,
+   "endMs": 13000,
+   "timestampMs": 12740,
+   "confidence": null
+  },
+  {
+   "text": " En",
+   "startMs": 13000,
+   "endMs": 13120,
+   "timestampMs": 13060,
+   "confidence": null
+  },
+  {
+   "text": " dos",
+   "startMs": 13120,
+   "endMs": 13373,
+   "timestampMs": 13246,
+   "confidence": null
+  },
+  {
+   "text": " mil",
+   "startMs": 13373,
+   "endMs": 13626,
+   "timestampMs": 13500,
+   "confidence": null
+  },
+  {
+   "text": " veinte,",
+   "startMs": 13626,
+   "endMs": 13880,
+   "timestampMs": 13753,
+   "confidence": null
+  },
+  {
+   "text": " unos",
+   "startMs": 13880,
+   "endMs": 14130,
+   "timestampMs": 14005,
+   "confidence": null
+  },
+  {
+   "text": " científicos",
+   "startMs": 14130,
+   "endMs": 14820,
+   "timestampMs": 14475,
+   "confidence": null
+  },
+  {
+   "text": " iluminaron",
+   "startMs": 14820,
+   "endMs": 15440,
+   "timestampMs": 15130,
+   "confidence": null
+  },
+  {
+   "text": " ornitorrincos",
+   "startMs": 15440,
+   "endMs": 16320,
+   "timestampMs": 15880,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 16320,
+   "endMs": 16440,
+   "timestampMs": 16380,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 16440,
+   "endMs": 16520,
+   "timestampMs": 16480,
+   "confidence": null
+  },
+  {
+   "text": " museo",
+   "startMs": 16520,
+   "endMs": 17000,
+   "timestampMs": 16760,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 17000,
+   "endMs": 17230,
+   "timestampMs": 17115,
+   "confidence": null
+  },
+  {
+   "text": " luz",
+   "startMs": 17230,
+   "endMs": 17460,
+   "timestampMs": 17345,
+   "confidence": null
+  },
+  {
+   "text": " ultravioleta.",
+   "startMs": 17460,
+   "endMs": 18400,
+   "timestampMs": 17930,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 18400,
+   "endMs": 18560,
+   "timestampMs": 18480,
+   "confidence": null
+  },
+  {
+   "text": " su",
+   "startMs": 18560,
+   "endMs": 18720,
+   "timestampMs": 18640,
+   "confidence": null
+  },
+  {
+   "text": " pelo",
+   "startMs": 18720,
+   "endMs": 19040,
+   "timestampMs": 18880,
+   "confidence": null
+  },
+  {
+   "text": " marrón…",
+   "startMs": 19040,
+   "endMs": 19580,
+   "timestampMs": 19310,
+   "confidence": null
+  },
+  {
+   "text": " cambió",
+   "startMs": 19580,
+   "endMs": 20180,
+   "timestampMs": 19880,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 20180,
+   "endMs": 20320,
+   "timestampMs": 20250,
+   "confidence": null
+  },
+  {
+   "text": " color.",
+   "startMs": 20320,
+   "endMs": 21120,
+   "timestampMs": 20720,
+   "confidence": null
+  },
+  {
+   "text": " Brillaba",
+   "startMs": 21120,
+   "endMs": 21930,
+   "timestampMs": 21525,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 21930,
+   "endMs": 22130,
+   "timestampMs": 22030,
+   "confidence": null
+  },
+  {
+   "text": " verde",
+   "startMs": 22130,
+   "endMs": 22680,
+   "timestampMs": 22405,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 22680,
+   "endMs": 22760,
+   "timestampMs": 22710,
+   "confidence": null
+  },
+  {
+   "text": " azul.",
+   "startMs": 22740,
+   "endMs": 23480,
+   "timestampMs": 23110,
+   "confidence": null
+  },
+  {
+   "text": " Es",
+   "startMs": 23480,
+   "endMs": 23650,
+   "timestampMs": 23565,
+   "confidence": null
+  },
+  {
+   "text": " biofluorescencia:",
+   "startMs": 23650,
+   "endMs": 25280,
+   "timestampMs": 24465,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 25280,
+   "endMs": 25420,
+   "timestampMs": 25350,
+   "confidence": null
+  },
+  {
+   "text": " pelo",
+   "startMs": 25420,
+   "endMs": 25710,
+   "timestampMs": 25565,
+   "confidence": null
+  },
+  {
+   "text": " absorbe",
+   "startMs": 25710,
+   "endMs": 26220,
+   "timestampMs": 25965,
+   "confidence": null
+  },
+  {
+   "text": " esa",
+   "startMs": 26220,
+   "endMs": 26440,
+   "timestampMs": 26330,
+   "confidence": null
+  },
+  {
+   "text": " luz",
+   "startMs": 26440,
+   "endMs": 26660,
+   "timestampMs": 26550,
+   "confidence": null
+  },
+  {
+   "text": " invisible",
+   "startMs": 26660,
+   "endMs": 27360,
+   "timestampMs": 27010,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 27360,
+   "endMs": 27440,
+   "timestampMs": 27380,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 27400,
+   "endMs": 27520,
+   "timestampMs": 27460,
+   "confidence": null
+  },
+  {
+   "text": " devuelve",
+   "startMs": 27520,
+   "endMs": 28000,
+   "timestampMs": 27760,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 28000,
+   "endMs": 28300,
+   "timestampMs": 28150,
+   "confidence": null
+  },
+  {
+   "text": " colores",
+   "startMs": 28300,
+   "endMs": 28560,
+   "timestampMs": 28430,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 28560,
+   "endMs": 28720,
+   "timestampMs": 28640,
+   "confidence": null
+  },
+  {
+   "text": " sí",
+   "startMs": 28720,
+   "endMs": 29040,
+   "timestampMs": 28880,
+   "confidence": null
+  },
+  {
+   "text": " vemos.",
+   "startMs": 29040,
+   "endMs": 29680,
+   "timestampMs": 29360,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 29690,
+   "endMs": 29770,
+   "timestampMs": 29725,
+   "confidence": null
+  },
+  {
+   "text": " nadie",
+   "startMs": 29760,
+   "endMs": 30160,
+   "timestampMs": 29960,
+   "confidence": null
+  },
+  {
+   "text": " sabe",
+   "startMs": 30160,
+   "endMs": 30480,
+   "timestampMs": 30320,
+   "confidence": null
+  },
+  {
+   "text": " todavía",
+   "startMs": 30480,
+   "endMs": 31050,
+   "timestampMs": 30765,
+   "confidence": null
+  },
+  {
+   "text": " para",
+   "startMs": 31050,
+   "endMs": 31400,
+   "timestampMs": 31225,
+   "confidence": null
+  },
+  {
+   "text": " qué",
+   "startMs": 31400,
+   "endMs": 31630,
+   "timestampMs": 31515,
+   "confidence": null
+  },
+  {
+   "text": " le",
+   "startMs": 31630,
+   "endMs": 31770,
+   "timestampMs": 31700,
+   "confidence": null
+  },
+  {
+   "text": " sirve.",
+   "startMs": 31770,
+   "endMs": 32340,
+   "timestampMs": 32055,
+   "confidence": null
+  },
+  {
+   "text": " ¿Tú",
+   "startMs": 32340,
+   "endMs": 32730,
+   "timestampMs": 32535,
+   "confidence": null
+  },
+  {
+   "text": " para",
+   "startMs": 32730,
+   "endMs": 32860,
+   "timestampMs": 32795,
+   "confidence": null
+  },
+  {
+   "text": " qué",
+   "startMs": 32860,
+   "endMs": 32940,
+   "timestampMs": 32890,
+   "confidence": null
+  },
+  {
+   "text": " crees",
+   "startMs": 32920,
+   "endMs": 33260,
+   "timestampMs": 33090,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 33260,
+   "endMs": 33450,
+   "timestampMs": 33355,
+   "confidence": null
+  },
+  {
+   "text": " lo",
+   "startMs": 33450,
+   "endMs": 33570,
+   "timestampMs": 33510,
+   "confidence": null
+  },
+  {
+   "text": " usa?",
+   "startMs": 33570,
+   "endMs": 33760,
+   "timestampMs": 33665,
+   "confidence": null
+  }
+ ]
+}

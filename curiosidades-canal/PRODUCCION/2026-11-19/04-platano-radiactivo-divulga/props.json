@@ -1,0 +1,658 @@
+{
+ "id": "20261119-4-platano-divulga",
+ "durationMs": 34122,
+ "audio": "shorts/20261119-4-platano-divulga.wav",
+ "escenas": [
+  {
+   "clave": "gancho",
+   "startMs": 0
+  },
+  {
+   "clave": "tranquilo",
+   "startMs": 3490
+  },
+  {
+   "clave": "potasio",
+   "startMs": 6850
+  },
+  {
+   "clave": "k40",
+   "startMs": 9130
+  },
+  {
+   "clave": "desintegra",
+   "startMs": 14410
+  },
+  {
+   "clave": "unidad",
+   "startMs": 18930
+  },
+  {
+   "clave": "cuerpo",
+   "startMs": 24010
+  },
+  {
+   "clave": "cta",
+   "startMs": 29420
+  }
+ ],
+ "marcas": {
+  "radiactivo": 1170,
+  "peligroso": 4810,
+  "truco": 6480,
+  "potasio": 8700,
+  "diminuta": 10050,
+  "radiactiva": 11920,
+  "cuarenta": 13860,
+  "quince": 16010,
+  "broma": 21720,
+  "dosis": 22220,
+  "regula": 24970,
+  "eres": 28900,
+  "comentarios": 31460
+ },
+ "captions": [
+  {
+   "text": "Este",
+   "startMs": 80,
+   "endMs": 420,
+   "timestampMs": 250,
+   "confidence": null
+  },
+  {
+   "text": " plátano",
+   "startMs": 420,
+   "endMs": 1020,
+   "timestampMs": 720,
+   "confidence": null
+  },
+  {
+   "text": " es",
+   "startMs": 1020,
+   "endMs": 1170,
+   "timestampMs": 1095,
+   "confidence": null
+  },
+  {
+   "text": " radiactivo.",
+   "startMs": 1170,
+   "endMs": 2400,
+   "timestampMs": 1785,
+   "confidence": null
+  },
+  {
+   "text": " De",
+   "startMs": 2400,
+   "endMs": 2770,
+   "timestampMs": 2585,
+   "confidence": null
+  },
+  {
+   "text": " verdad.",
+   "startMs": 2770,
+   "endMs": 3640,
+   "timestampMs": 3205,
+   "confidence": null
+  },
+  {
+   "text": " Tranquilo,",
+   "startMs": 3640,
+   "endMs": 4490,
+   "timestampMs": 4065,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 4490,
+   "endMs": 4650,
+   "timestampMs": 4570,
+   "confidence": null
+  },
+  {
+   "text": " es",
+   "startMs": 4650,
+   "endMs": 4810,
+   "timestampMs": 4730,
+   "confidence": null
+  },
+  {
+   "text": " peligroso.",
+   "startMs": 4810,
+   "endMs": 5580,
+   "timestampMs": 5195,
+   "confidence": null
+  },
+  {
+   "text": " Pero",
+   "startMs": 5580,
+   "endMs": 6280,
+   "timestampMs": 5930,
+   "confidence": null
+  },
+  {
+   "text": " tiene",
+   "startMs": 6280,
+   "endMs": 6480,
+   "timestampMs": 6380,
+   "confidence": null
+  },
+  {
+   "text": " truco.",
+   "startMs": 6480,
+   "endMs": 7000,
+   "timestampMs": 6740,
+   "confidence": null
+  },
+  {
+   "text": " Los",
+   "startMs": 7000,
+   "endMs": 7230,
+   "timestampMs": 7115,
+   "confidence": null
+  },
+  {
+   "text": " plátanos",
+   "startMs": 7230,
+   "endMs": 7840,
+   "timestampMs": 7535,
+   "confidence": null
+  },
+  {
+   "text": " tienen",
+   "startMs": 7840,
+   "endMs": 8310,
+   "timestampMs": 8075,
+   "confidence": null
+  },
+  {
+   "text": " mucho",
+   "startMs": 8310,
+   "endMs": 8700,
+   "timestampMs": 8505,
+   "confidence": null
+  },
+  {
+   "text": " potasio.",
+   "startMs": 8700,
+   "endMs": 9280,
+   "timestampMs": 8990,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 9280,
+   "endMs": 9390,
+   "timestampMs": 9335,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 9390,
+   "endMs": 9650,
+   "timestampMs": 9520,
+   "confidence": null
+  },
+  {
+   "text": " parte",
+   "startMs": 9650,
+   "endMs": 10050,
+   "timestampMs": 9850,
+   "confidence": null
+  },
+  {
+   "text": " diminuta",
+   "startMs": 10050,
+   "endMs": 10610,
+   "timestampMs": 10330,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 10610,
+   "endMs": 10770,
+   "timestampMs": 10690,
+   "confidence": null
+  },
+  {
+   "text": " ese",
+   "startMs": 10770,
+   "endMs": 11010,
+   "timestampMs": 10890,
+   "confidence": null
+  },
+  {
+   "text": " potasio…",
+   "startMs": 11010,
+   "endMs": 11810,
+   "timestampMs": 11410,
+   "confidence": null
+  },
+  {
+   "text": " es",
+   "startMs": 11810,
+   "endMs": 11920,
+   "timestampMs": 11865,
+   "confidence": null
+  },
+  {
+   "text": " radiactiva:",
+   "startMs": 11920,
+   "endMs": 13040,
+   "timestampMs": 12480,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 13040,
+   "endMs": 13200,
+   "timestampMs": 13120,
+   "confidence": null
+  },
+  {
+   "text": " potasio",
+   "startMs": 13200,
+   "endMs": 13860,
+   "timestampMs": 13530,
+   "confidence": null
+  },
+  {
+   "text": " cuarenta.",
+   "startMs": 13860,
+   "endMs": 14560,
+   "timestampMs": 14210,
+   "confidence": null
+  },
+  {
+   "text": " En",
+   "startMs": 14560,
+   "endMs": 14710,
+   "timestampMs": 14635,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 14710,
+   "endMs": 14930,
+   "timestampMs": 14820,
+   "confidence": null
+  },
+  {
+   "text": " solo",
+   "startMs": 14930,
+   "endMs": 15170,
+   "timestampMs": 15050,
+   "confidence": null
+  },
+  {
+   "text": " plátano,",
+   "startMs": 15170,
+   "endMs": 15700,
+   "timestampMs": 15435,
+   "confidence": null
+  },
+  {
+   "text": " unos",
+   "startMs": 15700,
+   "endMs": 16010,
+   "timestampMs": 15855,
+   "confidence": null
+  },
+  {
+   "text": " quince",
+   "startMs": 16010,
+   "endMs": 16460,
+   "timestampMs": 16235,
+   "confidence": null
+  },
+  {
+   "text": " átomos",
+   "startMs": 16460,
+   "endMs": 17070,
+   "timestampMs": 16765,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 17070,
+   "endMs": 17200,
+   "timestampMs": 17135,
+   "confidence": null
+  },
+  {
+   "text": " desintegran…",
+   "startMs": 17200,
+   "endMs": 17910,
+   "timestampMs": 17555,
+   "confidence": null
+  },
+  {
+   "text": " cada",
+   "startMs": 17910,
+   "endMs": 18310,
+   "timestampMs": 18110,
+   "confidence": null
+  },
+  {
+   "text": " segundo.",
+   "startMs": 18310,
+   "endMs": 19080,
+   "timestampMs": 18695,
+   "confidence": null
+  },
+  {
+   "text": " Es",
+   "startMs": 19080,
+   "endMs": 19220,
+   "timestampMs": 19150,
+   "confidence": null
+  },
+  {
+   "text": " tan",
+   "startMs": 19220,
+   "endMs": 19450,
+   "timestampMs": 19335,
+   "confidence": null
+  },
+  {
+   "text": " famoso",
+   "startMs": 19450,
+   "endMs": 19850,
+   "timestampMs": 19650,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 19850,
+   "endMs": 20060,
+   "timestampMs": 19955,
+   "confidence": null
+  },
+  {
+   "text": " existe",
+   "startMs": 20060,
+   "endMs": 20480,
+   "timestampMs": 20270,
+   "confidence": null
+  },
+  {
+   "text": " hasta",
+   "startMs": 20480,
+   "endMs": 20830,
+   "timestampMs": 20655,
+   "confidence": null
+  },
+  {
+   "text": " una",
+   "startMs": 20830,
+   "endMs": 21020,
+   "timestampMs": 20925,
+   "confidence": null
+  },
+  {
+   "text": " unidad",
+   "startMs": 21020,
+   "endMs": 21600,
+   "timestampMs": 21310,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 21600,
+   "endMs": 21720,
+   "timestampMs": 21660,
+   "confidence": null
+  },
+  {
+   "text": " broma:",
+   "startMs": 21720,
+   "endMs": 22090,
+   "timestampMs": 21905,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 22090,
+   "endMs": 22220,
+   "timestampMs": 22155,
+   "confidence": null
+  },
+  {
+   "text": " dosis",
+   "startMs": 22220,
+   "endMs": 22830,
+   "timestampMs": 22525,
+   "confidence": null
+  },
+  {
+   "text": " equivalente",
+   "startMs": 22830,
+   "endMs": 23270,
+   "timestampMs": 23050,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 23270,
+   "endMs": 23350,
+   "timestampMs": 23300,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 23330,
+   "endMs": 23460,
+   "timestampMs": 23395,
+   "confidence": null
+  },
+  {
+   "text": " plátano.",
+   "startMs": 23460,
+   "endMs": 24160,
+   "timestampMs": 23810,
+   "confidence": null
+  },
+  {
+   "text": " Pero",
+   "startMs": 24160,
+   "endMs": 24430,
+   "timestampMs": 24295,
+   "confidence": null
+  },
+  {
+   "text": " tu",
+   "startMs": 24430,
+   "endMs": 24560,
+   "timestampMs": 24495,
+   "confidence": null
+  },
+  {
+   "text": " cuerpo",
+   "startMs": 24560,
+   "endMs": 24970,
+   "timestampMs": 24765,
+   "confidence": null
+  },
+  {
+   "text": " regula",
+   "startMs": 24970,
+   "endMs": 25360,
+   "timestampMs": 25165,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 25360,
+   "endMs": 25500,
+   "timestampMs": 25430,
+   "confidence": null
+  },
+  {
+   "text": " potasio.",
+   "startMs": 25500,
+   "endMs": 26240,
+   "timestampMs": 25870,
+   "confidence": null
+  },
+  {
+   "text": " Comerte",
+   "startMs": 26240,
+   "endMs": 26760,
+   "timestampMs": 26500,
+   "confidence": null
+  },
+  {
+   "text": " uno",
+   "startMs": 26760,
+   "endMs": 26910,
+   "timestampMs": 26835,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 26910,
+   "endMs": 27040,
+   "timestampMs": 26975,
+   "confidence": null
+  },
+  {
+   "text": " te",
+   "startMs": 27040,
+   "endMs": 27170,
+   "timestampMs": 27105,
+   "confidence": null
+  },
+  {
+   "text": " hace",
+   "startMs": 27170,
+   "endMs": 27440,
+   "timestampMs": 27305,
+   "confidence": null
+  },
+  {
+   "text": " más",
+   "startMs": 27440,
+   "endMs": 27640,
+   "timestampMs": 27540,
+   "confidence": null
+  },
+  {
+   "text": " radiactivo",
+   "startMs": 27640,
+   "endMs": 28220,
+   "timestampMs": 27930,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 28220,
+   "endMs": 28390,
+   "timestampMs": 28305,
+   "confidence": null
+  },
+  {
+   "text": " lo",
+   "startMs": 28390,
+   "endMs": 28770,
+   "timestampMs": 28580,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 28770,
+   "endMs": 28880,
+   "timestampMs": 28825,
+   "confidence": null
+  },
+  {
+   "text": " ya",
+   "startMs": 28880,
+   "endMs": 28960,
+   "timestampMs": 28890,
+   "confidence": null
+  },
+  {
+   "text": " eres.",
+   "startMs": 28900,
+   "endMs": 29520,
+   "timestampMs": 29210,
+   "confidence": null
+  },
+  {
+   "text": " ¿Te",
+   "startMs": 29570,
+   "endMs": 29670,
+   "timestampMs": 29620,
+   "confidence": null
+  },
+  {
+   "text": " lo",
+   "startMs": 29670,
+   "endMs": 29770,
+   "timestampMs": 29720,
+   "confidence": null
+  },
+  {
+   "text": " vas",
+   "startMs": 29770,
+   "endMs": 29920,
+   "timestampMs": 29845,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 29920,
+   "endMs": 30040,
+   "timestampMs": 29980,
+   "confidence": null
+  },
+  {
+   "text": " seguir",
+   "startMs": 30040,
+   "endMs": 30290,
+   "timestampMs": 30165,
+   "confidence": null
+  },
+  {
+   "text": " comiendo?",
+   "startMs": 30290,
+   "endMs": 30900,
+   "timestampMs": 30595,
+   "confidence": null
+  },
+  {
+   "text": " Te",
+   "startMs": 30900,
+   "endMs": 31030,
+   "timestampMs": 30965,
+   "confidence": null
+  },
+  {
+   "text": " leo",
+   "startMs": 31030,
+   "endMs": 31220,
+   "timestampMs": 31125,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 31220,
+   "endMs": 31350,
+   "timestampMs": 31285,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 31350,
+   "endMs": 31460,
+   "timestampMs": 31405,
+   "confidence": null
+  },
+  {
+   "text": " comentarios.",
+   "startMs": 31460,
+   "endMs": 32340,
+   "timestampMs": 31900,
+   "confidence": null
+  }
+ ]
+}

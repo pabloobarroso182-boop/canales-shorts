@@ -1,0 +1,153 @@
+{
+ "id": "SE001-medusa-agua-dulce",
+ "canal": "Sala de Espera",
+ "formato": "B · Si pasa esto, NO hagas aquello",
+ "titulo": "Si te pica una medusa, NO te eches agua dulce",
+ "descripcion": "Las medusas dejan en la piel restos de tentáculo con miles de cápsulas (cnidocitos) que todavía pueden disparar su veneno. El agua dulce las hace estallar. Lo recomendado: lavar con agua de mar sin frotar, retirar los restos con pinzas y aplicar frío envuelto en un paño. En las medusas del Mediterráneo, nada de vinagre. Si hay dificultad para respirar o una reacción grande, socorrista o 112.",
+ "hashtags": [
+  "#shorts",
+  "#salud",
+  "#primerosauxilios",
+  "#medusa",
+  "#playa",
+  "#verano",
+  "#saladeespera"
+ ],
+ "fuentes": [
+  "Ministerio de Justicia (Instituto Nacional de Toxicología) · Primeros auxilios y contraindicaciones en accidentes por animales marinos: https://www.mjusticia.gob.es/es/ElMinisterio/OrganismosMinisterio/Documents/1292428319961-Primeros_auxilios_y_contraindicaciones_en_accidentes_por_animales_marinos.PDF",
+  "Manual MSD (versión para público) · Picaduras de medusas: https://www.msdmanuals.com/es/hogar/traumatismos-y-envenenamientos/mordeduras-y-picaduras/picaduras-de-medusas",
+  "Mayo Clinic · Picaduras de medusa, diagnóstico y tratamiento: https://www.mayoclinic.org/es/diseases-conditions/jellyfish-stings/diagnosis-treatment/drc-20353290",
+  "OCU · Picaduras en el mar, ¿qué hacer?: https://www.ocu.org/salud/cuidado-piel/consejos/picaduras-en-mar",
+  "MITECO · Preguntas frecuentes sobre medusas: https://www.miteco.gob.es/en/costas/campanas/campana-medusas/preguntas_frecuentes2010-10-29_22_59_33_1150.html"
+ ],
+ "verificacion": "Agua dulce: contraindicada (activa los cnidocitos que quedan) — Ministerio de Justicia, MSD, OCU. Lavar con agua de mar sin frotar ni restregar — Ministerio de Justicia, OCU. Vinagre: solo para especies del Indopacífico (cubomedusas); en las del Mediterráneo puede activar más cápsulas — Ministerio de Justicia, fuentes españolas; por eso se dice «en las medusas de nuestras playas, tampoco». Retirar restos con pinzas/guantes y frío local envuelto — MSD, OCU. Signos de alarma (dificultad respiratoria, reacción extensa) → socorrista/112.",
+ "escenas": [
+  {
+   "clave": "m_gancho",
+   "kind": "hook",
+   "pieza": 1,
+   "voz": "[curious] Si te pica una medusa, ¿te echas agua de la botella? Error."
+  },
+  {
+   "clave": "m_intro",
+   "kind": "fact",
+   "pieza": 2,
+   "voz": "Es lo primero que hace casi todo el mundo en la playa… y puede hacer que te duela más."
+  },
+  {
+   "clave": "m_capsulas",
+   "kind": "fact",
+   "pieza": 3,
+   "voz": "La medusa no te muerde. Te deja en la piel restos de tentáculo, con miles de cápsulas diminutas. Cada una lleva dentro un arpón enrollado, con veneno."
+  },
+  {
+   "clave": "m_cargadas",
+   "kind": "fact",
+   "pieza": 4,
+   "voz": "Pero muchas todavía no se han disparado."
+  },
+  {
+   "clave": "m_dulce",
+   "kind": "fact",
+   "pieza": 4,
+   "voz": "Y el agua dulce es justo lo que las hace estallar: entra en la cápsula, la hincha, y el arpón sale."
+  },
+  {
+   "clave": "m_vinagre",
+   "kind": "fact",
+   "pieza": 5,
+   "voz": "Entonces, ¿con qué la lavas? ¿Con vinagre?"
+  },
+  {
+   "clave": "m_receta",
+   "kind": "giro",
+   "pieza": 6,
+   "voz": "[dramatically] En las medusas de nuestras playas, tampoco: puede disparar más. Lo que sirve es agua del mar, sin frotar. Quita los restos con unas pinzas. Y luego, frío envuelto en un paño, nunca hielo directo."
+  },
+  {
+   "clave": "m_cta",
+   "kind": "cta",
+   "pieza": 7,
+   "voz": "[warmly] Si te cuesta respirar o la picadura es enorme, al socorrista o al ciento doce. Mándaselo a quien no se pierde un día de playa."
+  }
+ ],
+ "marcas": {
+  "medusa": "medusa,",
+  "botella": "botella?",
+  "error": "Error.",
+  "playa": "playa…",
+  "duela": "duela",
+  "muerde": "muerde.",
+  "tentaculo": "tentáculo,",
+  "miles": "miles",
+  "arpon": "arpón",
+  "veneno": "veneno.",
+  "disparado": "disparado.",
+  "dulce": "dulce",
+  "hincha": "hincha,",
+  "sale": "sale.",
+  "vinagre": "vinagre?",
+  "tampoco": "tampoco:",
+  "mar": "mar,",
+  "frotar": "frotar.",
+  "pinzas": "pinzas.",
+  "frio": "frío",
+  "hielo": "hielo",
+  "respirar": "respirar",
+  "socorrista": "socorrista",
+  "112": "doce.",
+  "playa2": "playa."
+ },
+ "sonidos": [
+  [
+   "golpe",
+   "error",
+   0.8
+  ],
+  [
+   "escaner",
+   "tentaculo",
+   0.5
+  ],
+  [
+   "pop",
+   "miles",
+   0.5
+  ],
+  [
+   "golpe",
+   "sale",
+   0.7
+  ],
+  [
+   "pop",
+   "vinagre",
+   0.5
+  ],
+  [
+   "golpe",
+   "tampoco",
+   0.6
+  ],
+  [
+   "ding",
+   "mar",
+   0.5
+  ],
+  [
+   "pop",
+   "pinzas",
+   0.5
+  ],
+  [
+   "pop",
+   "frio",
+   0.5
+  ],
+  [
+   "brillo",
+   "112",
+   0.5
+  ]
+ ]
+}

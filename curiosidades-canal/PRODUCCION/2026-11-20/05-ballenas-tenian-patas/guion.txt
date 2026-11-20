@@ -1,0 +1,15 @@
+[HOOK] [curious] Las ballenas, hace millones de años, caminaban.
+
+[FACT] Hoy son los animales más grandes del planeta, y no pueden vivir fuera del agua.
+
+[FACT] Pero uno de sus primeros antepasados, el Pakicetus, vivía en tierra, en lo que hoy es Pakistán y la India.
+
+[FACT] Tenía cuatro patas. Y cola.
+
+[FACT] En unos diez millones de años, sus descendientes se fueron quedando cada vez más en el agua.
+
+[FACT] Las patas de delante se volvieron aletas. ¿Y las de atrás?
+
+[GIRO] [dramatically] Desaparecieron por fuera… pero no del todo. Muchas ballenas todavía tienen, dentro del cuerpo, unos huesecillos de cadera: lo que queda de aquellas patas.
+
+[CTA] [warmly] Sígueme para el dato de mañana.

@@ -1,0 +1,68 @@
+{
+  "id": "001-venus",
+  "tema": "Espacio",
+  "titulo": "En Venus un día dura MÁS que un año 🤯 #shorts",
+  "descripcion": "Venus tarda unos 243 días terrestres en dar una vuelta completa sobre sí mismo, pero solo unos 225 en dar la vuelta al Sol. Y además gira al revés que casi todos los planetas.\n\n¿Lo sabías? Síguenos para una curiosidad nueva cada día.\n\nFuente: NASA, Planetary Fact Sheet (Venus).",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#sabíasque",
+    "#espacio",
+    "#venus",
+    "#astronomía"
+  ],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "venus",
+    "planetas",
+    "espacio",
+    "astronomía",
+    "sabías que"
+  ],
+  "fuentes": [
+    "NASA Planetary Fact Sheet – Venus: rotación sideral 243,025 días (retrógrada), periodo orbital 224,701 días",
+    "https://www.scientificamerican.com/article/why-venus-spins-the-wrong/"
+  ],
+  "verificacion": "Se habla de 'una vuelta completa sobre sí mismo' (día sideral) para ser exactos: el día solar de Venus dura ~117 días terrestres.",
+  "musica": "curioso-112bpm.wav",
+  "escenas": [
+    {
+      "kind": "hook",
+      "voz": "En Venus, un día dura más que un año. Y no es un error.",
+      "icon": "planet",
+      "big": "DÍA > AÑO",
+      "small": "en el planeta Venus",
+      "accent": "#FFD23F"
+    },
+    {
+      "voz": "Venus tarda unos doscientos cuarenta y tres días terrestres en dar una vuelta completa sobre sí mismo.",
+      "icon": "spin",
+      "big": "243 DÍAS",
+      "small": "una vuelta sobre sí mismo",
+      "accent": "#FF4D8D"
+    },
+    {
+      "voz": "Pero solo necesita unos doscientos veinticinco días para completar su vuelta alrededor del Sol.",
+      "icon": "sun",
+      "big": "225 DÍAS",
+      "small": "una vuelta al Sol",
+      "accent": "#2BD9FE"
+    },
+    {
+      "voz": "Y hay más: gira al revés que casi todos los planetas, así que allí el Sol sale por el oeste.",
+      "icon": "orbit",
+      "big": "AL REVÉS",
+      "small": "el Sol sale por el oeste",
+      "accent": "#7B5CFF"
+    },
+    {
+      "kind": "cta",
+      "voz": "¿A que no lo sabías? Síguenos para una curiosidad nueva cada día.",
+      "icon": "question",
+      "big": "",
+      "accent": "#FFD23F"
+    }
+  ],
+  "tema_clave": "venus dia mas largo que el año"
+}

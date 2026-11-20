@@ -1,0 +1,43 @@
+{
+  "titulo": "Los VIKINGOS nunca llevaron cuernos 🪖❌ #shorts",
+  "descripcion": "El único casco vikingo casi completo que se conoce (Gjermundbu, Noruega) es redondo y sin cuernos. La imagen de los cuernos se popularizó con los trajes que Carl Emil Doepler diseñó para el estreno de El anillo del nibelungo de Wagner en Bayreuth, en 1876.\n\n#shorts #curiosidades #datoscuriosos #historia #vikingos #mitos #wagner",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#datoscuriosos",
+    "#historia",
+    "#vikingos",
+    "#mitos",
+    "#wagner"
+  ],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "historia",
+    "vikingos",
+    "cascos",
+    "sin"
+  ],
+  "categoria": "27",
+  "idioma": "es",
+  "archivo": "/home/user/curiosidades-canal/PRODUCCION/2026-11-20/04-vikingos-sin-cuernos/20261120-4-vikingos-sin-cuernos.mp4",
+  "duracion_s": 38.51,
+  "voz": "elevenlabs_v4",
+  "voz_motivo": "voz oficial",
+  "voz_config": {
+    "proveedor": "elevenlabs",
+    "modelo": "eleven_v4",
+    "voice_id": "kQwUFpYQ184OVlnMEzlm",
+    "nombre": "datoscuriosin (clonada por el propietario)",
+    "idioma": "es",
+    "ajustes": {
+      "stability": 0.5,
+      "similarity": 0.85
+    },
+    "caracteres": 615
+  },
+  "voz_palabras_min": 170,
+  "subtitulos_coincidencia": 0.924,
+  "estilo": "divulga",
+  "publicar": false
+}

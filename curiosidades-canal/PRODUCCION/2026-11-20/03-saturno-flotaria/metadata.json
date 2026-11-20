@@ -1,0 +1,43 @@
+{
+  "titulo": "SATURNO flotaría en una bañera 🪐🛁 #shorts",
+  "descripcion": "Saturno es el único planeta del sistema solar con una densidad media menor que la del agua (unos 0,69 g/cm³ frente a 1). En teoría, flotaría; en la práctica no, porque no es un cuerpo sólido.\n\n#shorts #curiosidades #datoscuriosos #espacio #saturno #astronomia #nasa",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#datoscuriosos",
+    "#espacio",
+    "#saturno",
+    "#astronomia",
+    "#nasa"
+  ],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "espacio",
+    "saturno",
+    "densidad",
+    "menor"
+  ],
+  "categoria": "27",
+  "idioma": "es",
+  "archivo": "/home/user/curiosidades-canal/PRODUCCION/2026-11-20/03-saturno-flotaria/20261120-3-saturno-flotaria.mp4",
+  "duracion_s": 34.75,
+  "voz": "elevenlabs_v4",
+  "voz_motivo": "voz oficial",
+  "voz_config": {
+    "proveedor": "elevenlabs",
+    "modelo": "eleven_v4",
+    "voice_id": "kQwUFpYQ184OVlnMEzlm",
+    "nombre": "datoscuriosin (clonada por el propietario)",
+    "idioma": "es",
+    "ajustes": {
+      "stability": 0.5,
+      "similarity": 0.85
+    },
+    "caracteres": 542
+  },
+  "voz_palabras_min": 162,
+  "subtitulos_coincidencia": 0.944,
+  "estilo": "divulga",
+  "publicar": false
+}

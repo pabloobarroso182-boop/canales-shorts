@@ -1,0 +1,13 @@
+[HOOK] A este cohete le cayeron dos rayos. Y aun así llegó a la Luna.
+
+[FACT] Era el Apolo doce, en noviembre de mil novecientos sesenta y nueve.
+
+[FACT] A los treinta y seis segundos del despegue le alcanzó un rayo. Y a los cincuenta y dos, otro más.
+
+[FACT] Se activaron casi todas las alarmas, y los datos que llegaban de la nave dejaron de tener sentido.
+
+[FACT] Pero un controlador, John Aaron, recordó un fallo parecido en unas pruebas y pidió pasar un sistema a su alimentación auxiliar.
+
+[GIRO] Y funcionó. Cinco días después, el diecinueve de noviembre, se posaron en la Luna a pocos pasos de una sonda que llevaba allí desde mil novecientos sesenta y siete.
+
+[CTA] ¿Tú habrías seguido adelante? Te leo en los comentarios.

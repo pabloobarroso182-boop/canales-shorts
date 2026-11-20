@@ -1,0 +1,93 @@
+{
+  "id": "20261119-5-bertha-benz-farmacia",
+  "aprobado": true,
+  "duracion_s": 40.53,
+  "voz": "elevenlabs_v4",
+  "pruebas": [
+    {
+      "prueba": "resolución 1080x1920",
+      "ok": true,
+      "detalle": "1080x1920"
+    },
+    {
+      "prueba": "30 fps",
+      "ok": true,
+      "detalle": "30/1"
+    },
+    {
+      "prueba": "códecs H.264 + AAC",
+      "ok": true,
+      "detalle": "h264 + aac"
+    },
+    {
+      "prueba": "duración 25–45 s",
+      "ok": true,
+      "detalle": "40.5 s"
+    },
+    {
+      "prueba": "sonoridad −16 a −12 LUFS",
+      "ok": true,
+      "detalle": "-13.8 LUFS"
+    },
+    {
+      "prueba": "pico ≤ −1 dB",
+      "ok": true,
+      "detalle": "-1.5 dBFS"
+    },
+    {
+      "prueba": "sin silencios largos",
+      "ok": true,
+      "detalle": "ninguno"
+    },
+    {
+      "prueba": "sin pantallas negras",
+      "ok": true,
+      "detalle": "ninguna"
+    },
+    {
+      "prueba": "la voz se entiende (Whisper ≥ 85 %)",
+      "ok": true,
+      "detalle": "95%"
+    },
+    {
+      "prueba": "título ≤ 100 caracteres con #shorts",
+      "ok": true,
+      "detalle": "60 caracteres"
+    },
+    {
+      "prueba": "descripción",
+      "ok": true,
+      "detalle": "414 caracteres"
+    },
+    {
+      "prueba": "3–15 hashtags",
+      "ok": true,
+      "detalle": "7"
+    },
+    {
+      "prueba": "≥ 2 fuentes y ≥ 1 enlace",
+      "ok": true,
+      "detalle": "5 fuentes, 5 enlaces"
+    },
+    {
+      "prueba": "gancho corto (≤ 14 palabras)",
+      "ok": true,
+      "detalle": "8 palabras"
+    },
+    {
+      "prueba": "voz oficial (Eleven v4 + datoscuriosin)",
+      "ok": true,
+      "detalle": "datoscuriosin (clonada por el propietario) · eleven_v4"
+    },
+    {
+      "prueba": "ritmo de narración 140–200 pal/min",
+      "ok": true,
+      "detalle": "159 pal/min"
+    },
+    {
+      "prueba": "originalidad",
+      "ok": true,
+      "detalle": "máx. 0% de 5-gramas compartidos con «—»"
+    }
+  ]
+}

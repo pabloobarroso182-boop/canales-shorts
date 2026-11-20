@@ -1,0 +1,74 @@
+[
+ {
+  "id": "001-venus",
+  "fecha": "2026-11-18",
+  "tema_clave": "venus dia mas largo que el año",
+  "categoria": "Espacio"
+ },
+ {
+  "id": "002-pulpo",
+  "fecha": "2026-11-18",
+  "tema_clave": "pulpo tres corazones sangre azul",
+  "categoria": "Animales"
+ },
+ {
+  "id": "003-torre-eiffel",
+  "fecha": "2026-11-18",
+  "tema_clave": "torre eiffel dilatacion verano",
+  "categoria": "Mitos desmentidos"
+ },
+ {
+  "id": "20261119-2-mas-bajo-por-la-noche",
+  "fecha": "2026-11-19",
+  "tema_clave": "altura cambia durante el dia",
+  "categoria": "Cuerpo humano"
+ },
+ {
+  "id": "20261119-3-avestruz-mito",
+  "fecha": "2026-11-19",
+  "tema_clave": "avestruz esconde cabeza arena",
+  "categoria": "Mitos desmentidos"
+ },
+ {
+  "id": "20261119-1-apolo12-rayos",
+  "fecha": "2026-11-19",
+  "tema_clave": "apolo 12 rayos lanzamiento",
+  "categoria": "Historia del espacio"
+ },
+ {
+  "id": "20261120-1-ornitorrinco-brilla",
+  "fecha": "2026-11-20",
+  "tema_clave": "ornitorrinco brilla luz ultravioleta",
+  "categoria": "Animales"
+ },
+ {
+  "id": "20261120-2-estomago-se-renueva",
+  "fecha": "2026-11-20",
+  "tema_clave": "estomago renueva celulas acido",
+  "categoria": "Cuerpo humano"
+ },
+ {
+  "id": "20261120-3-saturno-flotaria",
+  "fecha": "2026-11-20",
+  "tema_clave": "saturno densidad menor agua flotaria",
+  "categoria": "Espacio"
+ },
+ {
+  "id": "20261120-4-vikingos-sin-cuernos",
+  "fecha": "2026-11-20",
+  "tema_clave": "vikingos cascos sin cuernos wagner",
+  "categoria": "Historia"
+ },
+ {
+  "id": "20261120-5-ballenas-tenian-patas",
+  "fecha": "2026-11-20",
+  "tema_clave": "ballenas antepasado patas pakicetus",
+  "categoria": "Evolución"
+ },
+ {
+  "id": "20261120-6-miel-no-caduca",
+  "fecha": "2026-11-20",
+  "tema_clave": "miel no caduca egipto enzima",
+  "categoria": "Comida"
+ }
+]

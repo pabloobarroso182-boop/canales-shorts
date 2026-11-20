@@ -1,0 +1,15 @@
+[HOOK] [curious] ¿Sabes qué alimento puede aguantar miles de años sin estropearse?
+
+[FACT] La miel.
+
+[FACT] En tumbas del antiguo Egipto se han encontrado tarros de miel de hace miles de años.
+
+[FACT] Y tiene truco.
+
+[FACT] Casi toda es azúcar y muy poca agua, así que las bacterias que caen en ella se quedan secas.
+
+[FACT] Pero las abejas le añaden algo más.
+
+[GIRO] [dramatically] Una enzima que, con el néctar, produce ácido y un poco de agua oxigenada. Seca, ácida y con su propio desinfectante: si la guardas bien cerrada, prácticamente no caduca.
+
+[CTA] [warmly] Mándaselo a quien tira la miel por la fecha.

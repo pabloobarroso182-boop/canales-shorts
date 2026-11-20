@@ -1,0 +1,225 @@
+{
+  "id": "20261119-3-avestruz-mito",
+  "tema": "Mitos desmentidos",
+  "tema_clave": "avestruz esconde cabeza arena",
+  "titulo": "El avestruz NUNCA esconde la cabeza en la arena 🦤 El mito explicado #shorts",
+  "descripcion": "Los avestruces no entierran la cabeza: no podrían respirar. El mito nace de cómo cuidan los huevos: hacen el nido cavando un hoyo en el suelo y varias veces al día meten la cabeza para darles la vuelta con el pico. De lejos, con un cuerpo tan grande y una cabeza tan pequeña, parece que la han enterrado. Ante el peligro, si no pueden huir, se tumban con la cabeza y el cuello estirados sobre el suelo.\n\nFuentes: National Geographic Kids; Live Science; San Diego Zoo Wildlife Alliance.",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#mitos",
+    "#animales",
+    "#avestruz",
+    "#naturaleza"
+  ],
+  "tags": [
+    "curiosidades",
+    "mitos",
+    "avestruz",
+    "animales",
+    "mitos de animales",
+    "naturaleza",
+    "sabías que"
+  ],
+  "fuentes": [
+    "https://kids.nationalgeographic.com/nature/article/animal-myths-busted",
+    "https://livescience.com/animals/birds/do-ostriches-really-bury-their-heads-in-the-sand",
+    "https://animals.sandiegozoo.org/node/118"
+  ],
+  "verificacion": "National Geographic Kids y Live Science desmienten el mito y explican el nido en un hoyo y el giro de los huevos con el pico. El comportamiento de tumbarse con el cuello estirado ante el peligro se atribuye al San Diego Zoo (citado en fuentes secundarias). No se dan cifras de velocidad ni de patadas porque no se han verificado aquí.",
+  "escenas": [
+    {
+      "kind": "hook",
+      "voz": "El avestruz nunca esconde la cabeza bajo la arena.",
+      "icon": "myth",
+      "big": "MITO",
+      "small": "la cabeza bajo la arena",
+      "accent": "#FF4D8D",
+      "ilustracion": {
+        "escenario": "sabana",
+        "avestruz": {
+          "x": 660,
+          "y": 1540,
+          "pose": "de_pie"
+        },
+        "cifra": {
+          "texto": "MITO",
+          "sub": "la cabeza bajo la arena"
+        },
+        "camara": {
+          "zoom": [
+            1.0,
+            1.1
+          ],
+          "foco": [
+            520,
+            1000
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Si lo hiciera, no podría respirar. Entonces, ¿de dónde sale esa idea?",
+      "icon": "question",
+      "big": "¿ENTONCES?",
+      "small": "no podría respirar",
+      "accent": "#2BD9FE",
+      "ilustracion": {
+        "escenario": "sabana",
+        "avestruz": {
+          "x": 660,
+          "y": 1540,
+          "pose": "de_pie"
+        },
+        "bocadillos": [
+          "¿Bajo la arena?",
+          "¿Y respira?",
+          "¿Entonces?"
+        ],
+        "camara": {
+          "zoom": [
+            1.12,
+            1.04
+          ],
+          "foco": [
+            480,
+            900
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Los avestruces hacen su nido cavando un hoyo en el suelo.",
+      "icon": "egg",
+      "big": "NIDO",
+      "small": "un hoyo en el suelo",
+      "accent": "#FFD23F",
+      "ilustracion": {
+        "escenario": "sabana",
+        "nido": {
+          "x": 480,
+          "y": 1500
+        },
+        "cifra": {
+          "texto": "NIDO",
+          "sub": "un hoyo en el suelo"
+        },
+        "camara": {
+          "zoom": [
+            1.2,
+            1.35
+          ],
+          "foco": [
+            480,
+            1420
+          ]
+        }
+      }
+    },
+    {
+      "voz": "Y varias veces al día meten la cabeza dentro para dar la vuelta a los huevos con el pico.",
+      "icon": "spin",
+      "big": "GIRAR",
+      "small": "los huevos, con el pico",
+      "accent": "#7B5CFF",
+      "ilustracion": {
+        "escenario": "sabana",
+        "nido": {
+          "x": 330,
+          "y": 1500,
+          "girando": true
+        },
+        "avestruz": {
+          "x": 640,
+          "y": 1540,
+          "pose": "cabeza_en_hoyo"
+        },
+        "cifra": {
+          "texto": "GIRAR",
+          "sub": "los huevos, con el pico"
+        },
+        "camara": {
+          "zoom": [
+            1.05,
+            1.16
+          ],
+          "foco": [
+            460,
+            1250
+          ]
+        }
+      }
+    },
+    {
+      "voz": "De lejos, con un cuerpo enorme y una cabeza tan pequeña, parece que la han enterrado.",
+      "icon": "eye",
+      "big": "ILUSIÓN",
+      "small": "vista de lejos",
+      "accent": "#2BD9FE",
+      "ilustracion": {
+        "escenario": "sabana",
+        "avestruz": {
+          "x": 640,
+          "y": 1440,
+          "escala": 0.42,
+          "pose": "cabeza_en_hoyo"
+        },
+        "lupa": {
+          "x": 520,
+          "y": 1420,
+          "icono": "eye",
+          "color": "#2BD9FE",
+          "texto": "de lejos, parece enterrada"
+        },
+        "camara": {
+          "zoom": [
+            1.25,
+            1.0
+          ],
+          "foco": [
+            560,
+            1350
+          ]
+        }
+      }
+    },
+    {
+      "kind": "giro",
+      "voz": "Y cuando hay peligro y no pueden huir, se tumban en el suelo con la cabeza y el cuello estirados, muy quietos.",
+      "icon": "alert",
+      "big": "QUIETOS",
+      "small": "cuello pegado al suelo",
+      "accent": "#FFD23F",
+      "ilustracion": {
+        "escenario": "sabana",
+        "avestruz": {
+          "x": 720,
+          "y": 1540,
+          "pose": "tumbado"
+        },
+        "cifra": {
+          "texto": "QUIETOS",
+          "sub": "cuello pegado al suelo"
+        },
+        "camara": {
+          "zoom": [
+            1.05,
+            1.15
+          ],
+          "foco": [
+            480,
+            1450
+          ]
+        }
+      }
+    },
+    {
+      "kind": "cta",
+      "voz": "¿Qué otro mito de animales quieres que desmontemos? Escríbelo en los comentarios.",
+      "icon": "question",
+      "big": "",
+      "accent": "#FFD23F"
+    }
+  ],
+  "estilo": "ilustrado"
+}
