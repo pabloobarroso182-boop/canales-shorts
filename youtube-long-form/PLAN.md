@@ -1,5 +1,7 @@
 # Plan · YouTube Long Form (estado al 20/11/2026)
 
+**INICIO: 1 de diciembre de 2026** (orden del propietario, 20/11: «quiero que sea el 1 de diciembre junto a la continuación de los canales de Shorts»). No se investiga nada antes de esa fecha. Ese día hay un recordatorio programado.
+
 ## Recursos reales (auditoría, apartado 1)
 | Herramienta | Estado | Qué da | Coste |
 |---|---|---|---|
