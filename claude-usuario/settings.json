@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "[ -x /home/user/canales-shorts/tools/guardar_en_github.sh ] && bash /home/user/canales-shorts/tools/guardar_en_github.sh >/tmp/guardado-github.log 2>&1 || true",
+            "timeout": 180
+          }
+        ]
+      }
+    ]
+  }
+}
