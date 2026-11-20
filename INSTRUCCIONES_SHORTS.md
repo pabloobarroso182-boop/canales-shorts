@@ -123,7 +123,7 @@ El servidor es temporal: si la conversación se cierra o pasa tiempo sin uso, se
 **Lo que hace Claude en la conversación nueva:**
 - Descomprimir y seguir `curiosidades-canal/RECUPERACION.md`.
 - Las herramientas ya vienen instaladas por el script de inicio del entorno. Solo falta `bash curiosidades-canal/scripts/setup.sh` para las dependencias de Remotion del proyecto (unos minutos). Qwen3-TTS no se instala porque no se usa.
-- **Volver a crear la tarea diaria de las 18:00** (Europe/Madrid), porque está ligada a la conversación anterior y no pasa sola a la nueva.
+- **Volver a crear la tarea diaria de las 18:00** (Europe/Madrid), porque está ligada a la conversación anterior y no pasa sola a la nueva. El nombre, el horario y el mensaje exacto están en `curiosidades-canal/docs/tarea-diaria-18h.md`: hay que copiarlos tal cual.
 
 **Lo que NO se pierde, porque está en la cuenta y no en el servidor:**
 - la clave de ElevenLabs (guardada como secreto del entorno);

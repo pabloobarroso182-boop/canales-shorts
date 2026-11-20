@@ -1,0 +1,19 @@
+# Tarea programada diaria · 18:00 (Europe/Madrid)
+
+Para volver a crearla en una sesión nueva: tarea programada con `cron_expression` = `CRON_TZ=Europe/Madrid 0 18 * * *`, nombre «Producción diaria 18:00 · Datos Curiosos (4 Shorts)» y este mensaje, copiado tal cual:
+
+---
+
+Son las 18:00 en Madrid: producción diaria automática del canal «Datos Curiosos» (tarea programada pedida por el propietario; se ejecuta sola cada día sin que él lo pida y no hay que crear otra). Trabaja en /home/user/curiosidades-canal y sigue al pie de la letra la skill `produccion-nocturna` (.claude/skills/produccion-nocturna/SKILL.md), CLAUDE.md, docs/voz-narracion.md, docs/estructura-nicho.md, docs/estructura-guion.md y docs/estilo-animacion.md. El proyecto de Instagram está en pausa: no lo toques.
+
+1. Antes de nada, comprueba que el proyecto sigue en la máquina (ls /home/user/curiosidades-canal/CLAUDE.md). Si no está (máquina nueva), NO produzcas nada: recupéralo del repositorio privado de GitHub pabloobarroso182-boop/canales-shorts (sigue INSTRUCCIONES_SHORTS.md, sección 8) o, si no se puede, avisa al propietario.
+2. SIEMPRE antes de crear los Shorts, revisa el nicho con vidIQ: los Shorts de curiosidades en español que más lo están petando y **su estructura y su animación** (pasos 1 y 1b de la skill). vidIQ es un conector autorizado por el propietario solo para investigar; como mucho 5 créditos por día: un día vidiq_outliers y el siguiente vidiq_video_transcript del mejor Short aún no analizado (antes vidiq_balance; si quedan menos de 10 créditos, no gastes y avísalo). Complétalo con WebSearch. Guárdalo en investigacion/tendencias.md y añade lo aprendido a docs/estructura-nicho.md, sin inventar visualizaciones. Elige los **4 mejores temas** según lo que esté funcionando y que mejor encajen, con variedad (el propietario pidió 4 Shorts diarios por canal el 19/11 por la noche; antes 6 y, al principio, 3).
+3. Prepara los **4 Shorts** de MAÑANA (fecha de mañana en Europe/Madrid) en PRODUCCION/<fecha>/ (01…04): temas verificados (≥ 2 fuentes, una primaria o institucional), guiones originales inspirados en lo que funciona (nunca copiados), voz oficial (Eleven v4 + «datoscuriosin» kQwUFpYQ184OVlnMEzlm, a través del pipeline), la animación única del canal (docs/estilo-animacion.md y docs/referencia-animacion/; aplica directamente mejoras solo si docs/estilo-animacion.md tiene vigente un permiso del propietario para ese día, y si no, propónlas), sin marca de agua grande (solo la firma @datoscuriososs.1), sin música, 25–45 s, control de calidad aprobado. Los renders largos en segundo plano, con timeout de 7200000 ms y por tramos (el límite por defecto de 30 min los corta).
+4. Créditos de ElevenLabs: antes de generar voces, mira cuántos quedan. Si no llegan para los 4, haz los que se puedan con la voz oficial (nunca con otra voz), NO compres nada y avisa al propietario de que se acaban y de cuándo se renuevan.
+5. No publiques nada, no compres créditos. Conectores para los Shorts: SOLO ElevenLabs y vidIQ (vidIQ nunca para generar, subir ni publicar).
+6. Al terminar, envía al propietario los 4 MP4 y el INFORME.md (SendUserFile, status proactive), con lo aprendido del nicho, los créditos de ElevenLabs y de vidIQ gastados y restantes, y anota todo en HISTORIAL.md y ESTADO_DEL_PROYECTO.md.
+7. Por último, guarda la copia en GitHub: `bash /home/user/canales-shorts/tools/guardar_en_github.sh` (repositorio privado pabloobarroso182-boop/canales-shorts; sin claves ni vídeos). Si falla, dilo en el informe.
+
+---
+
+Cuando se pongan en marcha los 3 canales nuevos, cada uno tendrá su propia tarea a las 18:00 con sus 4 Shorts (ver `canales-nuevos/CLAUDE.md`).
