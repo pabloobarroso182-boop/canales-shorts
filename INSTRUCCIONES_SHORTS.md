@@ -106,6 +106,12 @@ La marca de cada canal (perfil 800×800 y banners de 2560×1440 y de 4096×2304 
 | **Earshot** (MIT) | Efectos de sonido generados por código (whoosh, pop, ding, golpe…) | Script de inicio del entorno |
 | **Playwright / Chromium** | Logos, fotos de perfil y banners (HTML → PNG) | Ya viene en el servidor |
 | Blender, Inkscape, Synfig, Manim | Animación (instaladas a petición del propietario; opcionales) | Script de inicio del entorno |
+| **ComfyUI** | Generar imágenes y vídeo con modelos de IA (flujos de nodos). Instalado SIN modelos: hay que descargarlos con permiso (pesan GB). Sin gráfica va muy lento | Script de inicio del entorno (`/home/user/tools/comfyui`) |
+| **Kdenlive + MLT (`melt`)** | Edición de vídeo. Sin pantalla se usa `melt` para renderizar proyectos (probado) | Script de inicio del entorno |
+| **auto-editor** | Cortar silencios y pausas automáticamente (probado) | Script de inicio del entorno |
+| Krita | Pintura e ilustración. Instalado, pero no funciona sin pantalla (probado: se cierra al exportar) | Script de inicio del entorno |
+| Audacity | Edición de audio. Solo funciona con pantalla; sin ella se usan FFmpeg o sox | Script de inicio del entorno |
+| ~~DaVinci Resolve~~ | **No se puede instalar:** se descarga con registro en la web de Blackmagic y necesita tarjeta gráfica y pantalla | — |
 | Python (numpy, soundfile, librosa, google-api…) | Pipeline, análisis de audio y API de YouTube | Script de inicio del entorno |
 | Kokoro | Voz de emergencia. **Solo con permiso del propietario** | Script de inicio del entorno |
 | Qwen3-TTS | Pruebas de clonación. **No se usa** | No se instala |

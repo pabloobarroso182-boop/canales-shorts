@@ -172,3 +172,10 @@ Horas aproximadas, en hora de Madrid. El detalle técnico de cada cambio está e
 ## 20/11/2026 · madrugada (Madrid) — Título + #shorts
 - **Propietario:** todos los Shorts llevan título y, justo después, la etiqueta #shorts.
 - `make_short.py` lo garantiza. Actualizados la skill, CLAUDE.md, los canales nuevos, INSTRUCCIONES y la tarea de las 18:00, que sigue en pausa hasta el 1/12.
+
+## 21/11/2026 (Madrid) — Herramientas nuevas
+- **Petición del propietario.** Instalados: ComfyUI (sin modelos), Kdenlive con MLT/melt, auto-editor, Audacity y Krita. Blender ya estaba.
+- **Probados:** auto-editor (recorta silencios), melt (renderiza), ComfyUI (arranca en CPU) y Blender.
+- Krita falla sin pantalla y Audacity solo funciona con pantalla.
+- DaVinci Resolve no se puede instalar: requiere registro en Blackmagic, tarjeta gráfica y pantalla.
+- Añadidos al script de inicio del entorno.
