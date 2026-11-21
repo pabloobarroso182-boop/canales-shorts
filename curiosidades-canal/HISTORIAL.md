@@ -179,3 +179,10 @@ Horas aproximadas, en hora de Madrid. El detalle técnico de cada cambio está e
 - Krita falla sin pantalla y Audacity solo funciona con pantalla.
 - DaVinci Resolve no se puede instalar: requiere registro en Blackmagic, tarjeta gráfica y pantalla.
 - Añadidos al script de inicio del entorno.
+
+## 21/11/2026 · 18:07 (Madrid) — Tarea de las 18:00: máquina nueva, sin producción
+- La tarea programada (`trig_01NRREUj9QpXoSgbyj8R9sLn`, creada el 21/11 a las 00:55) arrancó en un servidor nuevo: `/home/user/curiosidades-canal` no existía.
+- **Recuperado desde GitHub** (copia del 21/11 01:27) a `/home/user/` según `INSTRUCCIONES_SHORTS.md` §8. Como manda la tarea en ese caso, **no se ha producido nada** (ni Shorts del 22/11).
+- Además, este entorno no podría producir: sin acceso a npm/PyPI/Hugging Face (no se instalan Remotion, Whisper ni las librerías de Python), la API de ElevenLabs bloqueada por el proxy (403) y sin la clave del entorno «Default». No parece el entorno «Default» con el script de inicio.
+- Aviso: en este historial consta la pausa de los Shorts hasta el 1/12 (20/11), pero la tarea nueva está activa. Pendiente de que el propietario confirme si sigue la pausa.
+- Créditos: ElevenLabs 0 gastados (no consultable desde aquí); vidIQ 0 gastados, quedan 62 (22 renovables + 40 extra; se renuevan el 18/12).
