@@ -29,5 +29,5 @@ git ls-files -o -i --exclude-standard | grep "/referencia-animacion/" | xargs -r
 git ls-files -o -i --exclude-standard -- "*/output/*" | grep -vE "\.(mp4|wav|mov)$" | xargs -r git add -f
 if git diff --cached --quiet; then echo "✓ sin cambios"; exit 0; fi
 git -c user.name="Claude" -c user.email="noreply@anthropic.com" commit -q -m "Copia automática $(TZ=Europe/Madrid date '+%d/%m/%Y %H:%M')"
-for i in 1 2 3 4; do git -c push.negotiate=true push -q origin main && { echo "✓ subido a GitHub"; exit 0; }; sleep $((2**i)); done
+for i in 1 2 3 4; do git -c push.negotiate=true push -q origin main && { git update-ref refs/remotes/origin/main HEAD; echo "✓ subido a GitHub"; exit 0; }; sleep $((2**i)); done
 echo "✗ no se pudo subir"; exit 1
