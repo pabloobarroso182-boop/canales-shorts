@@ -10,6 +10,8 @@ import { ESCENAS_SATURNO } from "./saturno";
 import { ESCENAS_VIKINGOS } from "./vikingos";
 import { ESCENAS_BALLENAS } from "./ballenas";
 import { ESCENAS_MIEL } from "./miel";
+import { ESCENAS_FLAMENCOS } from "./flamencos";
+import { ESCENAS_NARIZ } from "./nariz";
 
 export const ESCENAS: Record<string, React.FC<EP>> = {
   ...ESCENAS_COCHES,
@@ -19,4 +21,6 @@ export const ESCENAS: Record<string, React.FC<EP>> = {
   ...ESCENAS_VIKINGOS,
   ...ESCENAS_BALLENAS,
   ...ESCENAS_MIEL,
+  ...ESCENAS_FLAMENCOS,
+  ...ESCENAS_NARIZ,
 };

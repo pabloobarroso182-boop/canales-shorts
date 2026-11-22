@@ -8,7 +8,7 @@ CARPETA/guion.json, formato nuevo (recomendado):
    "marcas": {"nombre": "palabra del guion"}}
 Formato antiguo (Short del plátano): "texto" + escenas con "empieza_en".
 
-La voz es SIEMPRE la oficial (make_short.tts_oficial: Eleven v4 + «datoscuriosin»). Si ya existe
+La voz es SIEMPRE la oficial (make_short.tts_oficial; desde el 22/11, la del archivo del propietario con Qwen3-TTS). Si ya existe
 work/voz-v4.(wav|mp3) se reutiliza y no se gasta nada. Con --render, renderiza, hace la portada y los
 metadatos, y deja el Short listo para pipeline/qa.py.
 """
@@ -97,12 +97,20 @@ def main(carpeta: Path, render: bool):
         (carpeta / "fuentes.md").write_text(f"# Fuentes · {g['titulo']}\n\n" + "\n".join(f"- {f}" for f in g["fuentes"])
                                             + f"\n\n**Verificación:** {g.get('verificacion', '')}\n")
         habla = (caps[-1]["endMs"] - caps[0]["startMs"]) / 1000
-        meta = {"titulo": g["titulo"], "descripcion": g["descripcion"] + "\n\n" + " ".join(g["hashtags"]),
+        titulo = re.sub(r"\s*#shorts\b", "", g["titulo"], flags=re.I).strip() + " #shorts"  # título + #shorts (propietario, 20/11)
+        meta = {"titulo": titulo, "descripcion": g["descripcion"] + "\n\n" + " ".join(g["hashtags"]),
                 "hashtags": g["hashtags"], "tags": g["tags"], "categoria": "27", "idioma": "es", "archivo": str(final),
-                "duracion_s": round(duration(final), 2), "voz": "elevenlabs_v4", "voz_motivo": "voz oficial",
+                "duracion_s": round(duration(final), 2), "voz": (voz_info or {}).get("proveedor", "voz oficial"), "voz_motivo": "voz oficial",
                 "voz_config": voz_info, "voz_palabras_min": round(len(palabras) / max(1.0, habla) * 60),
                 "subtitulos_coincidencia": round(ok, 3), "estilo": "divulga", "publicar": False}
         (carpeta / "metadata.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2))
+    # miniatura obligatoria (propietario, 20/11)
+    mini = ["python3", str(ROOT / "pipeline" / "miniatura.py"), str(carpeta)]
+    mini += ["--texto", g["miniatura"]] if g.get("miniatura") else ["--titulo", g["titulo"]]
+    if g.get("miniatura_segundo") is not None:
+        mini += ["--segundo", str(g["miniatura_segundo"])]
+    if ms.subprocess.run(mini).returncode != 0:
+        print("  ⚠ no se pudo generar la miniatura")
     print(f"✓ {final.name}")
 
 

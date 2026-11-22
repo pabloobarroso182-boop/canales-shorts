@@ -1,0 +1,27 @@
+{
+ "id": "20261123-1-flamencos-nacen-grises",
+ "tema": "Animales",
+ "tema_clave": "flamencos rosas carotenoides nacen grises",
+ "estilo": "divulga",
+ "titulo": "Los FLAMENCOS nacen GRISES 🦩😳",
+ "miniatura": "Los flamencos nacen *GRISES*",
+ "descripcion": "Los flamencos no nacen rosas: las crías son grises. El color sale de su comida, algas y pequeños crustáceos llenos de carotenoides, que su cuerpo guarda en las plumas nuevas. Por eso tardan años en volverse rosas y, si comen mal, se vuelven pálidos.",
+ "hashtags": ["#shorts", "#curiosidades", "#datoscuriosos", "#animales", "#flamencos", "#naturaleza", "#ciencia"],
+ "tags": ["curiosidades", "datos curiosos", "flamencos", "por qué los flamencos son rosas", "animales", "carotenoides"],
+ "fuentes": [
+  "Encyclopaedia Britannica · Why are flamingos pink?: https://www.britannica.com/story/why-are-flamingos-pink",
+  "BBC Science Focus · Flamingoes aren't born pink: https://www.sciencefocus.com/nature/why-are-flamingos-pink/"
+ ],
+ "verificacion": "Las crías nacen grises (Britannica, Science Focus). El rosa viene de los carotenoides de su dieta (algas, artemia y otros crustáceos), que se depositan en las plumas nuevas. Tardan unos 2–3 años en tener el color adulto. Si su dieta es pobre en carotenoides, palidecen (por eso en cautividad se les añaden a la comida). Los carotenoides son los mismos pigmentos (betacaroteno) que dan el color naranja a la zanahoria.",
+ "marcas": {"grises": "grises.", "rosa": "rosa", "genes": "genes.", "comida": "comida:", "carotenoides": "carotenoides.", "zanahoria": "zanahoria.", "plumas": "plumas", "anos": "años", "palidos": "pálidos.", "comes": "comes?"},
+ "escenas": [
+  {"clave": "f_gancho", "kind": "hook", "pieza": 1, "voz": "[curious] ¿Sabías que los flamencos no nacen rosas?"},
+  {"clave": "f_grises", "kind": "fact", "pieza": 2, "voz": "Nacen grises."},
+  {"clave": "f_rosa", "kind": "fact", "pieza": 3, "voz": "Y aun así, de mayores, se vuelven de un rosa intenso."},
+  {"clave": "f_genes", "kind": "fact", "pieza": 4, "voz": "Pista: ese color no viene de sus genes."},
+  {"clave": "f_comida", "kind": "fact", "pieza": 5, "voz": "Viene de su comida: algas diminutas y gambitas de agua salada, cargadas de unos pigmentos, los carotenoides."},
+  {"clave": "f_zanahoria", "kind": "fact", "pieza": 6, "voz": "Los mismos que ponen naranja la zanahoria."},
+  {"clave": "f_plumas", "kind": "giro", "pieza": 7, "voz": "[dramatically] Su cuerpo los saca de la comida y los guarda en las plumas nuevas. Por eso tardan años en ponerse rosas. Y si comen mal, se vuelven pálidos."},
+  {"clave": "f_cta", "kind": "cta", "pieza": 8, "voz": "[warmly] ¿Y tú, de qué color serías si fueras lo que comes?"}
+ ]
+}

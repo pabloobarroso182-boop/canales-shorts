@@ -1,0 +1,93 @@
+{
+ "id": "20261123-2-ciclo-nasal",
+ "tema": "Cuerpo humano",
+ "tema_clave": "ciclo nasal fosa nasal respiras por un lado",
+ "estilo": "divulga",
+ "titulo": "Ahora mismo respiras por UN SOLO LADO de la nariz 👃🤯",
+ "miniatura": "Respiras por *UN SOLO LADO*",
+ "descripcion": "Casi todo el mundo respira más por una fosa nasal que por la otra, y cada pocas horas se turnan. Se llama ciclo nasal: el sistema nervioso hincha un poco el tejido de un lado y lo deshincha del otro. Se nota más mientras duermes. Pruébalo tapando primero un lado y luego el otro.",
+ "hashtags": [
+  "#shorts",
+  "#curiosidades",
+  "#datoscuriosos",
+  "#cuerpohumano",
+  "#nariz",
+  "#ciencia",
+  "#salud"
+ ],
+ "tags": [
+  "curiosidades",
+  "datos curiosos",
+  "ciclo nasal",
+  "cuerpo humano",
+  "nariz",
+  "respiración"
+ ],
+ "fuentes": [
+  "Hasegawa M, Kern EB · The human nasal cycle (Mayo Clinic Proceedings, 1977) · PubMed: https://pubmed.ncbi.nlm.nih.gov/609283/",
+  "Kahana-Zweig R et al. · Measuring and characterizing the human nasal cycle (PLOS One, 2016) · PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC5053491"
+ ],
+ "verificacion": "El flujo de aire es mayor por una fosa que por la otra y el lado se alterna con el tiempo (Hasegawa y Kern, 1977). En un estudio de 2016 con 33 personas medidas durante 24 h, todas mostraron alternancia, más marcada durante el sueño. Lo controla el sistema nervioso autónomo (el tejido eréctil de los cornetes se congestiona y descongestiona). La duración varía entre personas («cada pocas horas»). Su función se debate: se presenta como «una explicación» (que la fosa que descansa se mantiene húmeda), no como un hecho cerrado.",
+ "marcas": {
+  "lado": "otro.",
+  "prueba": "otra.",
+  "resfriado": "normal.",
+  "vuelta": "vuelta.",
+  "ciclo": "nasal.",
+  "hincha": "hincha",
+  "duermes": "duermes.",
+  "descansa": "descansa",
+  "turnan": "turnan",
+  "respiras": "respiras"
+ },
+ "escenas": [
+  {
+   "clave": "n_gancho",
+   "kind": "hook",
+   "pieza": 1,
+   "voz": "[curious] Ahora mismo estás respirando más por un lado de la nariz que por el otro."
+  },
+  {
+   "clave": "n_prueba",
+   "kind": "fact",
+   "pieza": 2,
+   "voz": "Pruébalo. Tapa una fosa, y luego la otra."
+  },
+  {
+   "clave": "n_normal",
+   "kind": "fact",
+   "pieza": 3,
+   "voz": "Por una pasa más aire. No es un resfriado: es normal."
+  },
+  {
+   "clave": "n_vuelta",
+   "kind": "fact",
+   "pieza": 4,
+   "voz": "Y dentro de unas horas, se va a dar la vuelta."
+  },
+  {
+   "clave": "n_ciclo",
+   "kind": "fact",
+   "pieza": 5,
+   "voz": "Se llama ciclo nasal. Tu sistema nervioso hincha un poco el tejido de dentro de un lado, y lo deshincha del otro."
+  },
+  {
+   "clave": "n_noche",
+   "kind": "fact",
+   "pieza": 6,
+   "voz": "Lo hace solo, todo el día. Y se nota más mientras duermes."
+  },
+  {
+   "clave": "n_descansa",
+   "kind": "giro",
+   "pieza": 7,
+   "voz": "[dramatically] Una de las explicaciones: así, mientras una fosa trabaja, la otra descansa y se mantiene húmeda. Y se turnan cada pocas horas."
+  },
+  {
+   "clave": "n_cta",
+   "kind": "cta",
+   "pieza": 8,
+   "voz": "[warmly] ¿Por qué lado respiras tú ahora?"
+  }
+ ]
+}

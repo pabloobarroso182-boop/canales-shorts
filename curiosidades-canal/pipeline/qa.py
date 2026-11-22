@@ -96,7 +96,7 @@ def check(folder: Path) -> dict:
 
     est = make_short.CONFIG["voz_estandar"]
     vc = meta.get("voz_config") or {}
-    add("voz oficial (Eleven v4 + datoscuriosin)", vc.get("voice_id") == est["voice_id"] and vc.get("modelo") == est["modelo"],
+    add(f"voz oficial ({est['nombre_voz']})", vc.get("voice_id") == est["voice_id"] and vc.get("modelo") == est["modelo"],
         f"{vc.get('nombre', meta.get('voz'))} · {vc.get('modelo', '—')}")
     ppm = meta.get("voz_palabras_min")
     add("ritmo de narración 140–200 pal/min", ppm is not None and 140 <= ppm <= 200, f"{ppm} pal/min")
