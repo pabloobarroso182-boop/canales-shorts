@@ -21,19 +21,23 @@
   "categoria": "27",
   "idioma": "es",
   "archivo": "/home/user/curiosidades-canal/PRODUCCION/2026-11-23/01-flamencos-nacen-grises/20261123-1-flamencos-nacen-grises.mp4",
-  "duracion_s": 34.6,
-  "voz": "fish_audio",
+  "duracion_s": 33.58,
+  "voz": "elevenlabs",
   "voz_motivo": "voz oficial",
   "voz_config": {
-    "proveedor": "fish_audio",
-    "modelo": "s2.1-pro-free",
-    "voice_id": "clonacion-instantanea:assets/voz/oficial-qwen/referencia.flac",
-    "nombre": "voz del archivo del propietario, clonada al instante con Fish Audio (API oficial)",
+    "proveedor": "elevenlabs",
+    "modelo": "eleven_v4",
+    "voice_id": "kQwUFpYQ184OVlnMEzlm",
+    "nombre": "datoscuriosin (clonada por el propietario)",
     "idioma": "es",
-    "reglas": "docs/voz-narracion.md aplicadas con pipeline/voz_qwen.py --motor fish",
-    "caracteres": 527
+    "ajustes": {
+      "stability": 0.5,
+      "similarity": 0.85
+    },
+    "caracteres": 527,
+    "motivo": "propietario 22/11: «réhazmelo con elevenlabs» (solo Short 1; la voz oficial no se cambia)"
   },
-  "voz_palabras_min": 164,
+  "voz_palabras_min": 169,
   "subtitulos_coincidencia": 1.0,
   "estilo": "divulga",
   "publicar": false

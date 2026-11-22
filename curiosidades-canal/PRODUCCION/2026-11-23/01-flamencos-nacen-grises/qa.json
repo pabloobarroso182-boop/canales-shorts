@@ -1,8 +1,8 @@
 {
   "id": "20261123-1-flamencos-nacen-grises",
   "aprobado": false,
-  "duracion_s": 34.6,
-  "voz": "fish_audio",
+  "duracion_s": 33.58,
+  "voz": "elevenlabs",
   "pruebas": [
     {
       "prueba": "resolución 1080x1920",
@@ -22,17 +22,17 @@
     {
       "prueba": "duración 25–45 s",
       "ok": true,
-      "detalle": "34.6 s"
+      "detalle": "33.6 s"
     },
     {
       "prueba": "sonoridad −16 a −12 LUFS",
       "ok": true,
-      "detalle": "-14.2 LUFS"
+      "detalle": "-14.0 LUFS"
     },
     {
       "prueba": "pico ≤ −1 dB",
       "ok": true,
-      "detalle": "-2.8 dBFS"
+      "detalle": "-1.5 dBFS"
     },
     {
       "prueba": "sin silencios largos",
@@ -47,7 +47,7 @@
     {
       "prueba": "la voz se entiende (Whisper ≥ 85 %)",
       "ok": true,
-      "detalle": "99%"
+      "detalle": "100%"
     },
     {
       "prueba": "título ≤ 100 caracteres con #shorts",
@@ -82,12 +82,12 @@
     {
       "prueba": "voz oficial (curiosidades281 (voz del archivo del propietario, clonada con Qwen3-TTS))",
       "ok": false,
-      "detalle": "voz del archivo del propietario, clonada al instante con Fish Audio (API oficial) · s2.1-pro-free"
+      "detalle": "datoscuriosin (clonada por el propietario) · eleven_v4"
     },
     {
       "prueba": "ritmo de narración 140–200 pal/min",
       "ok": true,
-      "detalle": "164 pal/min"
+      "detalle": "169 pal/min"
     },
     {
       "prueba": "originalidad",
