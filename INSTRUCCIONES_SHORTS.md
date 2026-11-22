@@ -157,3 +157,11 @@ El servidor es temporal: si la conversación se cierra o pasa tiempo sin uso, se
 - Crear los 3 canales nuevos en YouTube y comprobar sus @.
 - Conectar YouTube: proyecto de Google Cloud y el `.json` de la credencial (guía en `curiosidades-canal/docs/conexion-youtube.md`).
 - Montar los sistemas de producción y las tareas de las 18:00 de los 3 canales nuevos.
+
+## Fish Audio (integración disponible, NO sustituye a ElevenLabs)
+- Clave API: secreto de red del entorno «Default» para `api.fish.audio` (el proxy la inyecta; nunca en archivos ni chat). Si falta en una sesión nueva, pedirla con el formulario seguro (request_credential, host api.fish.audio, Bearer).
+- Herramienta: `curiosidades-canal/pipeline/fish_audio.py` → `saldo`, `voces`, `narrar` (WAV 44,1 kHz; `--voz ID` o clonación instantánea `--ref muestra.wav --ref-texto "..."`), `clonar` (voz guardada: requiere recargar crédito API), `borrar-voz`.
+- Modelo gratuito de pruebas: `s2.1-pro-free`. El modelo de pago `s2.1-pro` cobra por bytes de texto: pedir permiso antes.
+- Skills oficiales: fish-audio-sdk, fish-audio-api, fish-audio-agents (en `skills-usuario/`). No existe skill oficial «fish-audio» ni plugin oficial; no usar la de Refly.
+- Conector MCP oficial `https://api.fish.audio/mcp`: solo OAuth (rechaza la clave API) → lo añade el usuario en claude.ai/customize/connectors.
+- Solo usar Fish Audio cuando el usuario lo pida; la voz de los Shorts sigue siendo la decidida en `config/publicacion.json`.
