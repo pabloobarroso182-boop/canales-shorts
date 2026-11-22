@@ -195,3 +195,12 @@ Horas aproximadas, en hora de Madrid. El detalle técnico de cada cambio está e
 - Además, este entorno no podría producir: sin acceso a npm/PyPI/Hugging Face (no se instalan Remotion, Whisper ni las librerías de Python), la API de ElevenLabs bloqueada por el proxy (403) y sin la clave del entorno «Default». No parece el entorno «Default» con el script de inicio.
 - Aviso: en este historial consta la pausa de los Shorts hasta el 1/12 (20/11), pero la tarea nueva está activa. Pendiente de que el propietario confirme si sigue la pausa.
 - Créditos: ElevenLabs 0 gastados (no consultable desde aquí); vidIQ 0 gastados, quedan 62 (22 renovables + 40 extra; se renuevan el 18/12).
+
+## 22/11/2026 · 18:15 (Madrid) — Tarea de las 18:00: máquina nueva otra vez, sin producción
+- La tarea programada arrancó en un servidor nuevo: `/home/user/curiosidades-canal` no existía.
+- **Recuperado desde GitHub** (copia del 22/11 06:06, commit `dcb586a`) a `/home/user/` según `INSTRUCCIONES_SHORTS.md` §8: proyectos, instrucciones, skills de usuario, `~/.claude/CLAUDE.md` y `~/.claude/settings.json` (guardado automático).
+- Como manda la tarea en ese caso, **no se ha producido nada**: ni investigación con vidIQ ni voces ni renders de los Shorts del 23/11.
+- Además, este entorno no podría producir: `setup.sh --check` indica que faltan whisper-cli y su modelo, los paquetes de Python, las dependencias de Remotion (npm ci), Kokoro, Blender, Inkscape, Synfig y Manim. No parece el entorno «Default» con el script de inicio.
+- **Contradicción a resolver por el propietario:** la tarea de las 18:00 pide la voz de ElevenLabs («datoscuriosin»), pero desde el 22/11 la voz oficial es la del archivo del propietario con Qwen3-TTS, «sin elevenlabs» (CLAUDE.md, voz-narracion.md, INSTRUCCIONES). Y en el historial consta la pausa de los Shorts hasta el 1/12, mientras la tarea sigue activa.
+- En `PRODUCCION/2026-11-23/` ya había trabajo de otra sesión: el 01 (flamencos) con guion, metadatos, miniatura y QA, y el 02 (ciclo nasal) solo con guion. No se ha tocado.
+- Créditos: ElevenLabs 0 gastados (no consultados); vidIQ 0 gastados (no consultados).
