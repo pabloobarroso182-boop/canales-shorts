@@ -204,3 +204,4 @@ Horas aproximadas, en hora de Madrid. El detalle técnico de cada cambio está e
 - **Contradicción a resolver por el propietario:** la tarea de las 18:00 pide la voz de ElevenLabs («datoscuriosin»), pero desde el 22/11 la voz oficial es la del archivo del propietario con Qwen3-TTS, «sin elevenlabs» (CLAUDE.md, voz-narracion.md, INSTRUCCIONES). Y en el historial consta la pausa de los Shorts hasta el 1/12, mientras la tarea sigue activa.
 - En `PRODUCCION/2026-11-23/` ya había trabajo de otra sesión: el 01 (flamencos) con guion, metadatos, miniatura y QA, y el 02 (ciclo nasal) solo con guion. No se ha tocado.
 - Créditos: ElevenLabs 0 gastados (no consultados); vidIQ 0 gastados (no consultados).
+- Copia en GitHub: `guardar_en_github.sh` no pudo subir a `main` (este entorno rechaza el push directo a la rama principal). La copia se subió a la rama **`copia-22-11-2026`**; hay que fusionarla en `main` (o volver a lanzar el guardado en el entorno «Default»).
