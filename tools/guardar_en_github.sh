@@ -15,7 +15,7 @@ tar -cf - --exclude=node_modules --exclude=work --exclude=secrets --exclude=.git
 # Vídeos de referencia de la animación de cada canal: SÍ se guardan (excepción a *.mp4)
 find $PROYECTOS -path "*/referencia-animacion/*" -type f -not -path "*/node_modules/*" 2>/dev/null | tar -cf - -T - | tar -xf - -C "$R"
 # Skills instaladas en el usuario (~/.claude/skills) y proyecto my-hyperframes
-for d in hyperframes hyperframes-cli hyperframes-registry media-use reverse-any-video style-sampling; do [ -d /root/.claude/skills/$d ] && mkdir -p "$R/skills-usuario" && cp -r /root/.claude/skills/$d "$R/skills-usuario/"; done
+for d in hyperframes hyperframes-cli hyperframes-registry media-use reverse-any-video style-sampling fish-audio-sdk fish-audio-api fish-audio-agents; do [ -d /root/.claude/skills/$d ] && mkdir -p "$R/skills-usuario" && cp -r /root/.claude/skills/$d "$R/skills-usuario/"; done
 mkdir -p "$R/claude-usuario" && cp /root/.claude/CLAUDE.md "$R/claude-usuario/CLAUDE.md" 2>/dev/null || true
 cp /root/.claude/settings.json "$R/claude-usuario/settings.json" 2>/dev/null || true
 cp tools/voz_qwen.py tools/qwen3_tts.py tools/similitud_voz.py "$R/tools/" 2>/dev/null || true
