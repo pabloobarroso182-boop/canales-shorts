@@ -15,7 +15,12 @@ Qué aplica de las reglas:
   arranque ≥ +5 st, silencios ≤ 0,8 s, sonoridad.
 
 Uso:
-  python voz_qwen.py guion.txt salida.wav [--qa qa.json]
+  python voz_qwen.py guion.txt salida.wav [--qa qa.json] [--motor qwen|fish]
+
+--motor fish (22/11/2026, propietario: «rehazme el audio del short 1 con fish audio con todas las
+reglas de audio»): misma referencia, mismas tomas, puntuación y QA, pero cada toma la genera la API
+oficial de Fish Audio (clonación instantánea con la referencia, modelo gratuito s2.1-pro-free salvo
+--fish-modelo). La clave la inyecta el proxy del entorno; nunca está en archivos.
 """
 import argparse, json, re, subprocess, sys, tempfile, time, unicodedata
 from difflib import SequenceMatcher
@@ -154,19 +159,63 @@ def silencio_max(path):
     return max(d) if d else 0.0
 
 
+def fish_generador(ref_wav, ref_txt, modelo):
+    """Una toma = una petición a la API oficial de Fish Audio (clonación instantánea con la referencia)."""
+    import io, httpx, msgpack
+    with tempfile.TemporaryDirectory() as td:  # la API pide wav/mp3/flac: se manda wav
+        w = Path(td) / "ref.wav"
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(ref_wav), "-ac", "1", str(w)], check=True)
+        ref_bytes = w.read_bytes()
+    hd = {"Authorization": "Bearer proxy-injected", "Content-Type": "application/msgpack", "model": modelo}
+
+    def gen(texto):
+        body = {"text": texto, "references": [{"audio": ref_bytes, "text": ref_txt}], "format": "wav",
+                "sample_rate": 44100, "latency": "normal", "normalize": True, "language": "es",
+                "temperature": 0.7, "top_p": 0.7}
+        for intento in range(4):
+            r = httpx.post("https://api.fish.audio/v1/tts", headers=hd,
+                           content=msgpack.packb(body, use_bin_type=True), timeout=180)
+            if r.status_code in (429, 500, 502, 503, 504):
+                time.sleep(5 * (intento + 1)); continue
+            if not r.is_success:
+                sys.exit(f"Fish Audio {r.status_code}: {r.text[:300]}")
+            x, sr = sf.read(io.BytesIO(r.content))
+            return (x.mean(1) if x.ndim > 1 else x).astype(np.float64), sr
+        sys.exit("Fish Audio no responde tras 4 intentos")
+    return gen
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("guion"); ap.add_argument("salida"); ap.add_argument("--qa")
     ap.add_argument("--ref", default=str(REF_WAV)); ap.add_argument("--ref-texto", default=None)
+    ap.add_argument("--motor", choices=["qwen", "fish"], default="qwen")
+    ap.add_argument("--fish-modelo", default="s2.1-pro-free")
+    ap.add_argument("--tomas-hook", type=int, default=None)
+    ap.add_argument("--tomas-fact", type=int, default=None)
     a = ap.parse_args()
     t0 = time.time()
-    torch.set_num_threads(4)
-    from qwen_tts import Qwen3TTSModel
-    m = Qwen3TTSModel.from_pretrained(MODELO, device_map="cpu", dtype=torch.float32)
     ref_wav = a.ref
     ref_txt = a.ref_texto or REF_TXT.read_text().strip()
-    # se calcula el prompt de voz una sola vez
-    prompt = m.create_voice_clone_prompt(ref_audio=ref_wav, ref_text=ref_txt) if hasattr(m, "create_voice_clone_prompt") else None
+    if a.tomas_hook:
+        TOMAS["HOOK"] = a.tomas_hook
+    if a.tomas_fact:
+        TOMAS["FACT"] = TOMAS["GIRO"] = a.tomas_fact
+    if a.motor == "fish":
+        gen = fish_generador(ref_wav, ref_txt, a.fish_modelo)
+    else:
+        torch.set_num_threads(4)
+        from qwen_tts import Qwen3TTSModel
+        m = Qwen3TTSModel.from_pretrained(MODELO, device_map="cpu", dtype=torch.float32)
+        # se calcula el prompt de voz una sola vez
+        prompt = m.create_voice_clone_prompt(ref_audio=ref_wav, ref_text=ref_txt) if hasattr(m, "create_voice_clone_prompt") else None
+
+        def gen(texto):
+            if prompt is not None:
+                w, sr = m.generate_voice_clone(text=texto, language="Spanish", voice_clone_prompt=prompt)
+            else:
+                w, sr = m.generate_voice_clone(text=texto, language="Spanish", ref_audio=ref_wav, ref_text=ref_txt)
+            return np.asarray(w[0], dtype=np.float64), sr
     rx, rsr = sf.read(ref_wav)
     rf = f0_track(a16(rx, rsr)); ref_hz = float(np.nanmedian(rf))
 
@@ -176,11 +225,8 @@ def main():
         n = TOMAS.get(p["tipo"], 1)
         mejor = None
         for t in range(n + 1):  # +1 reintento por si Whisper falla
-            if prompt is not None:
-                w, sr = m.generate_voice_clone(text=p["texto"], language="Spanish", voice_clone_prompt=prompt)
-            else:
-                w, sr = m.generate_voice_clone(text=p["texto"], language="Spanish", ref_audio=ref_wav, ref_text=ref_txt)
-            x = recortar(np.asarray(w[0], dtype=np.float64), sr)
+            w, sr = gen(p["texto"])
+            x = recortar(w, sr)
             x = acortar_silencios(x, sr)
             with tempfile.NamedTemporaryFile(suffix=".wav") as tf:
                 sf.write(tf.name, x, sr); txt = whisper(tf.name)
@@ -226,7 +272,8 @@ def main():
         ("sonoridad −14 LUFS (−16 a −12)", -16 <= i_lufs <= -12, f"{i_lufs} LUFS"),
         ("pico ≤ −1 dBTP", pico <= -1.0, f"{pico} dB"),
     ]
-    qa = {"salida": a.salida, "voz": "voz oficial del propietario (archivo 21/11) · Qwen3-TTS 0.6B Base", "duracion_s": round(dur, 2),
+    motor = f"Fish Audio API ({a.fish_modelo})" if a.motor == "fish" else "Qwen3-TTS 0.6B Base"
+    qa = {"salida": a.salida, "voz": f"voz oficial del propietario (archivo 21/11) · {motor}", "motor": a.motor, "duracion_s": round(dur, 2),
           "aprobado": all(ok for _, ok, _ in pruebas), "pruebas": [{"prueba": n, "ok": ok, "detalle": d} for n, ok, d in pruebas],
           "piezas": info, "transcripcion": trans, "segundos_de_proceso": round(time.time() - t0)}
     for n, ok, d in pruebas:
