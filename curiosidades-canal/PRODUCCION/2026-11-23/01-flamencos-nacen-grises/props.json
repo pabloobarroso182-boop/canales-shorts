@@ -1,0 +1,690 @@
+{
+ "id": "20261123-1-flamencos-nacen-grises",
+ "durationMs": 32437,
+ "audio": "shorts/20261123-1-flamencos-nacen-grises.wav",
+ "escenas": [
+  {
+   "clave": "f_gancho",
+   "startMs": 0
+  },
+  {
+   "clave": "f_grises",
+   "startMs": 2170
+  },
+  {
+   "clave": "f_rosa",
+   "startMs": 3550
+  },
+  {
+   "clave": "f_genes",
+   "startMs": 7530
+  },
+  {
+   "clave": "f_comida",
+   "startMs": 10290
+  },
+  {
+   "clave": "f_zanahoria",
+   "startMs": 16890
+  },
+  {
+   "clave": "f_plumas",
+   "startMs": 19330
+  },
+  {
+   "clave": "f_cta",
+   "startMs": 28200
+  }
+ ],
+ "marcas": {
+  "grises": 2920,
+  "rosa": 6570,
+  "genes": 10070,
+  "comida": 11030,
+  "carotenoides": 15900,
+  "zanahoria": 18670,
+  "plumas": 21930,
+  "anos": 24010,
+  "palidos": 27290,
+  "comes": 30670
+ },
+ "captions": [
+  {
+   "text": "¿Sabías",
+   "startMs": 60,
+   "endMs": 420,
+   "timestampMs": 240,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 420,
+   "endMs": 600,
+   "timestampMs": 510,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 600,
+   "endMs": 780,
+   "timestampMs": 690,
+   "confidence": null
+  },
+  {
+   "text": " flamencos",
+   "startMs": 780,
+   "endMs": 1330,
+   "timestampMs": 1055,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 1330,
+   "endMs": 1450,
+   "timestampMs": 1390,
+   "confidence": null
+  },
+  {
+   "text": " nacen",
+   "startMs": 1450,
+   "endMs": 1720,
+   "timestampMs": 1585,
+   "confidence": null
+  },
+  {
+   "text": " rosas?",
+   "startMs": 1720,
+   "endMs": 2320,
+   "timestampMs": 2020,
+   "confidence": null
+  },
+  {
+   "text": " Nacen",
+   "startMs": 2320,
+   "endMs": 2920,
+   "timestampMs": 2620,
+   "confidence": null
+  },
+  {
+   "text": " grises.",
+   "startMs": 2920,
+   "endMs": 3700,
+   "timestampMs": 3310,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 3700,
+   "endMs": 3800,
+   "timestampMs": 3750,
+   "confidence": null
+  },
+  {
+   "text": " aun",
+   "startMs": 3800,
+   "endMs": 4110,
+   "timestampMs": 3955,
+   "confidence": null
+  },
+  {
+   "text": " así,",
+   "startMs": 4110,
+   "endMs": 4640,
+   "timestampMs": 4375,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 4640,
+   "endMs": 4810,
+   "timestampMs": 4725,
+   "confidence": null
+  },
+  {
+   "text": " mayores,",
+   "startMs": 4810,
+   "endMs": 5730,
+   "timestampMs": 5270,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 5730,
+   "endMs": 6040,
+   "timestampMs": 5885,
+   "confidence": null
+  },
+  {
+   "text": " vuelven",
+   "startMs": 6040,
+   "endMs": 6270,
+   "timestampMs": 6155,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 6270,
+   "endMs": 6420,
+   "timestampMs": 6345,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 6420,
+   "endMs": 6570,
+   "timestampMs": 6495,
+   "confidence": null
+  },
+  {
+   "text": " rosa",
+   "startMs": 6570,
+   "endMs": 6870,
+   "timestampMs": 6720,
+   "confidence": null
+  },
+  {
+   "text": " intenso.",
+   "startMs": 6870,
+   "endMs": 7680,
+   "timestampMs": 7275,
+   "confidence": null
+  },
+  {
+   "text": " Pista:",
+   "startMs": 7680,
+   "endMs": 8270,
+   "timestampMs": 7975,
+   "confidence": null
+  },
+  {
+   "text": " ese",
+   "startMs": 8270,
+   "endMs": 8440,
+   "timestampMs": 8355,
+   "confidence": null
+  },
+  {
+   "text": " color",
+   "startMs": 8440,
+   "endMs": 8830,
+   "timestampMs": 8635,
+   "confidence": null
+  },
+  {
+   "text": " no",
+   "startMs": 8830,
+   "endMs": 8980,
+   "timestampMs": 8905,
+   "confidence": null
+  },
+  {
+   "text": " viene",
+   "startMs": 8980,
+   "endMs": 9370,
+   "timestampMs": 9175,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 9370,
+   "endMs": 9450,
+   "timestampMs": 9400,
+   "confidence": null
+  },
+  {
+   "text": " sus",
+   "startMs": 9430,
+   "endMs": 10070,
+   "timestampMs": 9750,
+   "confidence": null
+  },
+  {
+   "text": " genes.",
+   "startMs": 10070,
+   "endMs": 10440,
+   "timestampMs": 10255,
+   "confidence": null
+  },
+  {
+   "text": " Viene",
+   "startMs": 10440,
+   "endMs": 10810,
+   "timestampMs": 10625,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 10810,
+   "endMs": 10890,
+   "timestampMs": 10850,
+   "confidence": null
+  },
+  {
+   "text": " su",
+   "startMs": 10890,
+   "endMs": 11030,
+   "timestampMs": 10960,
+   "confidence": null
+  },
+  {
+   "text": " comida:",
+   "startMs": 11030,
+   "endMs": 11640,
+   "timestampMs": 11335,
+   "confidence": null
+  },
+  {
+   "text": " algas",
+   "startMs": 11640,
+   "endMs": 12100,
+   "timestampMs": 11870,
+   "confidence": null
+  },
+  {
+   "text": " diminutas",
+   "startMs": 12100,
+   "endMs": 12700,
+   "timestampMs": 12400,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 12700,
+   "endMs": 12780,
+   "timestampMs": 12730,
+   "confidence": null
+  },
+  {
+   "text": " gambitas",
+   "startMs": 12760,
+   "endMs": 13300,
+   "timestampMs": 13030,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 13300,
+   "endMs": 13390,
+   "timestampMs": 13345,
+   "confidence": null
+  },
+  {
+   "text": " agua",
+   "startMs": 13390,
+   "endMs": 13900,
+   "timestampMs": 13645,
+   "confidence": null
+  },
+  {
+   "text": " salada,",
+   "startMs": 13900,
+   "endMs": 14200,
+   "timestampMs": 14050,
+   "confidence": null
+  },
+  {
+   "text": " cargadas",
+   "startMs": 14200,
+   "endMs": 14650,
+   "timestampMs": 14425,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 14650,
+   "endMs": 14790,
+   "timestampMs": 14720,
+   "confidence": null
+  },
+  {
+   "text": " unos",
+   "startMs": 14790,
+   "endMs": 14990,
+   "timestampMs": 14890,
+   "confidence": null
+  },
+  {
+   "text": " pigmentos,",
+   "startMs": 14990,
+   "endMs": 15680,
+   "timestampMs": 15335,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 15680,
+   "endMs": 15900,
+   "timestampMs": 15790,
+   "confidence": null
+  },
+  {
+   "text": " carotenoides.",
+   "startMs": 15900,
+   "endMs": 17040,
+   "timestampMs": 16470,
+   "confidence": null
+  },
+  {
+   "text": " Los",
+   "startMs": 17040,
+   "endMs": 17220,
+   "timestampMs": 17130,
+   "confidence": null
+  },
+  {
+   "text": " mismos",
+   "startMs": 17220,
+   "endMs": 17630,
+   "timestampMs": 17425,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 17630,
+   "endMs": 17770,
+   "timestampMs": 17700,
+   "confidence": null
+  },
+  {
+   "text": " ponen",
+   "startMs": 17770,
+   "endMs": 18070,
+   "timestampMs": 17920,
+   "confidence": null
+  },
+  {
+   "text": " naranja",
+   "startMs": 18070,
+   "endMs": 18490,
+   "timestampMs": 18280,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 18550,
+   "endMs": 18670,
+   "timestampMs": 18610,
+   "confidence": null
+  },
+  {
+   "text": " zanahoria.",
+   "startMs": 18670,
+   "endMs": 19480,
+   "timestampMs": 19075,
+   "confidence": null
+  },
+  {
+   "text": " Su",
+   "startMs": 19480,
+   "endMs": 19600,
+   "timestampMs": 19540,
+   "confidence": null
+  },
+  {
+   "text": " cuerpo",
+   "startMs": 19600,
+   "endMs": 19980,
+   "timestampMs": 19790,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 19980,
+   "endMs": 20170,
+   "timestampMs": 20075,
+   "confidence": null
+  },
+  {
+   "text": " saca",
+   "startMs": 20170,
+   "endMs": 20420,
+   "timestampMs": 20295,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 20420,
+   "endMs": 20540,
+   "timestampMs": 20480,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 20540,
+   "endMs": 20660,
+   "timestampMs": 20600,
+   "confidence": null
+  },
+  {
+   "text": " comida",
+   "startMs": 20660,
+   "endMs": 21090,
+   "timestampMs": 20875,
+   "confidence": null
+  },
+  {
+   "text": " y",
+   "startMs": 21090,
+   "endMs": 21170,
+   "timestampMs": 21115,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 21140,
+   "endMs": 21230,
+   "timestampMs": 21185,
+   "confidence": null
+  },
+  {
+   "text": " guarda",
+   "startMs": 21230,
+   "endMs": 21780,
+   "timestampMs": 21505,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 21780,
+   "endMs": 21870,
+   "timestampMs": 21825,
+   "confidence": null
+  },
+  {
+   "text": " las",
+   "startMs": 21870,
+   "endMs": 21950,
+   "timestampMs": 21900,
+   "confidence": null
+  },
+  {
+   "text": " plumas",
+   "startMs": 21930,
+   "endMs": 22240,
+   "timestampMs": 22085,
+   "confidence": null
+  },
+  {
+   "text": " nuevas.",
+   "startMs": 22240,
+   "endMs": 23160,
+   "timestampMs": 22700,
+   "confidence": null
+  },
+  {
+   "text": " Por",
+   "startMs": 23160,
+   "endMs": 23370,
+   "timestampMs": 23265,
+   "confidence": null
+  },
+  {
+   "text": " eso",
+   "startMs": 23370,
+   "endMs": 23580,
+   "timestampMs": 23475,
+   "confidence": null
+  },
+  {
+   "text": " tardan",
+   "startMs": 23580,
+   "endMs": 24010,
+   "timestampMs": 23795,
+   "confidence": null
+  },
+  {
+   "text": " años",
+   "startMs": 24010,
+   "endMs": 24300,
+   "timestampMs": 24155,
+   "confidence": null
+  },
+  {
+   "text": " en",
+   "startMs": 24300,
+   "endMs": 24460,
+   "timestampMs": 24380,
+   "confidence": null
+  },
+  {
+   "text": " ponerse",
+   "startMs": 24460,
+   "endMs": 24890,
+   "timestampMs": 24675,
+   "confidence": null
+  },
+  {
+   "text": " rosas.",
+   "startMs": 24890,
+   "endMs": 25560,
+   "timestampMs": 25225,
+   "confidence": null
+  },
+  {
+   "text": " Y",
+   "startMs": 25560,
+   "endMs": 25640,
+   "timestampMs": 25600,
+   "confidence": null
+  },
+  {
+   "text": " si",
+   "startMs": 25640,
+   "endMs": 25810,
+   "timestampMs": 25725,
+   "confidence": null
+  },
+  {
+   "text": " comen",
+   "startMs": 25810,
+   "endMs": 26230,
+   "timestampMs": 26020,
+   "confidence": null
+  },
+  {
+   "text": " mal,",
+   "startMs": 26230,
+   "endMs": 26640,
+   "timestampMs": 26435,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 26640,
+   "endMs": 26860,
+   "timestampMs": 26750,
+   "confidence": null
+  },
+  {
+   "text": " vuelven",
+   "startMs": 26860,
+   "endMs": 27290,
+   "timestampMs": 27075,
+   "confidence": null
+  },
+  {
+   "text": " pálidos.",
+   "startMs": 27290,
+   "endMs": 28280,
+   "timestampMs": 27785,
+   "confidence": null
+  },
+  {
+   "text": " ¿Y",
+   "startMs": 28350,
+   "endMs": 28560,
+   "timestampMs": 28455,
+   "confidence": null
+  },
+  {
+   "text": " tú,",
+   "startMs": 28560,
+   "endMs": 29310,
+   "timestampMs": 28935,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 29310,
+   "endMs": 29410,
+   "timestampMs": 29360,
+   "confidence": null
+  },
+  {
+   "text": " qué",
+   "startMs": 29410,
+   "endMs": 29580,
+   "timestampMs": 29495,
+   "confidence": null
+  },
+  {
+   "text": " color",
+   "startMs": 29580,
+   "endMs": 29790,
+   "timestampMs": 29685,
+   "confidence": null
+  },
+  {
+   "text": " serías",
+   "startMs": 29790,
+   "endMs": 30030,
+   "timestampMs": 29910,
+   "confidence": null
+  },
+  {
+   "text": " si",
+   "startMs": 30030,
+   "endMs": 30350,
+   "timestampMs": 30190,
+   "confidence": null
+  },
+  {
+   "text": " fueras",
+   "startMs": 30350,
+   "endMs": 30530,
+   "timestampMs": 30440,
+   "confidence": null
+  },
+  {
+   "text": " lo",
+   "startMs": 30530,
+   "endMs": 30670,
+   "timestampMs": 30600,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 30670,
+   "endMs": 30750,
+   "timestampMs": 30670,
+   "confidence": null
+  },
+  {
+   "text": " comes?",
+   "startMs": 30670,
+   "endMs": 31120,
+   "timestampMs": 30895,
+   "confidence": null
+  }
+ ]
+}

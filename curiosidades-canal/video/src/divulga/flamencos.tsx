@@ -183,7 +183,7 @@ const Zanahoria: React.FC<EP> = ({ t, dur, mk }) => (
         <path d="M50 26 Q 40 6 30 2 M50 26 Q 52 4 50 0 M50 26 Q 62 6 72 4" stroke="#4CD07D" strokeWidth="6" fill="none" strokeLinecap="round" />
       </svg>
     </Entra>
-    <Etiqueta t={t} desde={4} texto="Los mismos pigmentos" icono="🥕" color="#FF9A3C" top={1400} grande />
+    <Etiqueta t={t} desde={4} texto="Mismo pigmento" icono="🥕" color="#FF9A3C" top={1400} grande />
     <Flash t={t} desde={mk("zanahoria") - 2} color="#ffe0c0" />
   </AbsoluteFill>
 );

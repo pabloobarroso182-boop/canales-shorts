@@ -1,0 +1,98 @@
+{
+  "id": "20261123-1-flamencos-nacen-grises",
+  "aprobado": true,
+  "duracion_s": 32.47,
+  "voz": "qwen3_tts",
+  "pruebas": [
+    {
+      "prueba": "resolución 1080x1920",
+      "ok": true,
+      "detalle": "1080x1920"
+    },
+    {
+      "prueba": "30 fps",
+      "ok": true,
+      "detalle": "30/1"
+    },
+    {
+      "prueba": "códecs H.264 + AAC",
+      "ok": true,
+      "detalle": "h264 + aac"
+    },
+    {
+      "prueba": "duración 25–45 s",
+      "ok": true,
+      "detalle": "32.5 s"
+    },
+    {
+      "prueba": "sonoridad −16 a −12 LUFS",
+      "ok": true,
+      "detalle": "-14.0 LUFS"
+    },
+    {
+      "prueba": "pico ≤ −1 dB",
+      "ok": true,
+      "detalle": "-2.3 dBFS"
+    },
+    {
+      "prueba": "sin silencios largos",
+      "ok": true,
+      "detalle": "ninguno"
+    },
+    {
+      "prueba": "sin pantallas negras",
+      "ok": true,
+      "detalle": "ninguna"
+    },
+    {
+      "prueba": "la voz se entiende (Whisper ≥ 85 %)",
+      "ok": true,
+      "detalle": "99%"
+    },
+    {
+      "prueba": "título ≤ 100 caracteres con #shorts",
+      "ok": true,
+      "detalle": "37 caracteres"
+    },
+    {
+      "prueba": "descripción",
+      "ok": true,
+      "detalle": "249 caracteres"
+    },
+    {
+      "prueba": "3–15 hashtags",
+      "ok": true,
+      "detalle": "7"
+    },
+    {
+      "prueba": "≥ 2 fuentes y ≥ 1 enlace",
+      "ok": true,
+      "detalle": "2 fuentes, 2 enlaces"
+    },
+    {
+      "prueba": "gancho corto (≤ 14 palabras)",
+      "ok": true,
+      "detalle": "7 palabras"
+    },
+    {
+      "prueba": "estructura (informativo)",
+      "ok": true,
+      "detalle": "1 → 2 → 3 → 4 → 5 → 6 → 7 → 8"
+    },
+    {
+      "prueba": "voz oficial (curiosidades281 (voz del archivo del propietario, clonada con Qwen3-TTS))",
+      "ok": true,
+      "detalle": "curiosidades281 (voz del archivo del propietario, clonada con Qwen3-TTS) · Qwen3-TTS-12Hz-0.6B-Base"
+    },
+    {
+      "prueba": "ritmo de narración 140–200 pal/min",
+      "ok": true,
+      "detalle": "176 pal/min"
+    },
+    {
+      "prueba": "originalidad",
+      "ok": true,
+      "detalle": "máx. 0% de 5-gramas compartidos con «—»"
+    }
+  ]
+}

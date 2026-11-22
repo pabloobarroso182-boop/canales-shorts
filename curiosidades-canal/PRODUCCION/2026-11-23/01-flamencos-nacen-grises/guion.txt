@@ -1,0 +1,15 @@
+[HOOK] [curious] ¿Sabías que los flamencos no nacen rosas?
+
+[FACT] Nacen grises.
+
+[FACT] Y aun así, de mayores, se vuelven de un rosa intenso.
+
+[FACT] Pista: ese color no viene de sus genes.
+
+[FACT] Viene de su comida: algas diminutas y gambitas de agua salada, cargadas de unos pigmentos, los carotenoides.
+
+[FACT] Los mismos que ponen naranja la zanahoria.
+
+[GIRO] [dramatically] Su cuerpo los saca de la comida y los guarda en las plumas nuevas. Por eso tardan años en ponerse rosas. Y si comen mal, se vuelven pálidos.
+
+[CTA] [warmly] ¿Y tú, de qué color serías si fueras lo que comes?

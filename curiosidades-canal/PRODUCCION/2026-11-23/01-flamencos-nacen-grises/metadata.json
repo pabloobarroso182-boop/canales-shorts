@@ -1,0 +1,43 @@
+{
+  "titulo": "Los FLAMENCOS nacen GRISES 🦩😳 #shorts",
+  "descripcion": "Los flamencos no nacen rosas: las crías son grises. El color sale de su comida, algas y pequeños crustáceos llenos de carotenoides, que su cuerpo guarda en las plumas nuevas. Por eso tardan años en volverse rosas y, si comen mal, se vuelven pálidos.\n\n#shorts #curiosidades #datoscuriosos #animales #flamencos #naturaleza #ciencia",
+  "hashtags": [
+    "#shorts",
+    "#curiosidades",
+    "#datoscuriosos",
+    "#animales",
+    "#flamencos",
+    "#naturaleza",
+    "#ciencia"
+  ],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "flamencos",
+    "por qué los flamencos son rosas",
+    "animales",
+    "carotenoides"
+  ],
+  "categoria": "27",
+  "idioma": "es",
+  "archivo": "/home/user/curiosidades-canal/PRODUCCION/2026-11-23/01-flamencos-nacen-grises/20261123-1-flamencos-nacen-grises.mp4",
+  "duracion_s": 32.47,
+  "voz": "qwen3_tts",
+  "voz_motivo": "voz oficial",
+  "voz_config": {
+    "proveedor": "qwen3_tts",
+    "modelo": "Qwen3-TTS-12Hz-0.6B-Base",
+    "voice_id": "curiosidades281-qwen",
+    "nombre": "curiosidades281 (voz del archivo del propietario, clonada con Qwen3-TTS)",
+    "idioma": "es",
+    "ajustes": {
+      "stability": 0.5,
+      "similarity": 0.85
+    },
+    "caracteres": 527
+  },
+  "voz_palabras_min": 176,
+  "subtitulos_coincidencia": 1.0,
+  "estilo": "divulga",
+  "publicar": false
+}
