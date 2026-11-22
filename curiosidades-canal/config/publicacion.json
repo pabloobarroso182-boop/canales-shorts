@@ -12,8 +12,8 @@
   ],
   "musica": false,
   "voz": {
-    "usar": "voz_estandar (voz oficial aprobada el 19/11/2026)",
-    "antes": "curiosidades281 NNgYp96c8FM1iI4HMawH / eleven_multilingual_v2 y Kokoro em_alex: descartadas el 19/11",
+    "usar": "voz_estandar: voz del archivo del propietario con Qwen3-TTS (desde el 21/11/2026)",
+    "antes": "datoscuriosin kQwUFpYQ184OVlnMEzlm / eleven_v4 (19/11–21/11); antes curiosidades281 NNgYp96c8FM1iI4HMawH / eleven_multilingual_v2 y Kokoro",
     "respaldo": "ninguno para publicar: si falla la voz oficial, el pipeline se para"
   },
   "duracion_s": {
@@ -26,7 +26,24 @@
   "cuenta_google": "datoscuriososs790@gmail.com",
   "nombre_anterior": "Curiosidades de Todo Tipo",
   "voz_estandar": {
-    "estado": "APROBADA por el propietario el 19/11/2026 (prueba 1). Voz oficial y permanente del canal: no cambiar sin su permiso.",
+    "estado": "VOZ OFICIAL desde el 21/11/2026 por orden del propietario: «QUIERO QUE UTILICES LA VOZ DEL ARCHIVO PARA LA CREACIÓN DE LOS SHORTS» y «sin elevenlabs». Es la voz «curiosidades281» del propietario (su archivo de 7,6 s y la vista previa de 6 s), clonada en local. No cambiar sin su permiso.",
+    "proveedor": "qwen3_tts",
+    "modelo": "Qwen3-TTS-12Hz-0.6B-Base",
+    "voice_id": "curiosidades281-qwen",
+    "nombre_voz": "curiosidades281 (voz del archivo del propietario, clonada con Qwen3-TTS)",
+    "idioma": "es",
+    "ajustes": {
+      "stability": 0.5,
+      "similarity": 0.85
+    },
+    "python": "/home/user/tools/qwen3-tts-venv/bin/python",
+    "referencia": "assets/voz/oficial-qwen/referencia.flac",
+    "referencia_texto": "assets/voz/oficial-qwen/referencia.txt",
+    "estirar_audio": false,
+    "guia": "docs/voz-narracion.md"
+  },
+  "voz_estandar_anterior": {
+    "estado": "SUSTITUIDA el 21/11/2026 por orden del propietario (voz del archivo). Antes: voz oficial aprobada el 19/11.",
     "proveedor": "elevenlabs",
     "modelo": "eleven_v4",
     "voice_id": "kQwUFpYQ184OVlnMEzlm",

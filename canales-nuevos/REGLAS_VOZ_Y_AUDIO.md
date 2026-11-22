@@ -11,6 +11,14 @@ Las mismas que «Datos Curiosos». Decidido por el propietario el 19/11/2026.
 
 ## Voz (idéntica a Datos Curiosos)
 
+**Voz oficial desde el 22/11/2026** (propietario: «QUIERO QUE UTILICES LA VOZ DEL ARCHIVO PARA LA CREACIÓN DE LOS SHORTS», «sin elevenlabs» y «aplica también las reglas de audio que teníamos con la otra voz»):
+- La voz es la del archivo del propietario («curiosidades281»), clonada en local con **Qwen3-TTS** (`pipeline/voz_qwen.py`, referencia en `assets/voz/oficial-qwen/`), sin ElevenLabs. Es la misma en los 4 canales.
+- Se aplican **TODAS las reglas de audio de antes** (`docs/voz-narracion.md`): guion que arranca con una pregunta, «preparación, + dato.», golpes cortos, pausas de 0,3–0,5 s, ningún silencio de más de 0,8 s, variación de tono ≥ 3,8 st, arranque ≥ +5 st, 150–185 pal/min, Whisper ≥ 95 %, −14 LUFS, pico ≤ −1 dB, sin estirar el audio, **sin música** y efectos con ducking.
+- Si una narración no lo cumple, se repite hasta 3 veces y se avisa en el informe.
+- «datoscuriosin» (ElevenLabs) queda como voz anterior y no se usa.
+
+### Configuración anterior (hasta el 22/11, ya no se usa)
+
 | Parámetro | Valor |
 |---|---|
 | Herramienta | ElevenLabs, modelo **`eleven_v4`** |

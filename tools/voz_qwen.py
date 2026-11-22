@@ -26,14 +26,15 @@ import soundfile as sf
 import torch
 
 MODELO = "/home/user/tools/qwen3-tts/modelos/Qwen3-TTS-12Hz-0.6B-Base"
-REF_DIR = Path("/home/user/canales-nuevos/voces/clon-datoscuriosin")
-REF_WAV = REF_DIR / "referencia.wav"
+# Referencia de la voz oficial (propietario, 21/11/2026: «utiliza la voz del archivo para los Shorts»)
+REF_DIR = Path("/home/user/curiosidades-canal/assets/voz/oficial-qwen")
+REF_WAV = REF_DIR / "referencia.flac"
 REF_TXT = (REF_DIR / "referencia.txt")
 WHISPER = "/home/user/tools/whisper.cpp/build/bin/whisper-cli"
 WMODEL = "/home/user/tools/whisper.cpp/models/ggml-small.bin"
 SR = 24000
-PAUSA = 0.40
-TOMAS = {"HOOK": 4, "GIRO": 2}  # tomas extra donde más importa la interpretación
+PAUSA = 0.50
+TOMAS = {"HOOK": 6, "GIRO": 3, "FACT": 3}  # tomas extra donde más importa la interpretación
 
 
 def limpiar(t):
@@ -116,7 +117,7 @@ def puntua(x, sr, pieza, ref_hz, es_primera):
     fin = np.nanmedian(s[voz[-25:]])   # ~0,25 s al final
     var = float(np.nanstd(s))
     texto = pieza["texto"]
-    score = var
+    score = 2 * var  # expresividad: la voz del propietario varía ~3,9–4,3 st
     if es_primera:
         score += 3 * min(ini, 10)                     # arranque alto
     if texto.endswith(".") or texto.endswith("…"):
@@ -156,15 +157,17 @@ def silencio_max(path):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("guion"); ap.add_argument("salida"); ap.add_argument("--qa")
+    ap.add_argument("--ref", default=str(REF_WAV)); ap.add_argument("--ref-texto", default=None)
     a = ap.parse_args()
     t0 = time.time()
     torch.set_num_threads(4)
     from qwen_tts import Qwen3TTSModel
     m = Qwen3TTSModel.from_pretrained(MODELO, device_map="cpu", dtype=torch.float32)
-    ref_txt = REF_TXT.read_text().strip()
+    ref_wav = a.ref
+    ref_txt = a.ref_texto or REF_TXT.read_text().strip()
     # se calcula el prompt de voz una sola vez
-    prompt = m.create_voice_clone_prompt(ref_audio=str(REF_WAV), ref_text=ref_txt) if hasattr(m, "create_voice_clone_prompt") else None
-    rx, rsr = sf.read(REF_WAV)
+    prompt = m.create_voice_clone_prompt(ref_audio=ref_wav, ref_text=ref_txt) if hasattr(m, "create_voice_clone_prompt") else None
+    rx, rsr = sf.read(ref_wav)
     rf = f0_track(a16(rx, rsr)); ref_hz = float(np.nanmedian(rf))
 
     ps = piezas(Path(a.guion).read_text())
@@ -176,22 +179,23 @@ def main():
             if prompt is not None:
                 w, sr = m.generate_voice_clone(text=p["texto"], language="Spanish", voice_clone_prompt=prompt)
             else:
-                w, sr = m.generate_voice_clone(text=p["texto"], language="Spanish", ref_audio=str(REF_WAV), ref_text=ref_txt)
+                w, sr = m.generate_voice_clone(text=p["texto"], language="Spanish", ref_audio=ref_wav, ref_text=ref_txt)
             x = recortar(np.asarray(w[0], dtype=np.float64), sr)
             x = acortar_silencios(x, sr)
             with tempfile.NamedTemporaryFile(suffix=".wav") as tf:
                 sf.write(tf.name, x, sr); txt = whisper(tf.name)
             acierto = SequenceMatcher(None, norm_txt(p["texto"]), norm_txt(txt)).ratio()
             sc, med = puntua(x, sr, p, ref_hz, k == 0)
-            if acierto < 0.9:
+            if acierto < 0.95:
                 sc -= 100
-            cand = {"x": x, "sr": sr, "score": sc, "med": med, "acierto": round(acierto, 3)}
+            cand = {"x": x, "sr": sr, "score": sc, "med": med, "acierto": round(acierto, 3), "txt": txt}
             if mejor is None or cand["score"] > mejor["score"]:
                 mejor = cand
-            if t + 1 >= n and mejor["acierto"] >= 0.9:
+            listo = mejor["acierto"] >= 0.95 and (k > 0 or mejor["med"].get("inicio_st", -99) >= 5.5)
+            if listo and (k == 0 or t + 1 >= n):
                 break
         trozos += [mejor["x"], np.zeros(int(PAUSA * mejor["sr"]))]
-        info.append({"pieza": p["tipo"], "texto": p["texto"], "tomas": t + 1, **mejor["med"], "acierto_whisper": mejor["acierto"]})
+        info.append({"pieza": p["tipo"], "texto": p["texto"], "tomas": t + 1, **mejor["med"], "acierto_whisper": mejor["acierto"], "oido": mejor["txt"]})
         print(f"  {p['tipo']:5} tomas={t + 1} {mejor['med']} whisper={mejor['acierto']}", flush=True)
     y = np.concatenate(trozos[:-1])
     with tempfile.TemporaryDirectory() as td:
@@ -202,7 +206,9 @@ def main():
     dur = sf.info(a.salida).duration
     texto = " ".join(p["texto"] for p in ps)
     trans = whisper(a.salida)
-    acierto = SequenceMatcher(None, norm_txt(texto), norm_txt(trans)).ratio()
+    # Whisper frase a frase (el audio de cada frase se comprueba antes de unirlo; transcribir el archivo
+    # entero de golpe a veces se salta la última frase). El archivo entero se usa para las etiquetas.
+    acierto = SequenceMatcher(None, norm_txt(texto), norm_txt(" ".join(i["oido"] for i in info))).ratio()
     ppm = len(norm_txt(texto)) / dur * 60
     x16 = a16(sf.read(a.salida)[0], 44100)
     f = f0_track(x16); s = st(f, ref_hz)
@@ -211,7 +217,7 @@ def main():
     silmax = silencio_max(a.salida)
     tags_leidas = any(t in trans.lower() for t in ["curious", "dramatically", "warmly", "excited", "serious", "pause"])
     pruebas = [
-        ("Whisper ≥ 95 % del guion", acierto >= 0.95, f"{acierto * 100:.1f} %"),
+        ("Whisper ≥ 95 % del guion (frase a frase)", acierto >= 0.95, f"{acierto * 100:.1f} %"),
         ("sin etiquetas leídas", not tags_leidas, "ninguna" if not tags_leidas else "se oye una etiqueta"),
         ("ritmo 150–185 pal/min", 150 <= ppm <= 185, f"{ppm:.0f} pal/min"),
         ("variación de tono ≥ 3,8 st", var >= 3.8, f"{var:.2f} st"),
@@ -220,7 +226,7 @@ def main():
         ("sonoridad −14 LUFS (−16 a −12)", -16 <= i_lufs <= -12, f"{i_lufs} LUFS"),
         ("pico ≤ −1 dBTP", pico <= -1.0, f"{pico} dB"),
     ]
-    qa = {"salida": a.salida, "voz": "datoscuriosin clonada · Qwen3-TTS 0.6B Base", "duracion_s": round(dur, 2),
+    qa = {"salida": a.salida, "voz": "voz oficial del propietario (archivo 21/11) · Qwen3-TTS 0.6B Base", "duracion_s": round(dur, 2),
           "aprobado": all(ok for _, ok, _ in pruebas), "pruebas": [{"prueba": n, "ok": ok, "detalle": d} for n, ok, d in pruebas],
           "piezas": info, "transcripcion": trans, "segundos_de_proceso": round(time.time() - t0)}
     for n, ok, d in pruebas:

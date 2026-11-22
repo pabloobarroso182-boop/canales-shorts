@@ -180,6 +180,15 @@ Horas aproximadas, en hora de Madrid. El detalle técnico de cada cambio está e
 - DaVinci Resolve no se puede instalar: requiere registro en Blackmagic, tarjeta gráfica y pantalla.
 - Añadidos al script de inicio del entorno.
 
+## 22/11/2026 (Madrid) — Voz nueva: la del archivo del propietario, con las mismas reglas de audio
+- **Propietario:** «QUIERO QUE UTILICES LA VOZ DEL ARCHIVO PARA LA CREACIÓN DE LOS SHORTS», «sin elevenlabs» y «aplica también las reglas de audio que teníamos con la otra voz».
+- Es la voz «curiosidades281» (identificada con ECAPA, 0,907). En ElevenLabs ya no existía y la clave no permite crear voces, así que se clona en local con Qwen3-TTS (referencia en `assets/voz/oficial-qwen/`, `pipeline/voz_qwen.py`).
+- `config/publicacion.json` → voz_estandar = qwen3_tts. «datoscuriosin» queda como voz anterior.
+- `make_short.py` aplica las reglas de `docs/voz-narracion.md` y repite la narración hasta 3 veces si no pasa el control de calidad.
+- Última prueba completa (la miel): 7 de 8 controles. Falla la variación de tono (3,4 frente a 3,8 st; la voz real tiene 3,9–4,3). Ajuste pendiente.
+- Actualizados INSTRUCCIONES, las reglas de los canales nuevos, CLAUDE.md, voz-narracion y la tarea de las 18:00, que sigue en pausa hasta el 1/12.
+- Pendiente: añadir Qwen3-TTS y su modelo al script de inicio del entorno.
+
 ## 21/11/2026 · 18:07 (Madrid) — Tarea de las 18:00: máquina nueva, sin producción
 - La tarea programada (`trig_01NRREUj9QpXoSgbyj8R9sLn`, creada el 21/11 a las 00:55) arrancó en un servidor nuevo: `/home/user/curiosidades-canal` no existía.
 - **Recuperado desde GitHub** (copia del 21/11 01:27) a `/home/user/` según `INSTRUCCIONES_SHORTS.md` §8. Como manda la tarea en ese caso, **no se ha producido nada** (ni Shorts del 22/11).

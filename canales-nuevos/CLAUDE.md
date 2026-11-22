@@ -9,7 +9,7 @@ Responde siempre en español. «Datos Curiosos» (`/home/user/curiosidades-canal
 
 **Marca:** `marca/` contiene los perfiles de 800×800, los banners de 2560×1440 y los de 4096×2304 para móvil, y `LEEME.md`.
 
-**Voz y audio:** las MISMAS reglas que Datos Curiosos (propietario, 19/11) → `REGLAS_VOZ_Y_AUDIO.md`.
+**Voz y audio:** las MISMAS reglas que Datos Curiosos → `REGLAS_VOZ_Y_AUDIO.md`. **Desde el 22/11 la voz es la del archivo del propietario, con Qwen3-TTS (sin ElevenLabs) y las mismas reglas de audio.** Lo de abajo es la configuración anterior.
 - Voz ElevenLabs `eleven_v4` «datoscuriosin» `kQwUFpYQ184OVlnMEzlm`, `es`, 0,5 / 0,85.
 - Sin música, efectos con *ducking*, −14 LUFS, sin estirar el audio y control de calidad con Whisper.
 

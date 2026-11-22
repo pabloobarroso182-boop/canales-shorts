@@ -97,6 +97,8 @@ def choose_provider(spec: dict) -> tuple[str, str]:
     if forced == "kokoro":
         return "kokoro", "forzado por TTS_PROVIDER (solo pruebas internas: NO es la voz oficial)"
     est = CONFIG["voz_estandar"]
+    if est.get("proveedor") == "qwen3_tts":  # voz oficial desde el 21/11: la del archivo del propietario, local
+        return "elevenlabs_v4", f"voz oficial {est['nombre_voz']} · {est['modelo']} (local, sin ElevenLabs)"
     chars = sum(len(sc["voz"]) for sc in spec["escenas"])
     ok, why = eleven_available(chars)
     if not ok:  # la voz oficial no se sustituye nunca por otra en silencio
@@ -104,9 +106,43 @@ def choose_provider(spec: dict) -> tuple[str, str]:
     return "elevenlabs_v4", f"voz oficial {est['nombre_voz']} · {est['modelo']} · {why}"
 
 
+def texto_por_piezas(texto: str) -> str:
+    """Una pieza por línea para voz_qwen.py (corta tras . ? ! … conservando las etiquetas)."""
+    partes = re.split(r"(?<=[.?!…])\s+", texto.strip())
+    return "\n".join(f"[{'HOOK' if i == 0 else 'FACT'}] {p}" for i, p in enumerate(partes) if p.strip())
+
+
 def tts_oficial(texto: str, dest: Path) -> dict:
-    """Narración completa con la voz oficial (Eleven v4) en una sola petición."""
+    """Narración completa con la voz oficial.
+    Desde el 21/11/2026 (propietario: «utiliza la voz del archivo para la creación de los Shorts»):
+    voz del archivo del propietario clonada con Qwen3-TTS (local, sin ElevenLabs), aplicando las reglas
+    de docs/voz-narracion.md con pipeline/voz_qwen.py. Antes: ElevenLabs v4 + «datoscuriosin»."""
     est = CONFIG["voz_estandar"]
+    if est.get("proveedor") == "qwen3_tts":
+        guion = dest.with_suffix(".guion.txt")
+        guion.write_text(texto_por_piezas(texto) + "\n")
+        # Mismas reglas de audio que con la voz anterior (propietario, 22/11): docs/voz-narracion.md.
+        # Si la narración no pasa el control de calidad, se repite (hasta 3 intentos) y se queda la mejor.
+        mejor = None
+        for intento in range(3):
+            tmp = dest.with_name(f"{dest.stem}-intento{intento}.wav")
+            qa_p = tmp.with_suffix(".qa.json")
+            run([est["python"], str(Path(__file__).parent / "voz_qwen.py"), str(guion), str(tmp),
+                 "--qa", str(qa_p), "--ref", str(ROOT / est["referencia"]),
+                 "--ref-texto", (ROOT / est["referencia_texto"]).read_text().strip()])
+            qa = json.loads(qa_p.read_text())
+            n_ok = sum(p["ok"] for p in qa["pruebas"])
+            if mejor is None or n_ok > mejor[0]:
+                mejor = (n_ok, tmp, qa)
+            if qa["aprobado"]:
+                break
+        shutil.copy(mejor[1], dest)
+        dest.with_suffix(".qa.json").write_text(json.dumps(mejor[2], ensure_ascii=False, indent=1))
+        if not mejor[2]["aprobado"]:
+            fallos = [p["prueba"] for p in mejor[2]["pruebas"] if not p["ok"]]
+            print(f"  ⚠ la voz no pasa todas las reglas de audio tras 3 intentos: {fallos} (se avisa en el INFORME)")
+        return {"proveedor": "qwen3_tts", "modelo": est["modelo"], "voice_id": est["voice_id"], "nombre": est["nombre_voz"],
+                "idioma": est.get("idioma", "es"), "ajustes": est["ajustes"], "caracteres": len(texto)}
     body = {
         "text": texto,
         "model_id": est["modelo"],

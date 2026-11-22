@@ -46,9 +46,11 @@ La marca de cada canal (perfil 800×800 y banners de 2560×1440 y de 4096×2304 
 - Cada Short lleva **título y, justo después, la etiqueta `#shorts`** (por ejemplo «Los VIKINGOS nunca llevaron cuernos 🪖❌ #shorts»), además de descripción y hashtags (`metadata.json`). Lo garantiza la producción (propietario, 20/11).
 
 ## 3. Voz (la misma en TODOS los Shorts de los 4 canales)
-- **ElevenLabs, modelo `eleven_v4`, voz «datoscuriosin» `kQwUFpYQ184OVlnMEzlm`**, idioma `es` (español de España), estabilidad **0,5** y similitud **0,85**.
-- No se cambia ni se «mejora». No se usan otras voces: ni de catálogo, ni diseñadas, ni el clon de Qwen3-TTS.
-- Si los caracteres no llegan, se hacen los Shorts que se puedan con esta voz y se avisa al propietario. Nunca se compra nada.
+**Voz oficial desde el 22/11/2026** (propietario: «QUIERO QUE UTILICES LA VOZ DEL ARCHIVO PARA LA CREACIÓN DE LOS SHORTS», «sin elevenlabs» y «aplica también las reglas de audio que teníamos con la otra voz»):
+- La voz es la del archivo del propietario («curiosidades281»), clonada en local con **Qwen3-TTS** (`pipeline/voz_qwen.py`, referencia en `assets/voz/oficial-qwen/`), sin ElevenLabs. Es la misma en los 4 canales.
+- Se aplican **TODAS las reglas de audio de antes** (`docs/voz-narracion.md`): guion que arranca con una pregunta, «preparación, + dato.», golpes cortos, pausas de 0,3–0,5 s, ningún silencio de más de 0,8 s, variación de tono ≥ 3,8 st, arranque ≥ +5 st, 150–185 pal/min, Whisper ≥ 95 %, −14 LUFS, pico ≤ −1 dB, sin estirar el audio, **sin música** y efectos con ducking.
+- Si una narración no lo cumple, se repite hasta 3 veces y se avisa en el informe.
+- «datoscuriosin» (ElevenLabs) queda como voz anterior y no se usa.
 
 ## 4. Entonación y audio
 - Primera frase: una pregunta o una afirmación imposible, de 8 a 12 palabras, que arranca alta (al menos +5 semitonos).
