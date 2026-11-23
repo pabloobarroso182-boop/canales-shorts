@@ -205,3 +205,12 @@ Horas aproximadas, en hora de Madrid. El detalle técnico de cada cambio está e
 - En `PRODUCCION/2026-11-23/` ya había trabajo de otra sesión: el 01 (flamencos) con guion, metadatos, miniatura y QA, y el 02 (ciclo nasal) solo con guion. No se ha tocado.
 - Créditos: ElevenLabs 0 gastados (no consultados); vidIQ 0 gastados (no consultados).
 - Copia en GitHub: `guardar_en_github.sh` no pudo subir a `main` (este entorno rechaza el push directo a la rama principal). La copia se subió a la rama **`copia-22-11-2026`**; hay que fusionarla en `main` (o volver a lanzar el guardado en el entorno «Default»).
+
+## 23/11/2026 · 18:15 (Madrid) — Tarea de las 18:00: máquina nueva por tercer día, sin producción
+- La tarea arrancó otra vez en un servidor nuevo: `/home/user/curiosidades-canal` no existía.
+- **Recuperado desde GitHub** (rama `copia-22-11-2026`, commit `d959b65`, la más reciente) a `/home/user/` según `INSTRUCCIONES_SHORTS.md` §8.
+- Como manda la tarea en ese caso, **no se ha producido nada**: ni vidIQ, ni voces, ni renders de los Shorts del 24/11.
+- El entorno sigue sin poder producir: faltan whisper-cli y su modelo, paquetes de Python, dependencias de Remotion, Kokoro, Blender, Inkscape, Synfig y Manim; la API de ElevenLabs da 403 en el proxy y no hay clave en el entorno. No es el entorno «Default» con el script de inicio.
+- Siguen sin respuesta del propietario: (1) ¿sigue la pausa hasta el 1/12?; (2) ¿voz ElevenLabs «datoscuriosin» (tarea) o Qwen3-TTS (reglas del 22/11)?; (3) que la tarea use el entorno «Default»; (4) fusionar la rama de copia en `main` (el push directo a `main` está bloqueado aquí).
+- Créditos: ElevenLabs 0 gastados (no consultable); vidIQ 0 gastados (no consultados; el 22/11 quedaban 62).
+- Copia en GitHub: rama `copia-23-11-2026`.

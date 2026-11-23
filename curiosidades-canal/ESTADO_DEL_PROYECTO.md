@@ -1,5 +1,7 @@
 # Estado del proyecto
 
+> **23/11/2026 18:15 (Madrid):** tercer día seguido en máquina nueva: proyecto recuperado desde GitHub y **sin producción de los Shorts del 24/11**. Mismas preguntas pendientes que el 22/11 (pausa, voz, entorno «Default», fusionar la rama de copia en main).
+
 > **22/11/2026 18:15 (Madrid):** la tarea de las 18:00 arrancó en una máquina nueva. Proyecto recuperado desde GitHub; **no se produjeron los Shorts del 23/11** (la tarea lo prohíbe en máquina nueva y además faltan Whisper, Remotion y las librerías de Python). Pendiente del propietario: (1) confirmar si sigue la pausa hasta el 1/12; (2) aclarar la voz (la tarea dice ElevenLabs, las reglas del 22/11 dicen Qwen3-TTS); (3) que la tarea use el entorno «Default» con el script de inicio. En `PRODUCCION/2026-11-23/` hay un Short (01, flamencos) a medio hacer y el guion del 02.
 
 _Última actualización: 19/11/2026 (Madrid)._
