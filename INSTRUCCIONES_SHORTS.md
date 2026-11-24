@@ -153,6 +153,12 @@ El servidor es temporal: si la conversación se cierra o pasa tiempo sin uso, se
 - **Script de inicio del entorno: YA CONFIGURADO (20/11/2026).** Cada servidor nuevo instala solo Whisper (y su modelo), Earshot, PyTorch, Kokoro, las librerías de Python, Blender, Inkscape, Synfig y Manim. Las dependencias de Remotion de cada proyecto se instalan al recuperarlo, con `scripts/setup.sh`.
 - Con los dos configurados, en cualquier conversación nueva todo estaría listo desde el principio.
 
+## 8 bis. Proyecto de vídeos largos (YouTube Long Form) — también en GitHub
+- Carpeta `youtube-long-form/` (desde el 24/11/2026 se guarda en el mismo repositorio, por orden del propietario). Al recuperar, copiarla a `/home/user/youtube-long-form/`.
+- Encargo vigente: `youtube-long-form/ENCARGO-v2.md` (29 apartados + «30. Instrucciones finales obligatorias»). Estado y decisiones: `youtube-long-form/PLAN.md`.
+- **Se empieza el 1 de diciembre de 2026.** Antes de gastar créditos, comprobar si el propietario ya contrató vidIQ Boost y ElevenLabs Pro (`vidiq_balance` y `/v1/user/subscription` de ElevenLabs, gratis). No crear canales, no publicar, no comprar, no producir vídeos hasta que apruebe la propuesta (fase 3).
+- En una conversación nueva, volver a crear el recordatorio del 1 de diciembre si aún no ha pasado esa fecha.
+
 ## 9. Pendiente
 - Crear los 3 canales nuevos en YouTube y comprobar sus @.
 - Conectar YouTube: proyecto de Google Cloud y el `.json` de la credencial (guía en `curiosidades-canal/docs/conexion-youtube.md`).
