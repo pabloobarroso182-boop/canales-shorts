@@ -140,7 +140,7 @@ El servidor es temporal: si la conversación se cierra o pasa tiempo sin uso, se
 **Lo que hace Claude en la conversación nueva:**
 - Descomprimir y seguir `curiosidades-canal/RECUPERACION.md`.
 - Las herramientas ya vienen instaladas por el script de inicio del entorno. Solo falta `bash curiosidades-canal/scripts/setup.sh` para las dependencias de Remotion del proyecto (unos minutos). Qwen3-TTS no se instala porque no se usa.
-- **Volver a crear la tarea diaria de las 18:00** (Europe/Madrid), porque está ligada a la conversación anterior y no pasa sola a la nueva. El nombre, el horario y el mensaje exacto están en `curiosidades-canal/docs/tarea-diaria-18h.md`: hay que copiarlos tal cual.
+- **Tarea diaria de las 18:00: EN PAUSA desde el 24/11/2026.** Solo se vuelve a crear cuando el propietario diga que se retoman los Shorts. Entonces: crear la tarea diaria de las 18:00 (Europe/Madrid), porque está ligada a la conversación anterior y no pasa sola a la nueva. El nombre, el horario y el mensaje exacto están en `curiosidades-canal/docs/tarea-diaria-18h.md`: hay que copiarlos tal cual.
 
 **Lo que NO se pierde, porque está en la cuenta y no en el servidor:**
 - la clave de ElevenLabs (guardada como secreto del entorno);
@@ -156,8 +156,8 @@ El servidor es temporal: si la conversación se cierra o pasa tiempo sin uso, se
 ## 8 bis. Proyecto de vídeos largos (YouTube Long Form) — también en GitHub
 - Carpeta `youtube-long-form/` (desde el 24/11/2026 se guarda en el mismo repositorio, por orden del propietario). Al recuperar, copiarla a `/home/user/youtube-long-form/`.
 - Encargo vigente: `youtube-long-form/ENCARGO-v2.md` (29 apartados + «30. Instrucciones finales obligatorias»). Estado y decisiones: `youtube-long-form/PLAN.md`.
-- **Se empieza el 1 de diciembre de 2026.** Antes de gastar créditos, comprobar si el propietario ya contrató vidIQ Boost y ElevenLabs Pro (`vidiq_balance` y `/v1/user/subscription` de ElevenLabs, gratis). No crear canales, no publicar, no comprar, no producir vídeos hasta que apruebe la propuesta (fase 3).
-- En una conversación nueva, volver a crear el recordatorio del 1 de diciembre si aún no ha pasado esa fecha.
+- **PAUSA TOTAL (24/11/2026, propietario: «desactívala y quiero que empieces cuando yo te diga»):** ni los Shorts ni los vídeos largos se retoman hasta que el propietario lo diga expresamente. Ya no hay fecha fija (antes, 1 de diciembre). Todas las tareas programadas están desactivadas. Cuando lo diga: antes de gastar créditos, comprobar si el propietario ya contrató vidIQ Boost y ElevenLabs Pro (`vidiq_balance` y `/v1/user/subscription` de ElevenLabs, gratis). No crear canales, no publicar, no comprar, no producir vídeos hasta que apruebe la propuesta (fase 3).
+- En una conversación nueva: recuperar los proyectos, pero NO crear tareas programadas ni recordatorios ni empezar nada hasta que el propietario lo diga.
 
 ## 9. Pendiente
 - Crear los 3 canales nuevos en YouTube y comprobar sus @.

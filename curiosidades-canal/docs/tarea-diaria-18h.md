@@ -1,5 +1,8 @@
 # Tarea programada diaria · 18:00 (Europe/Madrid)
 
+> **EN PAUSA desde el 24/11/2026** (propietario: «desactívala y quiero que empieces cuando yo te diga»). No crear esta tarea hasta que él diga que se retoman los Shorts.
+
+
 Para volver a crearla en una sesión nueva: tarea programada con `cron_expression` = `CRON_TZ=Europe/Madrid 0 18 * * *`, nombre «Producción diaria 18:00 · Datos Curiosos (4 Shorts)» y este mensaje, copiado tal cual:
 
 ---

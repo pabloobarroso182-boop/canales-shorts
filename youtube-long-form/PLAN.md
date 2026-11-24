@@ -29,3 +29,4 @@ Comprobado el 24/11 (VERIFICADO por API, gratis):
 
 Pendiente del propietario: el presupuesto de créditos de vidIQ y el idioma de los canales.
 - **24/11/2026:** el propietario autoriza guardar este proyecto en GitHub, en el mismo repositorio que los Shorts (`pabloobarroso182-boop/canales-shorts`, carpeta `youtube-long-form/`).
+- **24/11/2026:** PAUSA TOTAL. Propietario: «quiero que empieces cuando yo te diga». Ya no hay fecha fija (el recordatorio del 1/12 está desactivado). No se empieza nada hasta que él lo diga.
